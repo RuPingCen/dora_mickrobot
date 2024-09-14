@@ -1,0 +1,782 @@
+Press 'w', 'a', 'd', 'x' for forward, left, right, back
+Press arrow keys for up, left, right, down
+Press 's' to stop
+Press '1', '2', '3' to set speed value ratio
+Press 'q' to quit
+1726282629.897716
+1726282629.9516
+1726282630.052229
+1726282630.151289
+1726282630.25202
+1726282630.352111
+1726282630.451643
+1726282630.551144
+1726282630.651739
+1726282630.751288
+1726282630.851797
+1726282630.951422
+1726282631.052099
+1726282631.15154
+1726282631.25194
+1726282631.351508
+Arrow key up
+1726282631.451128
+1726282631.551561
+1726282631.651179
+1726282631.751855
+1726282631.851791
+1726282631.951251
+1726282632.051228
+1726282632.151738
+1726282632.251234
+1726282632.351594
+1726282632.451969
+1726282632.551509
+1726282632.65201
+1726282632.751578
+1726282632.851329
+1726282632.951852
+1726282633.051731
+1726282633.151534
+1726282633.251212
+1726282633.351907
+1726282633.451493
+1726282633.552143
+1726282633.651812
+1726282633.751447
+1726282633.851145
+1726282633.951892
+1726282634.051489
+1726282634.15207
+Moving forward
+1726282634.251707
+1726282634.352072
+1726282634.451587
+1726282634.551748
+1726282634.651583
+Moving forward
+Moving forward
+Moving forward
+1726282634.751709
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282634.851331
+Moving forward
+Moving forward
+Moving forward
+1726282634.951794
+Moving forward
+Moving forward
+Moving forward
+1726282635.051463
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282635.152016
+Moving forward
+Moving forward
+Moving forward
+1726282635.251495
+Moving forward
+Moving forward
+Moving forward
+1726282635.352079
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282635.451579
+Moving forward
+Moving forward
+Moving forward
+1726282635.551086
+Moving forward
+Moving forward
+Moving forward
+1726282635.651648
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282635.751099
+Moving forward
+Moving forward
+Moving forward
+1726282635.851537
+Moving forward
+Moving forward
+Moving forward
+1726282635.951984
+Moving forward
+Moving forward
+Moving forward
+1726282636.051423
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282636.152034
+Moving forward
+Moving forward
+Moving forward
+1726282636.251638
+Moving forward
+Moving forward
+Moving forward
+1726282636.35129
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282636.45179
+Moving forward
+Moving forward
+Moving forward
+1726282636.551415
+Moving forward
+Moving forward
+Moving forward
+1726282636.651946
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282636.751433
+Moving forward
+Moving forward
+Moving forward
+1726282636.851791
+Moving forward
+Moving forward
+Moving forward
+1726282636.951299
+Moving forward
+1726282637.051799
+1726282637.151403
+1726282637.251988
+1726282637.351557
+1726282637.451314
+1726282637.551465
+1726282637.652028
+1726282637.75157
+1726282637.852354
+1726282637.952026
+1726282638.052386
+1726282638.15228
+1726282638.252137
+1726282638.352052
+1726282638.451565
+1726282638.552225
+1726282638.652286
+1726282638.751828
+1726282638.85216
+1726282638.9525
+1726282639.051919
+1726282639.152165
+1726282639.252439
+1726282639.35126
+1726282639.452379
+1726282639.552412
+1726282639.652351
+1726282639.75216
+1726282639.852154
+1726282639.952178
+1726282640.052248
+1726282640.152087
+1726282640.252261
+1726282640.352431
+1726282640.451766
+1726282640.551627
+1726282640.652279
+1726282640.752259
+1726282640.852649
+1726282640.951955
+1726282641.051968
+1726282641.152403
+1726282641.252112
+1726282641.352524
+1726282641.452532
+Moving forward
+1726282641.552051
+1726282641.652111
+1726282641.752277
+1726282641.85248
+1726282641.952411
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282642.052169
+Moving forward
+Moving forward
+Moving forward
+1726282642.152152
+Moving forward
+Moving forward
+Moving forward
+1726282642.251799
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282642.351911
+Moving forward
+Moving forward
+Moving forward
+1726282642.451653
+Moving forward
+Moving forward
+Moving forward
+1726282642.552069
+Moving forward
+Moving forward
+Moving forward
+1726282642.65139
+Moving forward
+Moving forward
+Moving forward
+Moving forward
+1726282642.751801
+Moving forward
+Moving forward
+Moving forward
+1726282642.852313
+Moving forward
+1726282642.952316
+Turning left
+1726282643.051435
+1726282643.152253
+1726282643.252379
+1726282643.352499
+1726282643.451665
+Turning left
+1726282643.551779
+Turning left
+Turning left
+Turning left
+1726282643.651624
+Turning left
+Turning left
+Turning left
+Turning left
+1726282643.751949
+Turning left
+Turning left
+Turning left
+1726282643.851655
+Turning left
+Turning left
+Turning left
+1726282643.952129
+Turning left
+Turning left
+Turning left
+1726282644.051745
+Turning left
+Turning left
+Turning left
+Turning left
+1726282644.151428
+Turning left
+Turning left
+Turning left
+1726282644.252
+Turning left
+Turning left
+Turning left
+1726282644.351576
+Turning left
+Turning left
+Turning left
+1726282644.452087
+Turning left
+Turning left
+Turning left
+Turning left
+1726282644.551622
+Turning left
+Turning left
+Turning left
+1726282644.651937
+Turning left
+Turning left
+Turning left
+1726282644.75172
+Turning left
+Turning left
+Turning left
+Turning left
+1726282644.851764
+Turning left
+Turning left
+Turning left
+1726282644.951638
+Turning left
+Turning left
+Turning left
+1726282645.051843
+1726282645.152305
+1726282645.252447
+1726282645.352622
+1726282645.451878
+1726282645.552194
+1726282645.651551
+1726282645.752446
+1726282645.851578
+1726282645.952254
+Turning left
+1726282646.051942
+1726282646.151924
+1726282646.252474
+1726282646.35196
+1726282646.451974
+Turning left
+Turning left
+1726282646.551844
+Turning left
+Turning left
+Turning left
+Turning left
+1726282646.651813
+Turning left
+Turning left
+Turning left
+1726282646.752214
+Turning left
+Turning left
+Turning left
+1726282646.851561
+Turning left
+Turning left
+Turning left
+1726282646.952395
+Turning left
+Turning left
+Turning left
+Turning left
+1726282647.052146
+Turning left
+Turning left
+Turning left
+1726282647.151625
+Turning left
+Turning left
+1726282647.252597
+1726282647.352698
+Moving forward
+1726282647.452057
+1726282647.552168
+1726282647.652526
+1726282647.75208
+1726282647.851975
+Moving forward
+Moving forward
+Moving forward
+1726282647.952358
+Moving forward
+Moving forward
+Moving forward
+1726282648.052094
+Moving forward
+1726282648.152317
+Turning left
+1726282648.252166
+1726282648.352302
+1726282648.451803
+1726282648.552071
+1726282648.652656
+Turning left
+Turning left
+1726282648.751551
+Turning left
+Turning left
+Turning left
+1726282648.85196
+Turning left
+Turning left
+Turning left
+1726282648.95211
+Turning left
+Turning left
+Turning left
+Turning left
+1726282649.051526
+Turning left
+Turning left
+Turning left
+1726282649.151711
+Turning left
+Turning left
+Turning left
+1726282649.251857
+Turning left
+Turning left
+Turning left
+1726282649.35148
+Turning left
+Turning left
+Turning left
+Turning left
+1726282649.452373
+Turning left
+Turning left
+Turning left
+1726282649.551893
+Turning left
+Turning left
+Turning left
+1726282649.651816
+Turning left
+Turning left
+Turning left
+Turning left
+1726282649.751528
+Turning left
+Turning left
+Turning left
+1726282649.851922
+Turning left
+Turning left
+Turning left
+1726282649.951823
+Turning left
+Turning left
+Turning left
+Turning left
+1726282650.051851
+Turning left
+Turning left
+Turning left
+1726282650.151735
+Turning left
+Turning left
+Turning left
+1726282650.252116
+Turning left
+Turning left
+Turning left
+1726282650.351501
+Turning left
+Turning left
+Turning left
+Turning left
+1726282650.4521
+Turning left
+Turning left
+Turning left
+1726282650.55236
+Turning left
+Turning left
+Turning left
+1726282650.652086
+Turning left
+Turning left
+1726282650.752692
+1726282650.851671
+Turning left
+1726282650.952069
+1726282651.051951
+Turning left
+1726282651.151973
+1726282651.251707
+Turning left
+1726282651.352159
+1726282651.452421
+Turning left
+1726282651.552167
+1726282651.65261
+1726282651.751468
+1726282651.852034
+1726282651.951258
+Turning left
+1726282652.052281
+1726282652.152128
+1726282652.251621
+1726282652.352185
+1726282652.452236
+Turning left
+Turning left
+1726282652.552379
+Turning left
+Turning left
+Turning left
+Turning left
+1726282652.651747
+Turning left
+Turning left
+Turning left
+1726282652.752102
+Turning left
+Turning left
+Turning left
+1726282652.85209
+Turning left
+Turning left
+Turning left
+1726282652.952015
+Turning left
+Turning left
+Turning left
+Turning left
+1726282653.051435
+Turning left
+Turning left
+Turning left
+1726282653.151952
+Turning left
+Turning left
+Turning left
+1726282653.251482
+Turning left
+Turning left
+Turning left
+Turning left
+1726282653.35209
+Turning left
+Turning left
+Turning left
+1726282653.451343
+Turning left
+Turning left
+Turning left
+1726282653.551643
+Turning left
+Turning left
+Turning left
+1726282653.651109
+Turning left
+Turning left
+Turning left
+Turning left
+1726282653.751495
+Turning left
+Turning left
+Turning left
+1726282653.851842
+Turning left
+Turning left
+Turning left
+1726282653.95129
+Turning left
+Turning left
+Turning left
+Turning left
+1726282654.051693
+Turning left
+Turning left
+Turning left
+1726282654.151155
+Turning left
+Turning left
+Turning left
+1726282654.251659
+Turning left
+Turning left
+Turning left
+Turning left
+1726282654.351316
+Turning left
+Turning left
+Turning left
+1726282654.451276
+Turning left
+Turning left
+Turning left
+1726282654.551821
+Turning left
+Turning left
+Turning left
+1726282654.65142
+Turning left
+Turning left
+Turning left
+Turning left
+1726282654.751981
+Turning left
+Turning left
+Turning left
+1726282654.851368
+Turning left
+Turning left
+Turning left
+1726282654.951751
+Turning left
+Turning left
+Turning left
+Turning left
+1726282655.051604
+Turning left
+Turning left
+1726282655.151646
+1726282655.252034
+1726282655.352453
+Turning left
+1726282655.452517
+Turning left
+1726282655.552126
+1726282655.651738
+1726282655.752522
+Turning left
+1726282655.852142
+1726282655.952329
+1726282656.052585
+Turning left
+1726282656.152383
+1726282656.251663
+Turning left
+1726282656.351718
+1726282656.451632
+Turning left
+1726282656.552305
+1726282656.652348
+1726282656.752232
+1726282656.851962
+1726282656.952018
+1726282657.052346
+1726282657.1517
+1726282657.251741
+1726282657.352166
+1726282657.452204
+1726282657.552341
+1726282657.652536
+1726282657.752325
+1726282657.852109
+Stopping
+1726282657.95236
+1726282658.052306
+1726282658.151686
+1726282658.252079
+1726282658.352207
+Turning left
+1726282658.452192
+1726282658.551474
+1726282658.651958
+1726282658.752025
+1726282658.851819
+Turning left
+Turning left
+Turning left
+1726282658.951398
+Turning left
+Turning left
+Turning left
+1726282659.051659
+Turning left
+Turning left
+Turning left
+1726282659.152176
+Turning left
+Turning left
+Turning left
+Turning left
+1726282659.251809
+Turning left
+Turning left
+Turning left
+1726282659.352352
+Turning left
+Turning left
+Turning left
+1726282659.451929
+Turning left
+Turning left
+Turning left
+Turning left
+1726282659.551346
+Turning left
+Turning left
+Turning left
+1726282659.651463
+Turning left
+Turning left
+Turning left
+1726282659.752021
+Turning left
+Turning left
+Turning left
+1726282659.851586
+Turning left
+Turning left
+Turning left
+Turning left
+1726282659.951435
+Turning left
+Turning left
+Turning left
+1726282660.051877
+Turning left
+Turning left
+Turning left
+1726282660.151356
+Turning left
+Turning left
+Turning left
+Turning left
+1726282660.251758
+Turning left
+Turning left
+Turning left
+1726282660.352279
+Turning left
+Turning left
+Turning left
+1726282660.451773
+Turning left
+Turning left
+Turning left
+1726282660.552136
+Turning left
+Turning left
+Turning left
+Turning left
+1726282660.651513
+Turning left
+Turning left
+Turning left
+1726282660.75209
+Turning left
+Turning left
+Turning left
+1726282660.851921
+Turning left
+Turning left
+Turning left
+Turning left
+1726282660.95201
+Turning left
+Turning left
+Turning left
+1726282661.051639
+Turning left
+Turning left
+Turning left
+1726282661.152448
+Turning left
+Turning left
+Turning left
+1726282661.25205
+Turning left
+1726282661.351865
+1726282661.451756
+1726282661.55166
+1726282661.652298
+1726282661.752518
+1726282661.852922
+1726282661.951962
+1726282662.051915
+1726282662.151953
+1726282662.252144
+1726282662.352312
+1726282662.452404
+1726282662.552653
+1726282662.651815
+1726282662.752018
+1726282662.852105
+1726282662.952079
+1726282663.051898
+Quitting
+Last key pressed: quit
+Speed value ratio: 1

@@ -1,0 +1,4349 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281530,325.737 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 520
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281530,526.039 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.002000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+odom: 0.038000	0.000000	0.000000
+odom: 0.038000	0.000000	0.000000
+odom: 0.065000	0.000000	0.000000
+odom: 0.065000	0.000000	0.000000
+odom: 0.064000	0.000000	0.000000
+odom: 0.064000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.006000	0.000000	0.000000
+odom: 0.006000	0.000000	0.000000
+odom: 0.006000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+Twist event count: 0 data_seq null time is: 1726281530,526.208 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.266 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.326 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.384 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.443 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.511 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.584 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.658 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.72 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,526.787 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,527.937 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.017 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.064 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.105 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.141 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.177 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.212 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.251 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.29 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,528.338 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,542.463 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281530,562.064 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.009000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,582.631 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  9.30071e-07  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,602.409 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.058000	0.000000	0.000000
+odom: 0.058000	0.000000	0.000000
+odom: 0.064000	0.000000	0.000000
+odom: 0.064000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  2.22707e-06  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,622.598 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.048000	0.000000	0.000000
+odom: 0.048000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  2.75397e-06  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,642.864 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.007000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  2.75397e-06  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,661.981 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.006000	0.000000	0.000000
+odom: 0.006000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  3.14355e-06  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,682.479 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.049000	0.000000	0.000000
+odom: 0.049000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  4.62937e-06  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,701.95 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.097000	0.000000	0.000000
+odom: 0.097000	0.000000	0.000000
+odom: 0.097000	0.000000	0.000000
+odom: 0.097000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  6.64139e-06  position_y:  0   position_w: 0
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,722.682 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.078000	0.000000	-0.335000
+odom: 0.078000	0.000000	-0.335000
+odom: 0.078000	0.000000	-0.335000
+odom: 0.050000	0.000000	-0.302000
+curr_time: 1.72628e+09 s 
+  position_x:  7.60698e-06  position_y:  0   position_w: -5.83219e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,742.067 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.043000	0.000000	0.000000
+odom: 0.043000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  7.60698e-06  position_y:  0   position_w: -5.83219e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,762.261 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  7.60698e-06  position_y:  0   position_w: -5.83219e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,782.148 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.008000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  8.08191e-06  position_y:  -2.76988e-12   position_w: -5.83219e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,801.937 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.046000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  9.35316e-06  position_y:  -1.0184e-11   position_w: -5.83219e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,822.324 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.089000	0.000000	0.000000
+odom: 0.089000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.14903e-05  position_y:  -2.26485e-11   position_w: -5.83219e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,842.082 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.130000	0.000000	0.000000
+odom: 0.130000	0.000000	0.000000
+odom: 0.130000	0.000000	0.000000
+odom: 0.147000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.45395e-05  position_y:  -4.04317e-11   position_w: -5.83219e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,862.8 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.144000	0.000000	0.273000
+odom: 0.144000	0.000000	0.273000
+odom: 0.144000	0.000000	0.273000
+odom: 0.113000	0.000000	0.260000
+curr_time: 1.72628e+09 s 
+  position_x:  1.67217e-05  position_y:  -5.31589e-11   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,882.139 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.073000	0.000000	0.000000
+odom: 0.073000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.69883e-05  position_y:  -5.33751e-11   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,902.737 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.007000	0.000000	0.000000
+odom: -0.007000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.69883e-05  position_y:  -5.33751e-11   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,921.937 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.74544e-05  position_y:  -5.37532e-11   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,942.232 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.043000	0.000000	0.000000
+odom: 0.043000	0.000000	0.000000
+odom: 0.067000	0.000000	0.000000
+odom: 0.067000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.87962e-05  position_y:  -5.48416e-11   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,962.35 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.106000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+odom: 0.132000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  2.14083e-05  position_y:  -5.69602e-11   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281530,982.135 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.160000	0.000000	0.000000
+odom: 0.160000	0.000000	0.000000
+odom: 0.160000	0.000000	0.000000
+odom: 0.189000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188836  position_y:  -1.53205e-07   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,2.454 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.206000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.18884  position_y:  -1.53208e-07   position_w: -8.111e-07
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,21.818 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.184000	0.000000	0.333000
+odom: 0.184000	0.000000	0.333000
+odom: 0.115000	0.000000	0.509000
+odom: 0.115000	0.000000	0.509000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188842  position_y:  -1.5321e-07   position_w: 9.74679e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,42.392 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.065000	0.000000	0.382000
+odom: 0.065000	0.000000	0.382000
+odom: 0.035000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188843  position_y:  -1.53203e-07   position_w: 9.74679e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,62.262 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.025000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188844  position_y:  -1.53197e-07   position_w: 9.74679e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,82.275 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.050000	0.000000	0.000000
+odom: 0.050000	0.000000	0.000000
+odom: 0.072000	0.000000	0.000000
+odom: 0.072000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188845  position_y:  -1.53183e-07   position_w: 9.74679e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,102.542 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.103000	0.000000	0.000000
+odom: 0.103000	0.000000	0.000000
+odom: 0.112000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188847  position_y:  -1.53161e-07   position_w: 9.74679e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,122.486 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.120000	0.000000	0.000000
+odom: 0.120000	0.000000	0.000000
+odom: 0.120000	0.000000	0.000000
+odom: 0.142000	0.000000	-0.254000
+curr_time: 1.72628e+09 s 
+  position_x:  0.18885  position_y:  -1.53134e-07   position_w: 4.72045e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,142.285 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.168000	0.000000	-0.252000
+odom: 0.168000	0.000000	-0.252000
+odom: 0.168000	0.000000	-0.252000
+odom: 0.181000	0.000000	-0.311000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188854  position_y:  -1.53117e-07   position_w: -1.58215e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,162.379 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.166000	0.000000	-0.351000
+odom: 0.166000	0.000000	-0.351000
+odom: 0.138000	0.000000	-0.337000
+odom: 0.138000	0.000000	-0.337000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188857  position_y:  -1.53121e-07   position_w: -8.41165e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,182.721 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.085000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188857  position_y:  -1.53127e-07   position_w: -8.41165e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,201.982 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.010000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188857  position_y:  -1.53127e-07   position_w: -8.41165e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,222.575 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.014000	0.000000	0.000000
+odom: 0.014000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188858  position_y:  -1.53129e-07   position_w: -8.41165e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,242.351 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281531,261.869 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281531,282.115 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281531,302.415 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.205000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188874  position_y:  -1.53268e-07   position_w: -8.41165e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,322.783 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.171000	0.000000	-0.439000
+odom: 0.118000	0.000000	-0.147000
+odom: 0.118000	0.000000	-0.147000
+odom: 0.118000	0.000000	-0.147000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188877  position_y:  -1.53288e-07   position_w: -1.13556e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,342.804 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.069000	0.000000	-0.391000
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188877  position_y:  -1.53297e-07   position_w: -1.13556e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,361.889 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.032000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188878  position_y:  -1.53307e-07   position_w: -1.13556e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,382.604 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.062000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+odom: 0.092000	0.000000	0.000000
+odom: 0.092000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.18888  position_y:  -1.53328e-07   position_w: -1.13556e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,402.3 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.114000	0.000000	0.000000
+odom: 0.114000	0.000000	0.000000
+odom: 0.114000	0.000000	0.000000
+odom: 0.121000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188882  position_y:  -1.53355e-07   position_w: -1.13556e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,421.718 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.132000	0.000000	0.000000
+odom: 0.132000	0.000000	0.000000
+odom: 0.132000	0.000000	0.000000
+odom: 0.153000	0.000000	0.000000
+odom: 0.153000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188886  position_y:  -1.53391e-07   position_w: -1.13556e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,442.352 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.174000	0.000000	0.000000
+odom: 0.174000	0.000000	0.000000
+odom: 0.193000	0.000000	0.000000
+odom: 0.193000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.18889  position_y:  -1.53435e-07   position_w: -1.13556e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,462.566 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.186000	0.000000	0.319000
+odom: 0.156000	0.000000	0.304000
+odom: 0.156000	0.000000	0.304000
+odom: 0.156000	0.000000	0.304000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188893  position_y:  -1.5347e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,482.765 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.099000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188893  position_y:  -1.53475e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,502.236 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.017000	0.000000	0.000000
+odom: 0.017000	0.000000	0.000000
+odom: 0.017000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188894  position_y:  -1.53477e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,522.428 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.046000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188895  position_y:  -1.53483e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,542.13 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.085000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+odom: 0.105000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188897  position_y:  -1.53494e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,562.394 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.103000	0.000000	0.000000
+odom: 0.103000	0.000000	0.000000
+odom: 0.103000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188899  position_y:  -1.53502e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,582.225 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.056000	0.000000	0.000000
+odom: 0.056000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188899  position_y:  -1.53504e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,602.858 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188899  position_y:  -1.53504e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,622.169 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.008000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188899  position_y:  -1.53506e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,642.148 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.067000	0.000000	0.000000
+odom: 0.067000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188901  position_y:  -1.53513e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,661.947 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.106000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+odom: 0.132000	0.000000	0.000000
+odom: 0.132000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188903  position_y:  -1.53527e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,682.42 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.159000	0.000000	0.000000
+odom: 0.159000	0.000000	0.000000
+odom: 0.159000	0.000000	0.000000
+odom: 0.188000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188907  position_y:  -1.53547e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,702.428 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.209000	0.000000	0.000000
+odom: 0.209000	0.000000	0.000000
+odom: 0.209000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188911  position_y:  -1.53569e-07   position_w: -5.26738e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,722.945 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.166000	0.000000	-0.354000
+odom: 0.166000	0.000000	-0.354000
+odom: 0.113000	0.000000	-0.461000
+odom: 0.113000	0.000000	-0.461000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188914  position_y:  -1.53581e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,742.063 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.058000	0.000000	-0.352000
+odom: 0.028000	0.000000	0.000000
+odom: 0.028000	0.000000	0.000000
+odom: 0.028000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188914  position_y:  -1.53589e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,762.296 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.015000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188914  position_y:  -1.53589e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,782.32 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.010000	0.000000	0.000000
+odom: 0.018000	0.000000	0.000000
+odom: 0.018000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188915  position_y:  -1.53594e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,802.73 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.053000	0.000000	0.000000
+odom: 0.053000	0.000000	0.000000
+odom: 0.075000	0.000000	0.000000
+odom: 0.075000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188916  position_y:  -1.53614e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,821.852 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.095000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+odom: 0.116000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188918  position_y:  -1.53648e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,842.587 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.138000	0.000000	0.000000
+odom: 0.138000	0.000000	0.000000
+odom: 0.138000	0.000000	0.000000
+odom: 0.153000	0.000000	0.000000
+odom: 0.153000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188921  position_y:  -1.53689e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,861.869 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.166000	0.000000	0.000000
+odom: 0.117000	0.000000	0.000000
+odom: 0.117000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188924  position_y:  -1.53722e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,882.099 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.063000	0.000000	0.000000
+odom: 0.014000	0.000000	0.000000
+odom: 0.014000	0.000000	0.000000
+odom: 0.014000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188924  position_y:  -1.53726e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,902.147 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188924  position_y:  -1.5373e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,922.311 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.033000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.188925  position_y:  -1.53742e-07   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281531,941.989 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281531,962.245 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281531,982.947 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281532,2.282 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.221000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409722  position_y:  -3.2582e-06   position_w: -1.40603e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,21.868 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.187000	0.000000	0.296000
+odom: 0.187000	0.000000	0.296000
+odom: 0.144000	0.000000	0.412000
+odom: 0.144000	0.000000	0.412000
+odom: 0.144000	0.000000	0.412000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409725  position_y:  -3.25824e-06   position_w: -5.41616e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,42.787 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.115000	0.000000	0.123000
+odom: 0.115000	0.000000	0.123000
+odom: 0.111000	0.000000	0.384000
+odom: 0.111000	0.000000	0.384000
+odom: 0.111000	0.000000	0.384000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409727  position_y:  -3.25825e-06   position_w: 1.99962e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,62.151 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.131000	0.000000	0.377000
+odom: 0.131000	0.000000	0.377000
+odom: 0.152000	0.000000	0.407000
+odom: 0.152000	0.000000	0.407000
+curr_time: 1.72628e+09 s 
+  position_x:  0.40973  position_y:  -3.25825e-06   position_w: 1.01507e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,82.077 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.191000	0.000000	0.347000
+odom: 0.191000	0.000000	0.347000
+odom: 0.217000	0.000000	0.359000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409734  position_y:  -3.2582e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,102.219 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.238000	0.000000	0.328000
+odom: 0.238000	0.000000	0.328000
+odom: 0.238000	0.000000	0.328000
+odom: 0.237000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409739  position_y:  -3.25812e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,123.192 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.214000	0.000000	0.000000
+odom: 0.214000	0.000000	0.000000
+odom: 0.214000	0.000000	0.000000
+odom: 0.169000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409742  position_y:  -3.25806e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,142.084 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.134000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+odom: 0.066000	0.000000	0.000000
+odom: 0.066000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409744  position_y:  -3.25804e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,162.249 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.029000	0.000000	0.000000
+odom: 0.029000	0.000000	0.000000
+odom: 0.014000	0.000000	0.000000
+odom: 0.014000	0.000000	0.000000
+odom: 0.014000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409744  position_y:  -3.25803e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,182.354 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409744  position_y:  -3.25803e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,202.18 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.038000	0.000000	0.000000
+odom: 0.038000	0.000000	0.000000
+odom: 0.057000	0.000000	0.000000
+odom: 0.057000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409745  position_y:  -3.25801e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,222.385 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.087000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+odom: 0.105000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409748  position_y:  -3.25797e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,242.665 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.127000	0.000000	0.000000
+odom: 0.127000	0.000000	0.000000
+odom: 0.127000	0.000000	0.000000
+odom: 0.145000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.40975  position_y:  -3.25792e-06   position_w: 1.73404e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,261.919 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.143000	0.000000	0.267000
+odom: 0.143000	0.000000	0.267000
+odom: 0.143000	0.000000	0.267000
+odom: 0.115000	0.000000	0.266000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409753  position_y:  -3.25788e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,282.19 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.075000	0.000000	0.000000
+odom: 0.075000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409753  position_y:  -3.25787e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,302.562 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.007000	0.000000	0.000000
+odom: -0.007000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409753  position_y:  -3.25787e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,321.894 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409753  position_y:  -3.25786e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,342.342 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.044000	0.000000	0.000000
+odom: 0.044000	0.000000	0.000000
+odom: 0.068000	0.000000	0.000000
+odom: 0.068000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409755  position_y:  -3.25783e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,362.275 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.107000	0.000000	0.000000
+odom: 0.107000	0.000000	0.000000
+odom: 0.133000	0.000000	0.000000
+odom: 0.133000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409757  position_y:  -3.25777e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,382.06 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.189000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409761  position_y:  -3.25769e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,402.557 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.208000	0.000000	0.000000
+odom: 0.208000	0.000000	0.000000
+odom: 0.208000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409765  position_y:  -3.2576e-06   position_w: 2.27311e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,421.964 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.183000	0.000000	0.334000
+odom: 0.183000	0.000000	0.334000
+odom: 0.114000	0.000000	0.507000
+odom: 0.114000	0.000000	0.507000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409768  position_y:  -3.25754e-06   position_w: 3.28848e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,442.199 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.066000	0.000000	0.381000
+odom: 0.066000	0.000000	0.381000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409768  position_y:  -3.25752e-06   position_w: 3.28848e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,462.502 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.027000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+odom: 0.032000	0.000000	0.000000
+odom: 0.032000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409769  position_y:  -3.2575e-06   position_w: 3.28848e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,482.064 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.050000	0.000000	0.000000
+odom: 0.050000	0.000000	0.000000
+odom: 0.072000	0.000000	0.000000
+odom: 0.072000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.40977  position_y:  -3.25745e-06   position_w: 3.28848e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,502.644 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.104000	0.000000	0.000000
+odom: 0.104000	0.000000	0.000000
+odom: 0.112000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409773  position_y:  -3.25738e-06   position_w: 3.28848e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,522.847 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.120000	0.000000	0.000000
+odom: 0.120000	0.000000	0.000000
+odom: 0.120000	0.000000	0.000000
+odom: 0.140000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409775  position_y:  -3.25729e-06   position_w: 3.28848e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,542.217 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.167000	0.000000	0.000000
+odom: 0.167000	0.000000	0.000000
+odom: 0.167000	0.000000	0.000000
+odom: 0.181000	0.000000	-0.310000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409779  position_y:  -3.25717e-06   position_w: 2.66764e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,562.245 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.165000	0.000000	-0.354000
+odom: 0.165000	0.000000	-0.354000
+odom: 0.137000	0.000000	-0.341000
+odom: 0.137000	0.000000	-0.341000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409782  position_y:  -3.25709e-06   position_w: 1.96846e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,582.867 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.083000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409782  position_y:  -3.25708e-06   position_w: 1.96846e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,601.889 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.021000	0.000000	0.000000
+odom: 0.021000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409783  position_y:  -3.25707e-06   position_w: 1.96846e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,622.262 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.036000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+odom: 0.044000	0.000000	0.000000
+odom: 0.044000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409784  position_y:  -3.25705e-06   position_w: 1.96846e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,642.507 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.082000	0.000000	0.000000
+odom: 0.082000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409785  position_y:  -3.25702e-06   position_w: 1.96846e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,662.905 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281532,682.021 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281532,702.324 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281532,722.444 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.195000	0.000000	-0.312000
+odom: 0.140000	0.000000	-0.386000
+odom: 0.140000	0.000000	-0.386000
+odom: 0.140000	0.000000	-0.386000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409797  position_y:  -3.2568e-06   position_w: -1.10533e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,742.59 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.086000	0.000000	-0.305000
+odom: 0.048000	0.000000	0.000000
+odom: 0.048000	0.000000	0.000000
+odom: 0.048000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409798  position_y:  -3.25681e-06   position_w: -1.10533e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,762.447 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.033000	0.000000	0.000000
+odom: 0.048000	0.000000	0.000000
+odom: 0.048000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409798  position_y:  -3.25682e-06   position_w: -1.10533e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,782.021 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.068000	0.000000	0.000000
+odom: 0.068000	0.000000	0.000000
+odom: 0.096000	0.000000	0.000000
+odom: 0.096000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.4098  position_y:  -3.25684e-06   position_w: -1.10533e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,802.785 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.115000	0.000000	0.000000
+odom: 0.115000	0.000000	0.000000
+odom: 0.115000	0.000000	0.000000
+odom: 0.112000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409803  position_y:  -3.25687e-06   position_w: -1.10533e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,822.039 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.093000	0.000000	0.301000
+odom: 0.093000	0.000000	0.301000
+odom: 0.093000	0.000000	0.301000
+odom: 0.062000	0.000000	0.313000
+odom: 0.062000	0.000000	0.313000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409804  position_y:  -3.25688e-06   position_w: -4.78482e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,842.266 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.038000	0.000000	0.000000
+odom: 0.038000	0.000000	0.000000
+odom: 0.008000	0.000000	0.000000
+odom: 0.008000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409804  position_y:  -3.25688e-06   position_w: -4.78482e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,862.177 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.002000	0.000000	0.000000
+unrecognize frame 0xac 
+odom: -0.002000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409804  position_y:  -3.25688e-06   position_w: -4.78482e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,882.37 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.006000	0.000000	0.000000
+odom: 0.021000	0.000000	0.000000
+odom: 0.021000	0.000000	0.000000
+odom: 0.021000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409804  position_y:  -3.25688e-06   position_w: -4.78482e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,902.375 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409806  position_y:  -3.25689e-06   position_w: -4.78482e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,922.61 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.089000	0.000000	0.000000
+odom: 0.089000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409808  position_y:  -3.2569e-06   position_w: -4.78482e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,942.081 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.130000	0.000000	0.000000
+odom: 0.130000	0.000000	0.000000
+odom: 0.130000	0.000000	0.000000
+odom: 0.148000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409811  position_y:  -3.25691e-06   position_w: -4.78482e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,962.232 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.144000	0.000000	-0.269000
+odom: 0.144000	0.000000	-0.269000
+odom: 0.144000	0.000000	-0.269000
+odom: 0.111000	0.000000	-0.251000
+odom: 0.111000	0.000000	-0.251000
+curr_time: 1.72628e+09 s 
+  position_x:  0.409813  position_y:  -3.25692e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281532,981.905 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.076000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421801  position_y:  -3.37311e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,2.788 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.006000	0.000000	0.000000
+odom: -0.006000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421801  position_y:  -3.37311e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,22.053 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.012000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421802  position_y:  -3.37312e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,42.98 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.070000	0.000000	0.000000
+odom: 0.070000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421803  position_y:  -3.37313e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,62.306 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.109000	0.000000	0.000000
+odom: 0.109000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421806  position_y:  -3.37316e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,82.452 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.190000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421809  position_y:  -3.3732e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,102.341 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.207000	0.000000	0.000000
+odom: 0.207000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421813  position_y:  -3.37323e-06   position_w: -9.69195e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,122.215 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.160000	0.000000	-0.386000
+odom: 0.160000	0.000000	-0.386000
+odom: 0.111000	0.000000	-0.477000
+odom: 0.111000	0.000000	-0.477000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421816  position_y:  -3.37326e-06   position_w: -1.93586e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,142.484 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.060000	0.000000	-0.345000
+odom: 0.030000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421816  position_y:  -3.37327e-06   position_w: -1.93586e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,162.757 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.023000	0.000000	0.000000
+odom: 0.033000	0.000000	0.000000
+odom: 0.033000	0.000000	0.000000
+odom: 0.033000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421817  position_y:  -3.37328e-06   position_w: -1.93586e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,182.63 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.055000	0.000000	0.000000
+odom: 0.074000	0.000000	0.000000
+odom: 0.074000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421818  position_y:  -3.37331e-06   position_w: -1.93586e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,202.851 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.105000	0.000000	0.000000
+odom: 0.105000	0.000000	0.000000
+odom: 0.113000	0.000000	0.000000
+odom: 0.113000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421821  position_y:  -3.37335e-06   position_w: -1.93586e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,222.254 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.124000	0.000000	0.000000
+odom: 0.124000	0.000000	0.000000
+odom: 0.124000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421824  position_y:  -3.37341e-06   position_w: -1.93586e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,242.769 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.172000	0.000000	0.000000
+odom: 0.172000	0.000000	0.000000
+odom: 0.184000	0.000000	0.279000
+odom: 0.184000	0.000000	0.279000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421827  position_y:  -3.37348e-06   position_w: -1.39041e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,262.398 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.194000	0.000000	0.270000
+odom: 0.194000	0.000000	0.270000
+odom: 0.146000	0.000000	0.334000
+odom: 0.146000	0.000000	0.334000
+curr_time: 1.72628e+09 s 
+  position_x:  0.42183  position_y:  -3.37352e-06   position_w: -7.13539e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,282.656 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.092000	0.000000	0.000000
+odom: 0.041000	0.000000	0.000000
+odom: 0.041000	0.000000	0.000000
+odom: 0.041000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421831  position_y:  -3.37353e-06   position_w: -7.13539e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,302.046 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.019000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421831  position_y:  -3.37353e-06   position_w: -7.13539e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,322.554 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.056000	0.000000	0.000000
+odom: 0.056000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421833  position_y:  -3.37354e-06   position_w: -7.13539e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,342.147 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.087000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+odom: 0.115000	0.000000	0.000000
+odom: 0.115000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421835  position_y:  -3.37355e-06   position_w: -7.13539e-06
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,362.283 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281533,382.654 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281533,402.185 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281533,421.898 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.158000	0.000000	0.484000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421847  position_y:  -3.37364e-06   position_w: 3.15218e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,442.012 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.131000	0.000000	0.482000
+odom: 0.131000	0.000000	0.482000
+odom: 0.128000	0.000000	0.432000
+odom: 0.128000	0.000000	0.432000
+curr_time: 1.72628e+09 s 
+  position_x:  0.42185  position_y:  -3.37356e-06   position_w: 4.01735e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,462.181 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.149000	0.000000	0.412000
+odom: 0.149000	0.000000	0.412000
+odom: 0.171000	0.000000	0.453000
+odom: 0.171000	0.000000	0.453000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421853  position_y:  -3.37343e-06   position_w: 4.92458e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,482.258 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.211000	0.000000	0.400000
+odom: 0.211000	0.000000	0.400000
+odom: 0.236000	0.000000	0.404000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421858  position_y:  -3.3732e-06   position_w: 5.72405e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,501.875 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.255000	0.000000	0.372000
+odom: 0.255000	0.000000	0.372000
+odom: 0.255000	0.000000	0.372000
+odom: 0.256000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421864  position_y:  -3.37288e-06   position_w: 5.72405e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,523.121 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.229000	0.000000	0.000000
+odom: 0.229000	0.000000	0.000000
+odom: 0.229000	0.000000	0.000000
+odom: 0.183000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421867  position_y:  -3.37268e-06   position_w: 5.72405e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,542.909 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.146000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+odom: 0.083000	0.000000	0.267000
+odom: 0.083000	0.000000	0.267000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421869  position_y:  -3.37259e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,562.019 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.046000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421869  position_y:  -3.37256e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,582.186 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.005000	0.000000	0.000000
+odom: 0.005000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421869  position_y:  -3.37256e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,602.083 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.008000	0.000000	0.000000
+odom: 0.008000	0.000000	0.000000
+odom: 0.020000	0.000000	0.000000
+odom: 0.020000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.42187  position_y:  -3.37253e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,622.791 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.039000	0.000000	0.000000
+odom: 0.039000	0.000000	0.000000
+odom: 0.057000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421871  position_y:  -3.37246e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,642.196 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.081000	0.000000	0.000000
+odom: 0.081000	0.000000	0.000000
+odom: 0.081000	0.000000	0.000000
+odom: 0.111000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421873  position_y:  -3.37232e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,661.898 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.140000	0.000000	0.000000
+odom: 0.140000	0.000000	0.000000
+odom: 0.140000	0.000000	0.000000
+odom: 0.169000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421876  position_y:  -3.37211e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,682.477 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.190000	0.000000	0.000000
+odom: 0.190000	0.000000	0.000000
+odom: 0.222000	0.000000	0.000000
+odom: 0.222000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421881  position_y:  -3.37183e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,702.639 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.239000	0.000000	0.000000
+odom: 0.239000	0.000000	0.000000
+odom: 0.235000	0.000000	0.000000
+odom: 0.235000	0.000000	0.000000
+odom: 0.235000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421886  position_y:  -3.37154e-06   position_w: 6.23331e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,722.242 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.205000	0.000000	0.000000
+odom: 0.205000	0.000000	0.000000
+odom: 0.160000	0.000000	-0.344000
+odom: 0.160000	0.000000	-0.344000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421889  position_y:  -3.37134e-06   position_w: 5.53617e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,742.471 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.128000	0.000000	-0.359000
+odom: 0.128000	0.000000	-0.359000
+odom: 0.120000	0.000000	-0.292000
+odom: 0.120000	0.000000	-0.292000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421891  position_y:  -3.3712e-06   position_w: 4.94442e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,762.716 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.151000	0.000000	-0.311000
+odom: 0.151000	0.000000	-0.311000
+odom: 0.182000	0.000000	-0.306000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421895  position_y:  -3.37102e-06   position_w: 4.33159e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,782.763 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.210000	0.000000	-0.299000
+odom: 0.210000	0.000000	-0.299000
+odom: 0.210000	0.000000	-0.299000
+odom: 0.235000	0.000000	-0.296000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421899  position_y:  -3.37083e-06   position_w: 3.75996e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,802.091 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.253000	0.000000	0.000000
+odom: 0.253000	0.000000	0.000000
+odom: 0.253000	0.000000	0.000000
+odom: 0.250000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421904  position_y:  -3.37064e-06   position_w: 3.75996e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,822.066 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.243000	0.000000	0.000000
+odom: 0.243000	0.000000	0.000000
+odom: 0.185000	0.000000	0.000000
+odom: 0.185000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421908  position_y:  -3.3705e-06   position_w: 3.75996e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,842.434 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.137000	0.000000	0.000000
+odom: 0.137000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.42191  position_y:  -3.37043e-06   position_w: 3.75996e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,862.125 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.080000	0.000000	-0.255000
+odom: 0.095000	0.000000	-0.309000
+odom: 0.095000	0.000000	-0.309000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421912  position_y:  -3.37035e-06   position_w: 3.11902e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,882.812 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.120000	0.000000	-0.296000
+odom: 0.120000	0.000000	-0.296000
+odom: 0.139000	0.000000	0.000000
+odom: 0.139000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421915  position_y:  -3.37027e-06   position_w: 3.11902e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,902.088 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.167000	0.000000	-0.312000
+odom: 0.167000	0.000000	-0.312000
+odom: 0.178000	0.000000	-0.430000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421918  position_y:  -3.37016e-06   position_w: 2.23734e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,922.411 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.186000	0.000000	-0.516000
+odom: 0.186000	0.000000	-0.516000
+odom: 0.186000	0.000000	-0.516000
+odom: 0.203000	0.000000	-0.537000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421922  position_y:  -3.37006e-06   position_w: 1.14908e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,942.879 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.231000	0.000000	-0.552000
+odom: 0.231000	0.000000	-0.552000
+odom: 0.231000	0.000000	-0.552000
+odom: 0.248000	0.000000	-0.604000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421927  position_y:  -3.37001e-06   position_w: -2.95609e-08
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,961.746 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.234000	0.000000	-0.638000
+odom: 0.234000	0.000000	-0.638000
+odom: 0.203000	0.000000	-0.624000
+odom: 0.203000	0.000000	-0.624000
+curr_time: 1.72628e+09 s 
+  position_x:  0.421931  position_y:  -3.37001e-06   position_w: -1.29728e-05
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281533,982.601 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.149000	0.000000	-0.526000
+odom: 0.149000	0.000000	-0.526000
+odom: 0.101000	0.000000	-0.437000
+odom: 0.101000	0.000000	-0.437000
+odom: 0.101000	0.000000	-0.437000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522832  position_y:  -4.67898e-06   position_w: -0.436585
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,2.861 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.079000	0.000000	-0.366000
+odom: 0.079000	0.000000	-0.366000
+odom: 0.085000	0.000000	-0.305000
+odom: 0.085000	0.000000	-0.305000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522834  position_y:  -5.38166e-06   position_w: -0.436591
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,22.446 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.105000	0.000000	-0.257000
+odom: 0.105000	0.000000	-0.257000
+odom: 0.114000	0.000000	0.000000
+odom: 0.114000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522836  position_y:  -6.33558e-06   position_w: -0.436591
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,42.357 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.147000	0.000000	0.000000
+odom: 0.147000	0.000000	0.000000
+odom: 0.175000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522839  position_y:  -7.79993e-06   position_w: -0.436591
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,62.147 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.206000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+odom: 0.206000	0.000000	0.000000
+odom: 0.233000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522843  position_y:  -9.82008e-06   position_w: -0.436591
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,82.454 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.261000	0.000000	0.000000
+odom: 0.261000	0.000000	0.000000
+odom: 0.261000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522848  position_y:  -1.19777e-05   position_w: -0.436591
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,102.128 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281534,122.447 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281534,142.052 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281534,162.397 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.212000	0.000000	-0.728000
+odom: 0.236000	0.000000	-0.685000
+odom: 0.236000	0.000000	-0.685000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522865  position_y:  -2.00196e-05   position_w: -0.436646
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,182.736 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.272000	0.000000	-0.710000
+odom: 0.272000	0.000000	-0.710000
+odom: 0.298000	0.000000	-0.709000
+odom: 0.298000	0.000000	-0.709000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522871  position_y:  -2.25135e-05   position_w: -0.43666
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,202.577 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.317000	0.000000	-0.661000
+odom: 0.317000	0.000000	-0.661000
+odom: 0.317000	0.000000	-0.661000
+odom: 0.314000	0.000000	-0.511000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522876  position_y:  -2.5173e-05   position_w: -0.43667
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,222.634 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.288000	0.000000	-0.348000
+odom: 0.288000	0.000000	-0.348000
+odom: 0.247000	0.000000	-0.331000
+odom: 0.247000	0.000000	-0.331000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522881  position_y:  -2.729e-05   position_w: -0.436677
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,242.88 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.217000	0.000000	-0.540000
+odom: 0.217000	0.000000	-0.540000
+odom: 0.146000	0.000000	-0.536000
+odom: 0.146000	0.000000	-0.536000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522883  position_y:  -2.84972e-05   position_w: -0.436687
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,262.265 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.106000	0.000000	-0.509000
+odom: 0.084000	0.000000	-0.437000
+odom: 0.084000	0.000000	-0.437000
+odom: 0.084000	0.000000	-0.437000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522885  position_y:  -2.92172e-05   position_w: -0.436696
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,282.523 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.072000	0.000000	-0.380000
+odom: 0.064000	0.000000	-0.343000
+odom: 0.064000	0.000000	-0.343000
+odom: 0.064000	0.000000	-0.343000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522886  position_y:  -2.97399e-05   position_w: -0.436703
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,301.866 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.068000	0.000000	-0.348000
+odom: 0.068000	0.000000	-0.348000
+odom: 0.071000	0.000000	-0.337000
+odom: 0.071000	0.000000	-0.337000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522887  position_y:  -3.03557e-05   position_w: -0.43671
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,322.376 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.100000	0.000000	-0.438000
+odom: 0.100000	0.000000	-0.438000
+odom: 0.118000	0.000000	-0.452000
+odom: 0.118000	0.000000	-0.452000
+curr_time: 1.72628e+09 s 
+  position_x:  0.52289  position_y:  -3.13314e-05   position_w: -0.436719
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,341.986 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.142000	0.000000	-0.482000
+odom: 0.142000	0.000000	-0.482000
+odom: 0.142000	0.000000	-0.482000
+odom: 0.160000	0.000000	-0.536000
+odom: 0.160000	0.000000	-0.536000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522893  position_y:  -3.27351e-05   position_w: -0.43673
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,362.707 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.158000	0.000000	-0.569000
+odom: 0.158000	0.000000	-0.569000
+odom: 0.137000	0.000000	-0.502000
+odom: 0.137000	0.000000	-0.502000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522895  position_y:  -3.3868e-05   position_w: -0.43674
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,382.137 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.124000	0.000000	-0.464000
+odom: 0.124000	0.000000	-0.464000
+odom: 0.081000	0.000000	-0.317000
+odom: 0.081000	0.000000	-0.317000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522896  position_y:  -3.45542e-05   position_w: -0.436746
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,402.321 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.056000	0.000000	-0.289000
+odom: 0.045000	0.000000	-0.268000
+odom: 0.045000	0.000000	-0.268000
+odom: 0.045000	0.000000	-0.268000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522897  position_y:  -3.49354e-05   position_w: -0.436751
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,422.437 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.056000	0.000000	-0.251000
+odom: 0.076000	0.000000	-0.263000
+odom: 0.076000	0.000000	-0.263000
+odom: 0.076000	0.000000	-0.263000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522899  position_y:  -3.55639e-05   position_w: -0.436756
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,441.773 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.098000	0.000000	-0.267000
+odom: 0.098000	0.000000	-0.267000
+odom: 0.120000	0.000000	0.000000
+odom: 0.120000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522901  position_y:  -3.65926e-05   position_w: -0.436756
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,462.057 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.156000	0.000000	0.000000
+odom: 0.156000	0.000000	0.000000
+odom: 0.185000	0.000000	0.000000
+odom: 0.185000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522904  position_y:  -3.81972e-05   position_w: -0.436756
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,482.646 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.210000	0.000000	-0.251000
+odom: 0.210000	0.000000	-0.251000
+odom: 0.210000	0.000000	-0.251000
+odom: 0.237000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522909  position_y:  -4.0181e-05   position_w: -0.436756
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,502.454 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.257000	0.000000	-0.299000
+odom: 0.257000	0.000000	-0.299000
+odom: 0.250000	0.000000	-0.454000
+odom: 0.250000	0.000000	-0.454000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522913  position_y:  -4.22737e-05   position_w: -0.436765
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,522.124 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.209000	0.000000	-0.621000
+odom: 0.209000	0.000000	-0.621000
+odom: 0.160000	0.000000	-0.720000
+odom: 0.160000	0.000000	-0.720000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522916  position_y:  -4.3613e-05   position_w: -0.43678
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,542.048 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.109000	0.000000	-0.592000
+odom: 0.078000	0.000000	-0.392000
+odom: 0.078000	0.000000	-0.392000
+odom: 0.078000	0.000000	-0.392000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522917  position_y:  -4.42738e-05   position_w: -0.436788
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,562.153 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.071000	0.000000	-0.286000
+odom: 0.083000	0.000000	-0.285000
+odom: 0.083000	0.000000	-0.285000
+odom: 0.083000	0.000000	-0.285000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522919  position_y:  -4.4977e-05   position_w: -0.436793
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,581.997 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.105000	0.000000	-0.305000
+odom: 0.105000	0.000000	-0.305000
+odom: 0.125000	0.000000	-0.262000
+odom: 0.125000	0.000000	-0.262000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522921  position_y:  -4.60486e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,602.247 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.153000	0.000000	-0.253000
+odom: 0.153000	0.000000	-0.253000
+odom: 0.160000	0.000000	0.000000
+odom: 0.160000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522924  position_y:  -4.73719e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,621.984 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.172000	0.000000	0.000000
+odom: 0.172000	0.000000	0.000000
+odom: 0.172000	0.000000	0.000000
+odom: 0.195000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522928  position_y:  -4.9083e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,642.632 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.221000	0.000000	0.000000
+odom: 0.221000	0.000000	0.000000
+odom: 0.232000	0.000000	0.000000
+odom: 0.232000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522932  position_y:  -5.10018e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,662.106 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.242000	0.000000	0.000000
+odom: 0.242000	0.000000	0.000000
+odom: 0.196000	0.000000	0.000000
+odom: 0.196000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522935  position_y:  -5.26624e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,682.153 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.140000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522937  position_y:  -5.3374e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,702.447 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.059000	0.000000	0.000000
+odom: 0.068000	0.000000	0.000000
+odom: 0.068000	0.000000	0.000000
+odom: 0.068000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522938  position_y:  -5.39569e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,722.603 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.088000	0.000000	-0.259000
+odom: 0.088000	0.000000	-0.259000
+odom: 0.098000	0.000000	0.000000
+odom: 0.098000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.52294  position_y:  -5.47773e-05   position_w: -0.436799
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,742.578 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.127000	0.000000	-0.281000
+odom: 0.127000	0.000000	-0.281000
+odom: 0.158000	0.000000	-0.312000
+odom: 0.158000	0.000000	-0.312000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522943  position_y:  -5.6116e-05   position_w: -0.436805
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,762.59 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.187000	0.000000	-0.303000
+odom: 0.187000	0.000000	-0.303000
+odom: 0.187000	0.000000	-0.303000
+odom: 0.212000	0.000000	-0.276000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522946  position_y:  -5.7848e-05   position_w: -0.43681
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,781.927 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.240000	0.000000	-0.288000
+odom: 0.240000	0.000000	-0.288000
+odom: 0.268000	0.000000	-0.296000
+odom: 0.268000	0.000000	-0.296000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522951  position_y:  -6.01186e-05   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,801.945 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281534,822.202 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281534,842.252 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281534,862.602 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.223000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522968  position_y:  -6.77437e-05   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,882.786 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.251000	0.000000	0.000000
+odom: 0.251000	0.000000	0.000000
+odom: 0.276000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522972  position_y:  -6.99986e-05   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,902.016 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.297000	0.000000	0.000000
+odom: 0.297000	0.000000	0.000000
+odom: 0.297000	0.000000	0.000000
+odom: 0.297000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522978  position_y:  -7.25449e-05   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,922.25 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.270000	0.000000	0.000000
+odom: 0.270000	0.000000	0.000000
+odom: 0.270000	0.000000	0.000000
+odom: 0.223000	0.000000	0.000000
+odom: 0.223000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522982  position_y:  -7.44118e-05   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,941.955 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.172000	0.000000	0.000000
+odom: 0.172000	0.000000	0.000000
+odom: 0.124000	0.000000	0.000000
+odom: 0.124000	0.000000	0.000000
+odom: 0.124000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522984  position_y:  -7.54624e-05   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,962.124 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.085000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+odom: 0.063000	0.000000	0.000000
+odom: 0.063000	0.000000	0.000000
+odom: 0.063000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.522985  position_y:  -7.60153e-05   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281534,982.747 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.055000	0.000000	0.000000
+odom: 0.055000	0.000000	0.000000
+odom: 0.060000	0.000000	0.000000
+odom: 0.060000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577298  position_y:  -0.0254345   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,2.916 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.081000	0.000000	0.000000
+odom: 0.081000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.5773  position_y:  -0.0254354   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,21.814 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.128000	0.000000	0.000000
+odom: 0.128000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577303  position_y:  -0.0254367   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,42.885 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.169000	0.000000	0.000000
+odom: 0.169000	0.000000	0.000000
+odom: 0.169000	0.000000	0.000000
+odom: 0.186000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577306  position_y:  -0.0254382   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,61.974 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.182000	0.000000	0.000000
+odom: 0.182000	0.000000	0.000000
+odom: 0.182000	0.000000	0.000000
+odom: 0.145000	0.000000	0.000000
+odom: 0.145000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577309  position_y:  -0.0254395   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,83.136 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.087000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+odom: 0.028000	0.000000	0.000000
+odom: 0.028000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577309  position_y:  -0.0254397   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,102.753 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.005000	0.000000	0.000000
+odom: -0.005000	0.000000	0.000000
+odom: -0.008000	0.000000	0.000000
+odom: -0.008000	0.000000	0.000000
+odom: -0.008000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577309  position_y:  -0.0254397   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,122.159 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.002000	0.000000	0.000000
+odom: 0.002000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577309  position_y:  -0.0254397   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,142.961 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.006000	0.000000	0.000000
+odom: 0.006000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.57731  position_y:  -0.0254399   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,162.534 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.051000	0.000000	0.000000
+odom: 0.051000	0.000000	0.000000
+odom: 0.079000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577311  position_y:  -0.0254406   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,182.908 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577314  position_y:  -0.0254417   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,202.155 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.152000	0.000000	0.000000
+odom: 0.152000	0.000000	0.000000
+odom: 0.152000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577316  position_y:  -0.025443   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,222.502 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.124000	0.000000	0.362000
+odom: 0.124000	0.000000	0.362000
+odom: 0.088000	0.000000	0.369000
+odom: 0.088000	0.000000	0.369000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577318  position_y:  -0.0254437   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,241.841 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.011000	0.000000	0.000000
+odom: 0.011000	0.000000	0.000000
+odom: 0.011000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577318  position_y:  -0.0254438   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,262.124 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.004000	0.000000	0.000000
+odom: 0.004000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577318  position_y:  -0.025444   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,282.663 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.050000	0.000000	0.000000
+odom: 0.050000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.57732  position_y:  -0.0254446   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,302.794 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.098000	0.000000	0.000000
+odom: 0.098000	0.000000	0.000000
+odom: 0.098000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577322  position_y:  -0.0254455   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,322.146 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.116000	0.000000	0.000000
+odom: 0.116000	0.000000	0.000000
+odom: 0.116000	0.000000	0.000000
+odom: 0.135000	0.000000	-0.272000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577324  position_y:  -0.0254467   position_w: -0.436815
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,342.617 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.163000	0.000000	-0.276000
+odom: 0.163000	0.000000	-0.276000
+odom: 0.163000	0.000000	-0.276000
+odom: 0.178000	0.000000	-0.326000
+odom: 0.178000	0.000000	-0.326000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577327  position_y:  -0.0254481   position_w: -0.436821
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,361.697 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.167000	0.000000	-0.393000
+odom: 0.167000	0.000000	-0.393000
+odom: 0.134000	0.000000	-0.351000
+odom: 0.134000	0.000000	-0.351000
+curr_time: 1.72628e+09 s 
+  position_x:  0.57733  position_y:  -0.0254493   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,382.53 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.083000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.57733  position_y:  -0.0254496   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,402.258 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577331  position_y:  -0.0254498   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,421.736 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.044000	0.000000	0.000000
+odom: 0.044000	0.000000	0.000000
+odom: 0.061000	0.000000	0.000000
+odom: 0.061000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577332  position_y:  -0.0254503   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,442.713 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.084000	0.000000	0.000000
+odom: 0.084000	0.000000	0.000000
+odom: 0.102000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577334  position_y:  -0.0254512   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,462.455 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.102000	0.000000	0.000000
+odom: 0.102000	0.000000	0.000000
+odom: 0.102000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577335  position_y:  -0.0254518   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,482.303 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.043000	0.000000	0.000000
+odom: 0.043000	0.000000	0.000000
+odom: 0.043000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577335  position_y:  -0.0254519   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,502.232 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577335  position_y:  -0.0254519   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,522.545 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577335  position_y:  -0.0254519   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,542.047 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281535,561.845 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281535,582.42 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281535,601.61 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.153000	0.000000	0.000000
+odom: 0.148000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577346  position_y:  -0.025457   position_w: -0.436828
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,622.418 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.125000	0.000000	0.358000
+odom: 0.125000	0.000000	0.358000
+odom: 0.085000	0.000000	0.379000
+odom: 0.085000	0.000000	0.379000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577348  position_y:  -0.0254577   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,642.461 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.041000	0.000000	0.000000
+odom: 0.041000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577348  position_y:  -0.0254577   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,662.64 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.005000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577348  position_y:  -0.0254577   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,681.955 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.009000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577348  position_y:  -0.0254579   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,702.251 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.071000	0.000000	0.000000
+odom: 0.071000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.57735  position_y:  -0.0254585   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,722.683 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.091000	0.000000	0.000000
+odom: 0.091000	0.000000	0.000000
+odom: 0.091000	0.000000	0.000000
+odom: 0.109000	0.000000	0.000000
+odom: 0.109000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577352  position_y:  -0.0254594   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,742.89 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.131000	0.000000	0.000000
+odom: 0.131000	0.000000	0.000000
+odom: 0.131000	0.000000	0.000000
+odom: 0.148000	0.000000	0.000000
+odom: 0.148000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577354  position_y:  -0.0254607   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,762.747 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.141000	0.000000	-0.267000
+odom: 0.141000	0.000000	-0.267000
+odom: 0.105000	0.000000	0.000000
+odom: 0.105000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577356  position_y:  -0.0254616   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,782.473 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.054000	0.000000	0.000000
+odom: 0.054000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577356  position_y:  -0.0254616   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,801.774 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.006000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577356  position_y:  -0.0254616   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,822.566 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.011000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577357  position_y:  -0.0254618   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,842.478 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.046000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577358  position_y:  -0.0254625   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,862.138 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.109000	0.000000	0.000000
+odom: 0.109000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577361  position_y:  -0.0254637   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,882.51 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.162000	0.000000	0.000000
+odom: 0.162000	0.000000	0.000000
+odom: 0.162000	0.000000	0.000000
+odom: 0.191000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577364  position_y:  -0.0254652   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,901.986 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.208000	0.000000	0.000000
+odom: 0.208000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577368  position_y:  -0.0254669   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,921.909 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.165000	0.000000	-0.411000
+odom: 0.165000	0.000000	-0.411000
+odom: 0.111000	0.000000	-0.476000
+odom: 0.111000	0.000000	-0.476000
+odom: 0.111000	0.000000	-0.476000
+curr_time: 1.72628e+09 s 
+  position_x:  0.57737  position_y:  -0.0254678   position_w: -0.43683
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,941.855 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.059000	0.000000	-0.341000
+odom: 0.030000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.57737  position_y:  -0.0254681   position_w: -0.43683
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,962.803 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.023000	0.000000	0.000000
+odom: 0.032000	0.000000	0.000000
+odom: 0.032000	0.000000	0.000000
+odom: 0.032000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.577371  position_y:  -0.0254684   position_w: -0.43683
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281535,982.256 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.054000	0.000000	0.000000
+odom: 0.054000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654314  position_y:  -0.061394   position_w: -0.43683
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,2.62 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.114000	0.000000	0.000000
+odom: 0.114000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654316  position_y:  -0.061395   position_w: -0.43683
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,22.695 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.123000	0.000000	0.000000
+odom: 0.123000	0.000000	0.000000
+odom: 0.123000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654318  position_y:  -0.0613962   position_w: -0.43683
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,42.434 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.173000	0.000000	0.000000
+odom: 0.173000	0.000000	0.000000
+odom: 0.185000	0.000000	0.276000
+odom: 0.185000	0.000000	0.276000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654322  position_y:  -0.0613978   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,62.15 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.177000	0.000000	0.354000
+odom: 0.177000	0.000000	0.354000
+odom: 0.146000	0.000000	0.333000
+odom: 0.146000	0.000000	0.333000
+odom: 0.146000	0.000000	0.333000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654324  position_y:  -0.061399   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,82.027 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.092000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654325  position_y:  -0.0613993   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,102.449 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.019000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654325  position_y:  -0.0613996   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,121.866 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.047000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+odom: 0.063000	0.000000	0.000000
+odom: 0.063000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654327  position_y:  -0.0614001   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,142.378 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.086000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654328  position_y:  -0.061401   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,162.044 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.104000	0.000000	0.000000
+odom: 0.104000	0.000000	0.000000
+odom: 0.104000	0.000000	0.000000
+odom: 0.077000	0.000000	0.000000
+odom: 0.077000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.65433  position_y:  -0.0614016   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,182.388 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.042000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.65433  position_y:  -0.0614018   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,202.721 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.005000	0.000000	0.000000
+odom: -0.005000	0.000000	0.000000
+odom: -0.005000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.65433  position_y:  -0.0614018   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,221.888 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.001000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.65433  position_y:  -0.0614018   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,242.324 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281536,262.405 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281536,282.75 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281536,302.546 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.099000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654337  position_y:  -0.0614051   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,321.947 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.077000	0.000000	-0.312000
+odom: 0.077000	0.000000	-0.312000
+odom: 0.077000	0.000000	-0.312000
+odom: 0.047000	0.000000	-0.297000
+odom: 0.047000	0.000000	-0.297000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654338  position_y:  -0.0614055   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,341.835 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+odom: 0.010000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654338  position_y:  -0.0614056   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,362.38 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654338  position_y:  -0.0614056   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,381.947 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.007000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654339  position_y:  -0.0614058   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,402.432 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.049000	0.000000	0.000000
+odom: 0.049000	0.000000	0.000000
+odom: 0.071000	0.000000	0.000000
+odom: 0.071000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.65434  position_y:  -0.0614064   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,422.349 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.089000	0.000000	0.000000
+odom: 0.089000	0.000000	0.000000
+odom: 0.089000	0.000000	0.000000
+odom: 0.109000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654342  position_y:  -0.0614073   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,442.652 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.133000	0.000000	0.000000
+odom: 0.133000	0.000000	0.000000
+odom: 0.133000	0.000000	0.000000
+odom: 0.148000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654345  position_y:  -0.0614086   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,462.141 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.142000	0.000000	0.273000
+odom: 0.142000	0.000000	0.273000
+odom: 0.142000	0.000000	0.273000
+odom: 0.109000	0.000000	0.252000
+odom: 0.109000	0.000000	0.252000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654347  position_y:  -0.0614095   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,482.17 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.059000	0.000000	0.000000
+odom: 0.059000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+odom: 0.013000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654347  position_y:  -0.0614096   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,502.455 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.006000	0.000000	0.000000
+odom: -0.006000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654347  position_y:  -0.0614096   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,522.122 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.011000	0.000000	0.000000
+odom: 0.011000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+odom: 0.024000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654347  position_y:  -0.0614098   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,542.839 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.046000	0.000000	0.000000
+odom: 0.077000	0.000000	0.000000
+odom: 0.077000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654349  position_y:  -0.0614104   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,562.259 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.107000	0.000000	0.000000
+odom: 0.107000	0.000000	0.000000
+odom: 0.107000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654351  position_y:  -0.0614116   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,581.997 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.188000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654355  position_y:  -0.0614132   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,602.505 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.204000	0.000000	0.000000
+odom: 0.204000	0.000000	0.000000
+odom: 0.204000	0.000000	0.000000
+odom: 0.195000	0.000000	0.000000
+odom: 0.195000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654358  position_y:  -0.0614148   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,621.867 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.162000	0.000000	0.430000
+odom: 0.162000	0.000000	0.430000
+odom: 0.113000	0.000000	0.503000
+odom: 0.113000	0.000000	0.503000
+odom: 0.113000	0.000000	0.503000
+curr_time: 1.72628e+09 s 
+  position_x:  0.65436  position_y:  -0.0614158   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,642.056 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.066000	0.000000	0.372000
+odom: 0.066000	0.000000	0.372000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654361  position_y:  -0.0614161   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,662.167 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.027000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+odom: 0.034000	0.000000	0.000000
+odom: 0.034000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654361  position_y:  -0.0614164   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,682.423 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.056000	0.000000	0.000000
+odom: 0.056000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654363  position_y:  -0.0614171   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,701.803 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.111000	0.000000	0.000000
+odom: 0.111000	0.000000	0.000000
+odom: 0.111000	0.000000	0.000000
+odom: 0.118000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654365  position_y:  -0.0614181   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,722.391 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.126000	0.000000	0.000000
+odom: 0.126000	0.000000	0.000000
+odom: 0.126000	0.000000	0.000000
+odom: 0.148000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654368  position_y:  -0.0614194   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,742.41 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.175000	0.000000	0.000000
+odom: 0.175000	0.000000	0.000000
+odom: 0.175000	0.000000	0.000000
+odom: 0.188000	0.000000	-0.263000
+odom: 0.188000	0.000000	-0.263000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654371  position_y:  -0.0614209   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,762.374 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.178000	0.000000	-0.333000
+odom: 0.178000	0.000000	-0.333000
+odom: 0.144000	0.000000	-0.299000
+odom: 0.144000	0.000000	-0.299000
+odom: 0.144000	0.000000	-0.299000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654374  position_y:  -0.0614222   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,782.595 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.088000	0.000000	0.000000
+odom: 0.088000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654374  position_y:  -0.0614225   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,801.966 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.015000	0.000000	0.000000
+odom: 0.015000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654375  position_y:  -0.0614227   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,822.055 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.043000	0.000000	0.000000
+odom: 0.043000	0.000000	0.000000
+odom: 0.060000	0.000000	0.000000
+odom: 0.060000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654376  position_y:  -0.0614232   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,842.456 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.083000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+odom: 0.112000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654378  position_y:  -0.0614241   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,861.916 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.142000	0.000000	0.000000
+odom: 0.142000	0.000000	0.000000
+odom: 0.142000	0.000000	0.000000
+odom: 0.169000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654381  position_y:  -0.0614255   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,882.085 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.197000	0.000000	0.000000
+odom: 0.197000	0.000000	0.000000
+odom: 0.197000	0.000000	0.000000
+odom: 0.225000	0.000000	0.000000
+odom: 0.225000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654385  position_y:  -0.0614275   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,902.494 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.242000	0.000000	0.000000
+odom: 0.242000	0.000000	0.000000
+odom: 0.236000	0.000000	0.000000
+odom: 0.236000	0.000000	0.000000
+odom: 0.236000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654389  position_y:  -0.0614295   position_w: -0.43682
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,922.433 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.203000	0.000000	-0.316000
+odom: 0.203000	0.000000	-0.316000
+odom: 0.160000	0.000000	-0.439000
+odom: 0.160000	0.000000	-0.439000
+odom: 0.160000	0.000000	-0.439000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654392  position_y:  -0.0614309   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,942.923 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.129000	0.000000	-0.455000
+odom: 0.129000	0.000000	-0.455000
+odom: 0.126000	0.000000	-0.422000
+odom: 0.126000	0.000000	-0.422000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654395  position_y:  -0.0614319   position_w: -0.436837
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,961.873 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.150000	0.000000	-0.405000
+odom: 0.150000	0.000000	-0.405000
+curr_time: 1.72628e+09 s 
+  position_x:  0.654397  position_y:  -0.0614332   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281536,981.923 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281537,3.207 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281537,23.254 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281537,42.326 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.134000	0.000000	0.000000
+odom: 0.084000	0.000000	0.000000
+odom: 0.084000	0.000000	0.000000
+odom: 0.084000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730439  position_y:  -0.0969394   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,62.699 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.044000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730439  position_y:  -0.0969396   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,82.302 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.018000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+odom: 0.023000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73044  position_y:  -0.0969398   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,102.42 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.044000	0.000000	0.000000
+odom: 0.044000	0.000000	0.000000
+odom: 0.071000	0.000000	0.000000
+odom: 0.071000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730441  position_y:  -0.0969405   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,123.096 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.094000	0.000000	0.000000
+odom: 0.094000	0.000000	0.000000
+odom: 0.094000	0.000000	0.000000
+odom: 0.111000	0.000000	0.000000
+odom: 0.111000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730443  position_y:  -0.0969413   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,141.885 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.134000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+odom: 0.163000	0.000000	0.000000
+odom: 0.163000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730446  position_y:  -0.0969428   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,162.801 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.191000	0.000000	0.000000
+odom: 0.191000	0.000000	0.000000
+odom: 0.217000	0.000000	0.000000
+odom: 0.217000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73045  position_y:  -0.0969446   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,182.781 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.246000	0.000000	0.000000
+odom: 0.246000	0.000000	0.000000
+odom: 0.272000	0.000000	0.000000
+odom: 0.272000	0.000000	0.000000
+odom: 0.272000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730455  position_y:  -0.0969469   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,202.655 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.288000	0.000000	0.000000
+odom: 0.281000	0.000000	0.000000
+odom: 0.281000	0.000000	0.000000
+odom: 0.281000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73046  position_y:  -0.0969492   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,222.128 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.250000	0.000000	0.000000
+odom: 0.201000	0.000000	0.402000
+odom: 0.201000	0.000000	0.402000
+odom: 0.201000	0.000000	0.402000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730464  position_y:  -0.096951   position_w: -0.436837
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,242.985 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.163000	0.000000	0.450000
+odom: 0.163000	0.000000	0.450000
+odom: 0.159000	0.000000	0.412000
+odom: 0.159000	0.000000	0.412000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730466  position_y:  -0.0969523   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,262.228 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.185000	0.000000	0.376000
+odom: 0.185000	0.000000	0.376000
+odom: 0.185000	0.000000	0.376000
+odom: 0.217000	0.000000	0.367000
+odom: 0.217000	0.000000	0.367000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73047  position_y:  -0.0969541   position_w: -0.436821
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,282.516 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.242000	0.000000	0.373000
+odom: 0.242000	0.000000	0.373000
+odom: 0.242000	0.000000	0.373000
+odom: 0.266000	0.000000	0.376000
+odom: 0.266000	0.000000	0.376000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730475  position_y:  -0.0969564   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,302.838 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.286000	0.000000	0.321000
+odom: 0.286000	0.000000	0.321000
+odom: 0.284000	0.000000	0.000000
+odom: 0.284000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73048  position_y:  -0.0969589   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,323.204 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.261000	0.000000	0.000000
+odom: 0.261000	0.000000	0.000000
+odom: 0.219000	0.000000	0.000000
+odom: 0.219000	0.000000	0.000000
+odom: 0.219000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730484  position_y:  -0.0969607   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,342.835 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.166000	0.000000	0.000000
+odom: 0.112000	0.000000	0.252000
+odom: 0.112000	0.000000	0.252000
+odom: 0.112000	0.000000	0.252000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730486  position_y:  -0.0969616   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,362.19 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.068000	0.000000	0.260000
+odom: 0.048000	0.000000	0.000000
+odom: 0.048000	0.000000	0.000000
+odom: 0.048000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730487  position_y:  -0.096962   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,382.851 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.042000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730488  position_y:  -0.0969624   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,402.612 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.066000	0.000000	0.000000
+odom: 0.066000	0.000000	0.000000
+odom: 0.066000	0.000000	0.000000
+odom: 0.093000	0.000000	0.000000
+odom: 0.093000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73049  position_y:  -0.0969632   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,422.263 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.116000	0.000000	0.000000
+odom: 0.116000	0.000000	0.000000
+odom: 0.116000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730492  position_y:  -0.0969644   position_w: -0.436809
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,443.179 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.156000	0.000000	0.000000
+odom: 0.156000	0.000000	0.000000
+odom: 0.174000	0.000000	0.270000
+odom: 0.174000	0.000000	0.270000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730495  position_y:  -0.0969658   position_w: -0.436803
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,462.341 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.169000	0.000000	0.329000
+odom: 0.136000	0.000000	0.315000
+odom: 0.136000	0.000000	0.315000
+odom: 0.136000	0.000000	0.315000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730498  position_y:  -0.0969669   position_w: -0.436797
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,481.974 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.084000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730498  position_y:  -0.0969673   position_w: -0.436797
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,502.314 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.014000	0.000000	0.000000
+odom: 0.020000	0.000000	0.000000
+odom: 0.020000	0.000000	0.000000
+odom: 0.020000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730499  position_y:  -0.0969674   position_w: -0.436797
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,523.247 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+odom: 0.059000	0.000000	0.000000
+odom: 0.059000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.7305  position_y:  -0.0969679   position_w: -0.436797
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,542.587 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.081000	0.000000	0.000000
+odom: 0.081000	0.000000	0.000000
+odom: 0.081000	0.000000	0.000000
+odom: 0.099000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730502  position_y:  -0.0969687   position_w: -0.436797
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,561.894 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	-0.279000
+odom: 0.108000	0.000000	-0.279000
+odom: 0.108000	0.000000	-0.279000
+odom: 0.114000	0.000000	-0.362000
+odom: 0.114000	0.000000	-0.362000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730504  position_y:  -0.0969697   position_w: -0.436805
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,582.422 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.133000	0.000000	-0.404000
+odom: 0.133000	0.000000	-0.404000
+odom: 0.160000	0.000000	-0.405000
+odom: 0.160000	0.000000	-0.405000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730507  position_y:  -0.0969711   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,602.788 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.176000	0.000000	-0.355000
+odom: 0.166000	0.000000	0.000000
+odom: 0.166000	0.000000	0.000000
+odom: 0.166000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73051  position_y:  -0.0969725   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,622.42 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.135000	0.000000	0.000000
+odom: 0.088000	0.000000	0.000000
+odom: 0.088000	0.000000	0.000000
+odom: 0.088000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730511  position_y:  -0.0969732   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,642.113 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.037000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730511  position_y:  -0.0969732   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,662.477 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.039000	0.000000	0.000000
+odom: 0.039000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730512  position_y:  -0.0969735   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,682.817 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.062000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730513  position_y:  -0.0969742   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,701.927 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281537,722.383 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281537,742.851 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281537,761.952 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.006000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730513  position_y:  -0.0969742   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,782.183 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: 0.003000	0.000000	0.000000
+odom: 0.003000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730513  position_y:  -0.0969742   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,802.183 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.007000	0.000000	0.000000
+odom: 0.007000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730514  position_y:  -0.0969744   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,822.627 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.031000	0.000000	0.000000
+odom: 0.031000	0.000000	0.000000
+odom: 0.031000	0.000000	0.000000
+odom: 0.052000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730515  position_y:  -0.0969748   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,842.676 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.076000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+odom: 0.094000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730516  position_y:  -0.0969756   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,861.944 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.093000	0.000000	0.000000
+odom: 0.093000	0.000000	0.000000
+odom: 0.073000	0.000000	0.000000
+odom: 0.073000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730518  position_y:  -0.0969762   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,882.167 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.044000	0.000000	0.000000
+odom: 0.044000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730518  position_y:  -0.0969763   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,902.385 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730518  position_y:  -0.0969763   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,921.83 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.009000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730518  position_y:  -0.0969766   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,941.76 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.049000	0.000000	0.000000
+odom: 0.049000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.73052  position_y:  -0.0969773   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,962.551 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.730522  position_y:  -0.0969784   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281537,981.852 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.188000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900703  position_y:  -0.176435   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,2.883 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.199000	0.000000	0.000000
+odom: 0.199000	0.000000	0.000000
+odom: 0.199000	0.000000	0.000000
+odom: 0.195000	0.000000	0.000000
+odom: 0.195000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900707  position_y:  -0.176436   position_w: -0.436813
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,21.993 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.426000
+odom: 0.161000	0.000000	0.426000
+odom: 0.112000	0.000000	0.499000
+odom: 0.112000	0.000000	0.499000
+odom: 0.112000	0.000000	0.499000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900709  position_y:  -0.176437   position_w: -0.436803
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,42.514 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.066000	0.000000	0.376000
+odom: 0.066000	0.000000	0.376000
+odom: 0.036000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+odom: 0.036000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900709  position_y:  -0.176437   position_w: -0.436803
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,61.696 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.025000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.90071  position_y:  -0.176438   position_w: -0.436803
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,82.261 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.057000	0.000000	0.000000
+odom: 0.057000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900711  position_y:  -0.176438   position_w: -0.436803
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,102.562 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.110000	0.000000	0.000000
+odom: 0.110000	0.000000	0.000000
+odom: 0.110000	0.000000	0.000000
+odom: 0.118000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900713  position_y:  -0.176439   position_w: -0.436803
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,121.802 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.127000	0.000000	0.000000
+odom: 0.127000	0.000000	0.000000
+odom: 0.127000	0.000000	0.000000
+odom: 0.148000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900716  position_y:  -0.176441   position_w: -0.436803
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,142.52 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.175000	0.000000	0.000000
+odom: 0.175000	0.000000	0.000000
+odom: 0.175000	0.000000	0.000000
+odom: 0.188000	0.000000	-0.267000
+odom: 0.188000	0.000000	-0.267000
+curr_time: 1.72628e+09 s 
+  position_x:  0.90072  position_y:  -0.176442   position_w: -0.436808
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,162.226 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.180000	0.000000	-0.329000
+odom: 0.180000	0.000000	-0.329000
+odom: 0.148000	0.000000	-0.296000
+odom: 0.148000	0.000000	-0.296000
+odom: 0.148000	0.000000	-0.296000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900722  position_y:  -0.176444   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,182.246 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.091000	0.000000	0.000000
+odom: 0.091000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900723  position_y:  -0.176444   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,202.35 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900723  position_y:  -0.176444   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,222.629 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900725  position_y:  -0.176445   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,242.614 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.086000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+odom: 0.116000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900727  position_y:  -0.176446   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,261.805 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.146000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+odom: 0.172000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.90073  position_y:  -0.176447   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,282.005 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.199000	0.000000	0.000000
+odom: 0.199000	0.000000	0.000000
+odom: 0.199000	0.000000	0.000000
+odom: 0.226000	0.000000	0.000000
+odom: 0.226000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900734  position_y:  -0.176449   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,301.87 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.244000	0.000000	0.000000
+odom: 0.244000	0.000000	0.000000
+odom: 0.239000	0.000000	0.000000
+odom: 0.239000	0.000000	0.000000
+odom: 0.239000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900738  position_y:  -0.176451   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,322.549 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.207000	0.000000	-0.332000
+odom: 0.207000	0.000000	-0.332000
+odom: 0.161000	0.000000	-0.448000
+odom: 0.161000	0.000000	-0.448000
+odom: 0.161000	0.000000	-0.448000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900741  position_y:  -0.176452   position_w: -0.436823
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,342.6 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.130000	0.000000	-0.463000
+odom: 0.130000	0.000000	-0.463000
+odom: 0.128000	0.000000	-0.436000
+odom: 0.128000	0.000000	-0.436000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900743  position_y:  -0.176453   position_w: -0.436831
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,361.654 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.152000	0.000000	-0.421000
+odom: 0.152000	0.000000	-0.421000
+odom: 0.184000	0.000000	-0.412000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900747  position_y:  -0.176455   position_w: -0.43684
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,382.453 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.212000	0.000000	-0.401000
+odom: 0.212000	0.000000	-0.401000
+odom: 0.212000	0.000000	-0.401000
+odom: 0.238000	0.000000	-0.412000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900751  position_y:  -0.176457   position_w: -0.436848
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,401.754 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.258000	0.000000	-0.371000
+odom: 0.258000	0.000000	-0.371000
+odom: 0.258000	0.000000	-0.371000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900756  position_y:  -0.176459   position_w: -0.436855
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,421.862 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281538,441.611 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281538,462.555 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281538,481.813 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.021000	0.000000	0.000000
+odom: 0.033000	0.000000	0.000000
+odom: 0.033000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900758  position_y:  -0.17646   position_w: -0.436855
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,502.729 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.047000	0.000000	0.000000
+odom: 0.047000	0.000000	0.000000
+odom: 0.075000	0.000000	0.000000
+odom: 0.075000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900759  position_y:  -0.176461   position_w: -0.436855
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,521.811 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.098000	0.000000	0.000000
+odom: 0.098000	0.000000	0.000000
+odom: 0.098000	0.000000	0.000000
+odom: 0.113000	0.000000	0.000000
+odom: 0.113000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900762  position_y:  -0.176462   position_w: -0.436855
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,541.942 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.135000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+odom: 0.153000	0.000000	-0.250000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900764  position_y:  -0.176463   position_w: -0.43686
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,562.242 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.142000	0.000000	-0.272000
+odom: 0.142000	0.000000	-0.272000
+odom: 0.110000	0.000000	-0.255000
+odom: 0.110000	0.000000	-0.255000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900766  position_y:  -0.176464   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,582.083 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.059000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900767  position_y:  -0.176464   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,602.562 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.003000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900767  position_y:  -0.176464   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,622.92 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.008000	0.000000	0.000000
+odom: 0.015000	0.000000	0.000000
+odom: 0.015000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900767  position_y:  -0.176464   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,642.185 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+odom: 0.076000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900768  position_y:  -0.176465   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,662.353 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+odom: 0.135000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900771  position_y:  -0.176466   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,682.916 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.162000	0.000000	0.000000
+odom: 0.162000	0.000000	0.000000
+odom: 0.162000	0.000000	0.000000
+odom: 0.189000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900774  position_y:  -0.176468   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,702.063 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.200000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900778  position_y:  -0.176469   position_w: -0.436865
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,722.734 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.165000	0.000000	-0.405000
+odom: 0.112000	0.000000	-0.479000
+odom: 0.112000	0.000000	-0.479000
+odom: 0.112000	0.000000	-0.479000
+curr_time: 1.72628e+09 s 
+  position_x:  0.90078  position_y:  -0.17647   position_w: -0.436875
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,742.153 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.061000	0.000000	-0.352000
+odom: 0.033000	0.000000	0.000000
+odom: 0.033000	0.000000	0.000000
+odom: 0.033000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.90078  position_y:  -0.176471   position_w: -0.436875
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,762.447 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.026000	0.000000	0.000000
+odom: 0.039000	0.000000	0.000000
+odom: 0.039000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900781  position_y:  -0.176471   position_w: -0.436875
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,782.337 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.058000	0.000000	0.000000
+odom: 0.058000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900783  position_y:  -0.176472   position_w: -0.436875
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,802.419 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.109000	0.000000	0.000000
+odom: 0.109000	0.000000	0.000000
+odom: 0.109000	0.000000	0.000000
+odom: 0.115000	0.000000	0.000000
+odom: 0.115000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900785  position_y:  -0.176473   position_w: -0.436875
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,823.097 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.125000	0.000000	0.000000
+odom: 0.125000	0.000000	0.000000
+odom: 0.125000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+odom: 0.146000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900787  position_y:  -0.176474   position_w: -0.436875
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,842.066 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.168000	0.000000	0.000000
+odom: 0.168000	0.000000	0.000000
+odom: 0.186000	0.000000	0.266000
+odom: 0.186000	0.000000	0.266000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900791  position_y:  -0.176475   position_w: -0.436869
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,861.942 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.179000	0.000000	0.345000
+odom: 0.148000	0.000000	0.329000
+odom: 0.148000	0.000000	0.329000
+odom: 0.148000	0.000000	0.329000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900793  position_y:  -0.176477   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,882.294 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.093000	0.000000	0.000000
+odom: 0.041000	0.000000	0.000000
+odom: 0.041000	0.000000	0.000000
+odom: 0.041000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900794  position_y:  -0.176477   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,902.395 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.018000	0.000000	0.000000
+odom: 0.018000	0.000000	0.000000
+odom: 0.018000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900794  position_y:  -0.176477   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,922.97 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+odom: 0.062000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900796  position_y:  -0.176478   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,941.924 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.087000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+odom: 0.087000	0.000000	0.000000
+odom: 0.117000	0.000000	0.000000
+odom: 0.117000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900798  position_y:  -0.176479   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,962.047 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.145000	0.000000	0.000000
+odom: 0.145000	0.000000	0.000000
+odom: 0.145000	0.000000	0.000000
+odom: 0.171000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0.900801  position_y:  -0.17648   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281538,982.815 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.192000	0.000000	0.000000
+odom: 0.192000	0.000000	0.000000
+odom: 0.227000	0.000000	0.000000
+odom: 0.227000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10628  position_y:  -0.272429   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,2.366 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.243000	0.000000	0.000000
+odom: 0.235000	0.000000	0.000000
+odom: 0.235000	0.000000	0.000000
+odom: 0.235000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10628  position_y:  -0.272431   position_w: -0.436863
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,22.384 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.203000	0.000000	0.352000
+odom: 0.160000	0.000000	0.472000
+odom: 0.160000	0.000000	0.472000
+odom: 0.160000	0.000000	0.472000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10629  position_y:  -0.272433   position_w: -0.436853
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,42.061 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.131000	0.000000	0.470000
+odom: 0.132000	0.000000	0.400000
+odom: 0.132000	0.000000	0.400000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10629  position_y:  -0.272434   position_w: -0.436845
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,62.794 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.152000	0.000000	0.406000
+odom: 0.152000	0.000000	0.406000
+odom: 0.182000	0.000000	0.402000
+odom: 0.182000	0.000000	0.402000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10629  position_y:  -0.272435   position_w: -0.436837
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,82.35 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.212000	0.000000	0.398000
+odom: 0.212000	0.000000	0.398000
+odom: 0.212000	0.000000	0.398000
+odom: 0.238000	0.000000	0.396000
+odom: 0.238000	0.000000	0.396000
+curr_time: 1.72628e+09 s 
+  position_x:  1.1063  position_y:  -0.272438   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,102.535 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.259000	0.000000	0.362000
+odom: 0.259000	0.000000	0.362000
+odom: 0.259000	0.000000	0.362000
+odom: 0.258000	0.000000	0.000000
+odom: 0.258000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.1063  position_y:  -0.27244   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,123.058 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.225000	0.000000	0.000000
+odom: 0.225000	0.000000	0.000000
+odom: 0.185000	0.000000	0.000000
+odom: 0.185000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10631  position_y:  -0.272441   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,142.393 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281539,162.305 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281539,182.508 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281539,202.376 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.073000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10631  position_y:  -0.272444   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,222.319 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.096000	0.000000	0.000000
+odom: 0.096000	0.000000	0.000000
+odom: 0.096000	0.000000	0.000000
+odom: 0.114000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10631  position_y:  -0.272445   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,243.019 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.136000	0.000000	0.000000
+odom: 0.136000	0.000000	0.000000
+odom: 0.136000	0.000000	0.000000
+odom: 0.153000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10632  position_y:  -0.272446   position_w: -0.436829
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,262.733 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.163000	0.000000	0.000000
+odom: 0.163000	0.000000	0.000000
+odom: 0.113000	0.000000	0.276000
+odom: 0.113000	0.000000	0.276000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10632  position_y:  -0.272447   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,282.261 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.063000	0.000000	0.000000
+odom: 0.063000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+odom: 0.019000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10632  position_y:  -0.272447   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,302.831 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10632  position_y:  -0.272447   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,322.761 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.009000	0.000000	0.000000
+odom: 0.009000	0.000000	0.000000
+odom: 0.020000	0.000000	0.000000
+odom: 0.020000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10632  position_y:  -0.272447   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,342.248 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.046000	0.000000	0.000000
+odom: 0.046000	0.000000	0.000000
+odom: 0.077000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10632  position_y:  -0.272448   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,363.079 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10632  position_y:  -0.272449   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,382.08 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.188000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10633  position_y:  -0.272451   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,402.854 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.199000	0.000000	0.000000
+odom: 0.199000	0.000000	0.000000
+odom: 0.195000	0.000000	0.000000
+odom: 0.195000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10633  position_y:  -0.272452   position_w: -0.436824
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,422.66 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.432000
+odom: 0.161000	0.000000	0.432000
+odom: 0.112000	0.000000	0.505000
+odom: 0.112000	0.000000	0.505000
+odom: 0.112000	0.000000	0.505000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10633  position_y:  -0.272453   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,442.438 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.066000	0.000000	0.377000
+odom: 0.066000	0.000000	0.377000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+odom: 0.037000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10633  position_y:  -0.272454   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,462.364 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.026000	0.000000	0.000000
+odom: 0.026000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+odom: 0.027000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10633  position_y:  -0.272454   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,482.875 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.058000	0.000000	0.000000
+odom: 0.058000	0.000000	0.000000
+odom: 0.088000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10633  position_y:  -0.272455   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,502.415 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.110000	0.000000	0.000000
+odom: 0.110000	0.000000	0.000000
+odom: 0.110000	0.000000	0.000000
+odom: 0.118000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10634  position_y:  -0.272456   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,522.685 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.127000	0.000000	0.000000
+odom: 0.127000	0.000000	0.000000
+odom: 0.127000	0.000000	0.000000
+odom: 0.147000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10634  position_y:  -0.272457   position_w: -0.436814
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,542.501 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.167000	0.000000	0.000000
+odom: 0.167000	0.000000	0.000000
+odom: 0.187000	0.000000	-0.265000
+odom: 0.187000	0.000000	-0.265000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10634  position_y:  -0.272458   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,562.532 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.179000	0.000000	-0.332000
+odom: 0.179000	0.000000	-0.332000
+odom: 0.146000	0.000000	-0.304000
+odom: 0.146000	0.000000	-0.304000
+odom: 0.146000	0.000000	-0.304000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10634  position_y:  -0.27246   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,582.195 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.092000	0.000000	0.000000
+odom: 0.092000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10635  position_y:  -0.27246   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,602.449 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.018000	0.000000	0.000000
+odom: 0.018000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+odom: 0.030000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10635  position_y:  -0.27246   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,623.384 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.063000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10635  position_y:  -0.272461   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,642.212 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.085000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+odom: 0.085000	0.000000	0.000000
+odom: 0.103000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10635  position_y:  -0.272462   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,662.741 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.110000	0.000000	0.254000
+odom: 0.110000	0.000000	0.254000
+odom: 0.110000	0.000000	0.254000
+odom: 0.115000	0.000000	0.350000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10635  position_y:  -0.272463   position_w: -0.436818
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,682.3 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.136000	0.000000	0.381000
+odom: 0.136000	0.000000	0.381000
+odom: 0.159000	0.000000	0.402000
+odom: 0.159000	0.000000	0.402000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10635  position_y:  -0.272464   position_w: -0.43681
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,702.503 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.178000	0.000000	0.349000
+odom: 0.178000	0.000000	0.349000
+odom: 0.171000	0.000000	0.000000
+odom: 0.171000	0.000000	0.000000
+odom: 0.171000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10636  position_y:  -0.272465   position_w: -0.43681
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,723.152 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.139000	0.000000	0.000000
+odom: 0.139000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+odom: 0.095000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10636  position_y:  -0.272466   position_w: -0.43681
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,742.389 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.064000	0.000000	0.000000
+odom: 0.064000	0.000000	0.000000
+odom: 0.049000	0.000000	0.000000
+odom: 0.049000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10636  position_y:  -0.272467   position_w: -0.43681
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,762.316 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.067000	0.000000	0.000000
+odom: 0.067000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10636  position_y:  -0.272467   position_w: -0.43681
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,781.961 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.110000	0.000000	-0.258000
+odom: 0.110000	0.000000	-0.258000
+odom: 0.110000	0.000000	-0.258000
+odom: 0.134000	0.000000	-0.273000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10636  position_y:  -0.272469   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,802.291 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.151000	0.000000	-0.251000
+odom: 0.151000	0.000000	-0.251000
+odom: 0.151000	0.000000	-0.251000
+odom: 0.148000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10637  position_y:  -0.27247   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,822.954 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.142000	0.000000	0.000000
+odom: 0.142000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+odom: 0.083000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10637  position_y:  -0.27247   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,842.095 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.035000	0.000000	0.000000
+odom: 0.035000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10637  position_y:  -0.27247   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,862.137 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: -0.009000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10637  position_y:  -0.27247   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,882.243 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281539,902.94 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281539,922.191 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281539,942.234 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.132000	0.000000	0.000000
+odom: 0.149000	0.000000	0.000000
+odom: 0.149000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10638  position_y:  -0.272476   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,962.432 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.136000	0.000000	0.000000
+odom: 0.136000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+odom: 0.106000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.10638  position_y:  -0.272476   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281539,982.896 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.055000	0.000000	0.000000
+odom: 0.011000	0.000000	0.000000
+odom: 0.011000	0.000000	0.000000
+odom: 0.011000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11634  position_y:  -0.277126   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,2.849 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.006000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11634  position_y:  -0.277126   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,22.264 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.010000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+odom: 0.016000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11634  position_y:  -0.277126   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,42.318 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.045000	0.000000	0.000000
+odom: 0.045000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11634  position_y:  -0.277126   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,62.926 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.133000	0.000000	0.000000
+odom: 0.133000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11634  position_y:  -0.277127   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,82.381 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.161000	0.000000	0.000000
+odom: 0.189000	0.000000	0.000000
+odom: 0.189000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11635  position_y:  -0.277129   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,102.341 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.200000	0.000000	0.000000
+odom: 0.200000	0.000000	0.000000
+odom: 0.198000	0.000000	0.000000
+odom: 0.198000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11635  position_y:  -0.277131   position_w: -0.436816
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,122.6 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.164000	0.000000	-0.408000
+odom: 0.112000	0.000000	-0.478000
+odom: 0.112000	0.000000	-0.478000
+odom: 0.112000	0.000000	-0.478000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11635  position_y:  -0.277132   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,142.507 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.062000	0.000000	-0.358000
+odom: 0.034000	0.000000	0.000000
+odom: 0.034000	0.000000	0.000000
+odom: 0.034000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11635  position_y:  -0.277132   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,162.754 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.026000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+odom: 0.040000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11635  position_y:  -0.277132   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,181.991 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.057000	0.000000	0.000000
+odom: 0.057000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+odom: 0.086000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11635  position_y:  -0.277133   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,202.263 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.108000	0.000000	0.000000
+odom: 0.104000	0.000000	0.000000
+odom: 0.104000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277134   position_w: -0.436825
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,222.305 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.083000	0.000000	0.306000
+odom: 0.083000	0.000000	0.306000
+odom: 0.083000	0.000000	0.306000
+odom: 0.054000	0.000000	0.312000
+odom: 0.054000	0.000000	0.312000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277134   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,242.908 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.031000	0.000000	0.000000
+odom: 0.031000	0.000000	0.000000
+odom: 0.006000	0.000000	0.000000
+odom: 0.006000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277134   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,261.936 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277134   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,281.998 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: -0.001000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277134   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,302.371 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.004000	0.000000	0.000000
+odom: 0.008000	0.000000	0.000000
+odom: 0.008000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277134   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,322.776 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.031000	0.000000	0.000000
+odom: 0.031000	0.000000	0.000000
+odom: 0.053000	0.000000	0.000000
+odom: 0.053000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277135   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,342.525 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.078000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+odom: 0.078000	0.000000	0.000000
+odom: 0.105000	0.000000	0.000000
+odom: 0.105000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277136   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,362.071 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.134000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+odom: 0.134000	0.000000	0.000000
+odom: 0.162000	0.000000	0.000000
+odom: 0.162000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11636  position_y:  -0.277137   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,382.68 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.183000	0.000000	0.000000
+odom: 0.183000	0.000000	0.000000
+odom: 0.215000	0.000000	0.000000
+odom: 0.215000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11637  position_y:  -0.277139   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,402.024 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.232000	0.000000	0.000000
+odom: 0.225000	0.000000	0.000000
+odom: 0.225000	0.000000	0.000000
+odom: 0.225000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11637  position_y:  -0.277141   position_w: -0.436819
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,422.068 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.192000	0.000000	0.295000
+odom: 0.148000	0.000000	0.415000
+odom: 0.148000	0.000000	0.415000
+odom: 0.148000	0.000000	0.415000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11637  position_y:  -0.277142   position_w: -0.436811
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,441.723 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.120000	0.000000	0.417000
+odom: 0.123000	0.000000	0.348000
+odom: 0.123000	0.000000	0.348000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11638  position_y:  -0.277143   position_w: -0.436804
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,462.208 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.141000	0.000000	0.350000
+odom: 0.141000	0.000000	0.350000
+odom: 0.171000	0.000000	0.339000
+odom: 0.171000	0.000000	0.339000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11638  position_y:  -0.277145   position_w: -0.436797
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,482.22 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.200000	0.000000	0.330000
+odom: 0.200000	0.000000	0.330000
+odom: 0.200000	0.000000	0.330000
+odom: 0.227000	0.000000	0.337000
+odom: 0.227000	0.000000	0.337000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11638  position_y:  -0.277146   position_w: -0.43679
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,502.244 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.247000	0.000000	0.303000
+odom: 0.247000	0.000000	0.303000
+odom: 0.247000	0.000000	0.303000
+odom: 0.246000	0.000000	0.000000
+odom: 0.246000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11639  position_y:  -0.277149   position_w: -0.43679
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,522.448 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.215000	0.000000	0.000000
+odom: 0.215000	0.000000	0.000000
+odom: 0.173000	0.000000	0.000000
+odom: 0.173000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.11639  position_y:  -0.27715   position_w: -0.43679
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281540,542.349 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

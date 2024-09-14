@@ -1,0 +1,122 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1726282609.000451565 s 
+serial data is too short ,  len: 520
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1726282609.000651836 s 
+unrecognize frame 0xac 
+first_time: 1726282609.000651836 s 
+Twist event count: 3 data_seq null time is: 1726282609.000652075 s 
+Twist event count: 4 data_seq null time is: 1726282609.000653028 s 
+Twist event count: 5 data_seq null time is: 1726282609.000653267 s 
+dt: 0.000054836
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 6 data_seq null time is: 1726282609.000706911 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 7 data_seq null time is: 1726282609.000807047 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 8 data_seq null time is: 1726282609.000907421 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 9 data_seq null time is: 1726282610.000007868 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 10 data_seq null time is: 1726282610.000106335 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 11 data_seq null time is: 1726282610.000206947 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 12 data_seq null time is: 1726282610.000306129 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 13 data_seq null time is: 1726282610.000406504 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 14 data_seq null time is: 1726282610.000507355 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 15 data_seq null time is: 1726282610.000607729 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 16 data_seq null time is: 1726282610.000706911 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 17 data_seq null time is: 1726282610.000806808 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 18 data_seq null time is: 1726282610.000906944 s 
+dt: 0.999100685
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 19 data_seq null time is: 1726282611.000007391 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 20 data_seq null time is: 1726282611.000107765 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 21 data_seq null time is: 1726282611.000206470 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 22 data_seq null time is: 1726282611.000307083 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 23 data_seq null time is: 1726282611.000406742 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 24 data_seq null time is: 1726282611.000506878 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 25 data_seq null time is: 1726282611.000607252 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 26 data_seq null time is: 1726282611.000707626 s 
+dt: 0.000098228
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 27 data_seq null time is: 1726282611.000806093 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 28 data_seq null time is: 1726282611.000905991 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 29 data_seq null time is: 1726282612.000005960 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 30 data_seq null time is: 1726282612.000106096 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 31 data_seq null time is: 1726282612.000205517 s 
+dt: 0.000102043
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 32 data_seq null time is: 1726282612.000307560 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 33 data_seq null time is: 1726282612.000406265 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 34 data_seq null time is: 1726282612.000505686 s 
+unrecognize frame 0xac 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 35 data_seq null time is: 1726282612.000606537 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 36 data_seq null time is: 1726282612.000705957 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 37 data_seq null time is: 1726282612.000805378 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 38 data_seq null time is: 1726282612.000905991 s 
+[c node] received unexpected event: 2
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

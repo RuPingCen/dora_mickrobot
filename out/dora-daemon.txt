@@ -1,0 +1,97 @@
+2024-09-14T02:36:23.909470Z  INFO dora: Starting in local mode
+2024-09-14T02:36:23.910408Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-09-14T02:36:25.428328Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:36:25.429622Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:36:25.611016Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee63-85d3-74fc-bc83-e805cdc51607`
+2024-09-14T02:38:31.888918Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee63-85d3-74fc-bc83-e805cdc51607/keyboard finished successfully
+2024-09-14T02:38:31.889279Z  WARN dora_daemon::node_communication: failed to send NextFinishedDropTokens reply: NextDropEvents([])
+
+Caused by:
+   0: failed to send reply to node `keyboard`
+   1: failed to send DaemonReply
+   2: Broken pipe (os error 32)
+
+Location:
+    binaries/daemon/src/node_communication/tcp.rs:92:14
+2024-09-14T02:38:36.674411Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee63-85d3-74fc-bc83-e805cdc51607` finished on machine ``
+2024-09-14T02:38:49.895491Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:38:49.897898Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:38:50.079427Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee65-ba26-7778-ab19-b100d88e3ba6`
+2024-09-14T02:39:01.764022Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee65-ba26-7778-ab19-b100d88e3ba6/keyboard finished successfully
+2024-09-14T02:39:01.764388Z  WARN dora_daemon::node_communication: failed to send NextFinishedDropTokens reply: NextDropEvents([])
+
+Caused by:
+   0: failed to send reply to node `keyboard`
+   1: failed to send DaemonReply
+   2: Broken pipe (os error 32)
+
+Location:
+    binaries/daemon/src/node_communication/tcp.rs:92:14
+2024-09-14T02:39:02.923624Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee65-ba26-7778-ab19-b100d88e3ba6` finished on machine ``
+2024-09-14T02:39:22.322228Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:39:22.323372Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:39:22.528794Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee66-38d1-763f-b456-783ae11820f6`
+2024-09-14T02:40:37.713584Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee66-38d1-763f-b456-783ae11820f6/keyboard finished successfully
+2024-09-14T02:40:37.713826Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee66-38d1-763f-b456-783ae11820f6` finished on machine ``
+2024-09-14T02:40:50.096209Z  INFO dora: Starting in local mode
+2024-09-14T02:40:50.097458Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-09-14T02:40:51.280131Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:40:51.281717Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:40:51.456169Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee67-944f-7fb8-84bf-f86772d0e2d5`
+2024-09-14T02:40:56.805783Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee67-944f-7fb8-84bf-f86772d0e2d5/keyboard finished successfully
+2024-09-14T02:40:56.806012Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee67-944f-7fb8-84bf-f86772d0e2d5` finished on machine ``
+2024-09-14T02:41:13.943640Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:41:13.945097Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:41:14.134452Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee67-ecd6-7074-97f2-a139cd400be0`
+2024-09-14T02:41:56.498618Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee67-ecd6-7074-97f2-a139cd400be0/keyboard finished successfully
+2024-09-14T02:41:56.498856Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee67-ecd6-7074-97f2-a139cd400be0` finished on machine ``
+2024-09-14T02:42:15.580146Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:42:15.581483Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:42:15.796381Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee68-dd9b-7ac5-bafe-647bfe6cb6b6`
+2024-09-14T02:42:55.500397Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee68-dd9b-7ac5-bafe-647bfe6cb6b6/keyboard finished successfully
+2024-09-14T02:42:55.500634Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee68-dd9b-7ac5-bafe-647bfe6cb6b6` finished on machine ``
+2024-09-14T02:50:45.414128Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:50:45.415492Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:50:45.600179Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee70-a524-7dd1-ad82-5f674531a2fe`
+2024-09-14T02:52:49.405375Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee70-a524-7dd1-ad82-5f674531a2fe/keyboard finished successfully
+2024-09-14T02:52:49.405653Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee70-a524-7dd1-ad82-5f674531a2fe` finished on machine ``
+2024-09-14T02:52:49.405775Z  WARN dora_daemon::node_communication: failed to send NextFinishedDropTokens reply: NextDropEvents([])
+
+Caused by:
+   0: failed to send reply to node `keyboard`
+   1: failed to send DaemonReply
+   2: Broken pipe (os error 32)
+
+Location:
+    binaries/daemon/src/node_communication/tcp.rs:92:14
+2024-09-14T02:52:53.622589Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:52:53.623907Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:52:53.820418Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee72-99f5-71f5-8a00-7d998e05b87b`
+2024-09-14T02:56:30.068862Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee72-99f5-71f5-8a00-7d998e05b87b/keyboard finished successfully
+2024-09-14T02:56:30.069150Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee72-99f5-71f5-8a00-7d998e05b87b` finished on machine ``
+2024-09-14T02:56:30.069223Z  WARN dora_daemon::node_communication: failed to send NextFinishedDropTokens reply: NextDropEvents([])
+
+Caused by:
+   0: failed to send reply to node `keyboard`
+   1: failed to send DaemonReply
+   2: Broken pipe (os error 32)
+
+Location:
+    binaries/daemon/src/node_communication/tcp.rs:92:14
+2024-09-14T02:56:49.003621Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:56:49.005570Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:56:49.203307Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee76-316a-70e9-ba48-3cb5733e093e`
+2024-09-14T02:56:53.121675Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee76-316a-70e9-ba48-3cb5733e093e/keyboard finished successfully
+2024-09-14T02:56:53.135429Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee76-316a-70e9-ba48-3cb5733e093e` finished on machine ``
+2024-09-14T02:57:08.549275Z  INFO dora: Starting in local mode
+2024-09-14T02:57:08.550220Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-09-14T02:57:09.641566Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:57:09.642997Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:57:09.849575Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee76-8208-7347-8776-6d05ba571ed0`
+2024-09-14T02:57:43.829112Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee76-8208-7347-8776-6d05ba571ed0/keyboard finished successfully
+2024-09-14T02:57:43.829387Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee76-8208-7347-8776-6d05ba571ed0` finished on machine ``
+2024-09-14T02:59:47.617207Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/usr/bin/python3" /home/crp/dora_project/dora_mickrobot/get_keyboard_value2.py
+2024-09-14T02:59:47.618526Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/crp/dora_project/dora_mickrobot/build/mickrobotx4
+2024-09-14T02:59:47.828074Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `0191ee78-eb20-7c09-af16-5e068f7376dc`
+2024-09-14T02:59:57.086129Z  INFO run_inner{self.machine_id=}: dora_daemon: node 0191ee78-eb20-7c09-af16-5e068f7376dc/keyboard finished successfully
+2024-09-14T02:59:57.086372Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `0191ee78-eb20-7c09-af16-5e068f7376dc` finished on machine ``

@@ -1,0 +1,4883 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 674
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281136,428.013 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 565
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281136,628.403 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 675
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281136,828.747 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 668
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281137,29.091 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+Twist event count: 0 data_seq null time is: 1726281137,29.326 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281137,29.389 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281137,29.455 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281137,29.539 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281137,29.628 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,29.712 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,29.775 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,29.826 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.031500Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,31.597 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.031713Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,31.762 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.031853Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,31.885 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,31.937 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,31.983 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,32.027 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,32.067 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,32.109 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,32.151 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,32.193 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,32.964 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.052204Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,52.234 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.072121Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,72.152 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.091623Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,91.655 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.111746Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,111.779 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.131342Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,131.374 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.151687Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,151.715 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.172476Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,172.51 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.192230Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,192.273 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.211752Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,211.797 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.232332Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,232.375 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.252182Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,252.216 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.271421Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,271.455 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.292241Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,292.293 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.312063Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,312.12 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.331676Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,331.712 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.351672Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,351.703 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.371629Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,371.674 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.392251Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,392.292 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.412325Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,412.363 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.432473Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,432.512 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.452216Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,452.244 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.471716Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,471.753 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.491534Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,491.583 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.512412Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,512.442 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.532218Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,532.27 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.552324Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,552.377 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.572517Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,572.552 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.591722Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,591.758 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.612120Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,612.171 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.632006Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,632.049 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281137,652.343 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281137,672.565 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281137,692.586 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+unrecognize frame 0xac 
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.712368Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,712.419 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.732431Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,732.467 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.752469Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,752.517 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.771878Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,771.93 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.791701Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,791.738 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.812095Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,812.141 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.831969Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,832.015 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.851983Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,852.018 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.871909Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,871.954 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.892204Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281137,892.24 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.912088Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,912.12 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:17.931938Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,931.969 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.952145Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,952.179 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.972361Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,972.409 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:17.992537Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281137,992.573 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.012515Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,12.555 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.031756Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,31.793 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.051678Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,51.709 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.071550Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,71.584 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.092097Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,92.132 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.112252Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,112.286 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.132484Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,132.521 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.151928Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,151.978 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.172410Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,172.445 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.192011Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,192.047 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.211276Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,211.306 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.231676Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,231.712 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.251485Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,251.517 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.271988Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,272.019 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.291269Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,291.299 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.312425Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,312.468 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.331743Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281138,331.776 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.351498Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,351.535 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281138,371.845 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281138,392.07 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281138,411.486 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:18.432360Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,432.396 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.452245Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,452.282 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.472073Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,472.111 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:18.492315Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,492.372 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.512001Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,512.032 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.532241Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,532.28 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.552063Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281138,552.099 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.572160Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,572.197 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.591568Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,591.604 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:18.611812Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,611.849 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.631743Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,631.785 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.652376Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,652.415 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.671720Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,671.756 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+unrecognize frame 0xac 
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.691637Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,691.672 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.712008Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281138,712.05 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.732275Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,732.311 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.752111Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,752.148 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.772237Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,772.268 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.791515Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,791.545 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.811680Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,811.711 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.831748Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,831.779 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.852203Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,852.234 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.871298Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281138,871.327 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.891744Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,891.772 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.911896Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,911.931 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.932023Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,932.067 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.951624Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,951.655 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.971833Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,971.864 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:18.992147Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281138,992.183 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.011569Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,11.599 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.032165Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,32.194 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:19.051594Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,51.624 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.071556Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,71.587 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281139,91.564 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281139,112.265 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281139,131.293 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:19.151826Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,151.858 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.172003Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,172.035 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.191386Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,191.417 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.212457Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,212.5 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.231688Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,231.72 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.252017Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,252.05 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.271948Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281139,271.978 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:19.291529Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,291.567 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.311765Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,311.798 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.331721Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,331.752 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.351355Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,351.39 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.372228Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,372.259 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.391504Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,391.54 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.411542Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,411.572 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.431680Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,431.722 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.452296Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281139,452.336 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.471981Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,472.013 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.491707Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,491.737 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.512148Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,512.197 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.532380Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281139,532.414 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.552176Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,552.208 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.571826Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,571.866 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.591968Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,592.003 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.612221Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281139,612.255 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.632020Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281139,632.055 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.651597Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,651.628 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.672128Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,672.162 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+unrecognize frame 0xac 
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.692210Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,692.241 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:19.711537Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,711.568 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.732209Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,732.24 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.752248Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,752.28 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.772253Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,772.285 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.792409Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,792.44 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281139,812.247 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281139,831.973 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281139,852.016 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.871946Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,871.977 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:19.891494Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,891.525 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.911657Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,911.688 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.931683Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,931.715 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:19.951818Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281139,951.849 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.971971Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,972.003 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:19.992278Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281139,992.322 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.012519Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,12.562 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.031752Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,31.784 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.051550Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,51.583 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.071340Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,71.372 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.091703Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,91.735 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.111393Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,111.424 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.132211Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,132.243 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.151856Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,151.889 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.171830Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,171.863 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.191936Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,191.969 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.211565Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,211.598 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.231845Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,231.876 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.251349Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,251.38 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.272290Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,272.321 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.291389Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,291.42 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.311520Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,311.553 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.332264Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,332.296 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.351740Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281140,351.771 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.372479Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,372.519 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.392188Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,392.218 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.412380Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,412.41 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.432302Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,432.333 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.451883Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,451.913 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.471653Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,471.683 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.491732Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,491.762 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.512523Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,512.553 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281140,532.003 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281140,551.982 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281140,572.563 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.591254Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,591.285 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.612586Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,612.62 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.631717Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,631.756 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.652013Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,652.05 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.671603Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,671.636 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+unrecognize frame 0xac 
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.691845Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,691.876 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.712071Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,712.102 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.731777Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,731.808 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.752343Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,752.387 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.772161Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,772.192 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.791592Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,791.622 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.811559Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,811.596 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.831769Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,831.809 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:20.851956Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,851.991 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.871888Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,871.926 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.891847Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+failed to send output
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,891.873 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:20.911586Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,911.624 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.931827Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+failed to send output
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,931.858 ms 
+failed to send output
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.951463Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,951.494 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+failed to send output
+[2m2024-09-14T02:32:20.971942Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+failed to send output
+Twist event count: 0 data_seq null time is: 1726281140,971.972 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+failed to send output
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:20.992010Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+failed to send output
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281140,992.042 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.012276Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,12.307 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.032207Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,32.238 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.052124Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,52.155 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.072177Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,72.22 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.092347Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,92.389 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.111651Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,111.681 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.131826Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,131.857 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.151534Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,151.569 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.172380Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,172.42 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.191664Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,191.7 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.212010Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,212.04 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.231502Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,231.533 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.251967Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,251.997 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281141,271.478 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281141,292.291 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.311895Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,311.924 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.331344Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,331.373 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.351740Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,351.77 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.372147Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,372.177 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.391697Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,391.728 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.411452Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,411.482 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+failed to send output
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.431782Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,431.812 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.451895Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,451.924 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.472163Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,472.205 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.492305Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,492.335 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.511896Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,511.925 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.531389Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,531.418 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.551940Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,551.97 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.571351Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,571.38 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.591518Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,591.549 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.612192Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,612.222 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.631954Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,631.982 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.651385Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,651.415 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.671842Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,671.873 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+unrecognize frame 0xac 
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.692010Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,692.038 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.711270Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,711.299 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.731907Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,731.937 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.751947Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,751.976 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.771335Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,771.364 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.791554Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,791.583 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.811922Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,811.952 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.831372Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,831.401 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.852104Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,852.134 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.871312Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,871.344 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.891586Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,891.615 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.912135Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,912.165 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.931543Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,931.572 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:21.952111Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281141,952.14 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281141,971.375 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281141,991.873 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281142,11.889 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.031958Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,31.986 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.051374Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,51.404 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.071563Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,71.592 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.092100Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,92.129 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.111702Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,111.732 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.132188Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,132.218 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.152347Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,152.375 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.171724Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,171.755 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.192131Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,192.161 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.211705Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,211.746 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.232246Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,232.281 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.252161Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,252.19 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.271539Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,271.569 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.292078Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,292.109 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.311987Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,312.017 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.332366Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,332.395 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.352302Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,352.337 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.371934Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,371.964 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.391806Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,391.842 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.411315Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,411.344 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.431875Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,431.905 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.451992Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,452.043 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.472240Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,472.269 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.491791Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,491.844 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.511860Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,511.892 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.531886Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,531.921 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.552311Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,552.349 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:22.997322Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281142,997.378 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 1153
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281143,197.575 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281143,397.797 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281143,598.019 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.598162Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,598.195 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,598.245 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,598.292 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,598.335 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,598.379 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,598.42 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,598.46 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,598.503 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.599350Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,599.386 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.599439Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,599.459 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,599.501 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.599565Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,599.587 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,599.626 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.599667Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,599.686 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,599.727 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,599.762 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.599800Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,599.819 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281143,599.861 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.611821Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,611.85 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.631654Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,631.683 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.651447Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,651.488 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.671235Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,671.267 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.691297Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281143,691.327 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:23.711403Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,67.096 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 1127
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281144,267.285 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.267439Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,267.483 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.543 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.598 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.649 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.701 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.745 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.787 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.837 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.886 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,267.933 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.268668Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,268.695 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.268744Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,268.764 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,268.795 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.268828Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,268.845 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,268.886 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.268937Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,268.957 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,268.998 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,269.038 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,269.072 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,269.11 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281144,271.427 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.292068Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,292.098 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.311416Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,311.45 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.332019Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,332.062 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.351722Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,351.751 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.371832Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,371.873 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.391955Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,391.995 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:24.411260Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281144,600.076 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281144,800.231 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 633
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281145,0.397 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:25.000542Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,0.585 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,0.632 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,0.664 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,0.687 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,0.708 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,0.729 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,0.753 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.52 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.57 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.607 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.639 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.668 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.69 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.713 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.737 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.765 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281145,1.787 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:25.011831Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,11.867 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  0  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:25.032180Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,32.21 ms 
+speed_x: 1  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.004000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  2.31743e-07  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:25.051580Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,51.631 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.012000	0.000000	0.000000
+odom: 0.012000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+odom: 0.025000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.09291e-06  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:25.072041Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,72.07 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.042000	0.000000	0.000000
+odom: 0.042000	0.000000	0.000000
+odom: 0.064000	0.000000	0.000000
+odom: 0.064000	0.000000	0.000000
+odom: 0.090000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  2.89536e-06  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:25.092172Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,92.2 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.090000	0.000000	0.000000
+odom: 0.090000	0.000000	0.000000
+odom: 0.118000	0.000000	0.000000
+odom: 0.118000	0.000000	0.000000
+odom: 0.118000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  5.20229e-06  position_y:  0   position_w: 0
+[2m2024-09-14T02:32:25.111595Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,111.623 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.142000	0.000000	0.000000
+odom: 0.150000	0.000000	0.000000
+odom: 0.150000	0.000000	0.000000
+odom: 0.150000	0.000000	0.000000
+odom: 0.132000	0.000000	-0.322000
+curr_time: 1.72628e+09 s 
+  position_x:  7.87735e-06  position_y:  0   position_w: -6.52552e-06
+[2m2024-09-14T02:32:25.131955Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,131.985 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.132000	0.000000	-0.322000
+odom: 0.110000	0.000000	-0.404000
+odom: 0.110000	0.000000	-0.404000
+odom: 0.110000	0.000000	-0.404000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.151231Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,151.262 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.060000	0.000000	-0.384000
+odom: 0.029000	0.000000	0.000000
+odom: 0.029000	0.000000	0.000000
+odom: 0.029000	0.000000	0.000000
+odom: 0.003000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.171834Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,171.865 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.003000	0.000000	0.000000
+odom: 0.003000	0.000000	0.000000
+odom: -0.007000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.191965Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,191.991 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: -0.003000	0.000000	0.000000
+odom: -0.003000	0.000000	0.000000
+odom: 0.001000	0.000000	0.000000
+odom: 0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.211568Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,211.597 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: -0.001000	0.000000	0.000000
+odom: -0.001000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.231991Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,232.028 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: -0.002000	0.000000	0.000000
+odom: -0.002000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.251257Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,251.287 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.271600Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,271.636 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.292080Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,292.111 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.311645Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,311.689 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.332402Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,332.454 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.352079Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,352.115 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.371256Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,371.286 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.391928Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,391.962 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.412093Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,412.144 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.432052Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,432.087 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.451416Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,451.451 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:25.471543Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281145,471.579 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 1647
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281146,247.562 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+serial data is too short ,  len: 676
+ analy uart recive data error ...Twist event count: 0 data_seq null time is: 1726281146,447.746 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+odom: 0.000000	0.000000	0.000000
+curr_time: 1.72628e+09 s 
+  position_x:  1.00017e-05  position_y:  -1.38622e-11   position_w: -1.43275e-05
+[2m2024-09-14T02:32:26.447873Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m unknown output
+
+Location:
+    apis/rust/node/src/node/mod.rs:251:13
+dora_send_output()
+Twist event count: 0 data_seq null time is: 1726281146,447.904 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,447.943 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,447.97 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,447.995 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,448.021 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,448.044 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,448.073 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,448.103 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+Twist event count: 0 data_seq null time is: 1726281146,448.126 ms 
+speed_x: 0  speed_y: 0  speed_w: 0
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...
