@@ -14,14 +14,14 @@ nodes:
       - char
 
   - id: key-interpolation
-    path: ../nodes/key_interpolation.py
+    path: key_interpolation.py
     inputs:
       keyboard: keyboard-listener/char
     outputs:
       - text
 
   - id: text-interpolation
-    path: ../nodes/text_interpolation.py
+    path: text_interpolation.py
     inputs:
       text: dora-qwenvl/text
     outputs:
