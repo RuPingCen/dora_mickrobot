@@ -1,0 +1,28 @@
+nodes:
+  - id: mickrobot_chassis
+    path: build/mickrobotx4
+    inputs:
+      CmdVelTwist:
+        source: text-interpolation/CmdVelTwist
+    outputs:
+      - Odometry
+
+  - id: keyboard-listener
+    build: pip install dora-keyboard
+    path: dora-keyboard
+    outputs:
+      - char
+
+  - id: key-interpolation
+    path: key_interpolation.py
+    inputs:
+      keyboard: keyboard-listener/char
+    outputs:
+      - text
+
+  - id: text-interpolation
+    path: text_interpolation.py
+    inputs:
+      text: dora-qwenvl-recorder/text
+    outputs:
+      - CmdVelTwist

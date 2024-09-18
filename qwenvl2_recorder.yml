@@ -1,0 +1,67 @@
+nodes:
+  - id: mickrobot_chassis
+    path: build/mickrobotx4
+    inputs:
+      CmdVelTwist:
+        source: text-interpolation/CmdVelTwist
+    outputs:
+      - Odometry
+
+  - id: keyboard-listener
+    build: pip install dora-keyboard
+    path: dora-keyboard
+    outputs:
+      - char
+
+  - id: key-interpolation
+    path: key_interpolation.py
+    inputs:
+      keyboard: keyboard-listener/char
+    outputs:
+      - text
+
+  - id: text-interpolation
+    path: text_interpolation.py
+    inputs:
+      text: dora-qwenvl-recorder/text
+    outputs:
+      - CmdVelTwist
+
+  - id: camera
+    build: pip install -e opencv-video-capture
+    path: opencv-video-capture
+    inputs:
+      tick: dora/timer/millis/16
+    outputs:
+      - image
+    env:
+      CAPTURE_PATH: 0
+      IMAGE_WIDTH: 640
+      IMAGE_HEIGHT: 480
+
+  - id: plot
+    build: cargo install dora-rerun --locked && cargo install --force rerun-cli@0.15.1
+    path: dora-rerun
+    inputs:
+      image:
+        source: camera/image
+        queue_size: 1
+      textlog_vlm: dora-qwenvl-recorder/text
+    env:
+      IMAGE_WIDTH: 640
+      IMAGE_HEIGHT: 480
+
+  - id: dora-qwenvl-recorder
+    build: pip install -e llama-factory-recorder
+    path: llama-factory-recorder
+    inputs:
+      image:
+        source: camera/image
+        queue_size: 1
+      ground_truth: key-interpolation/text
+      text: text-interpolation/question
+    outputs:
+      - text
+    env:
+      DEFAULT_QUESTION: Respond with right, left, forward, backward, open, or close to move to objective
+      LLAMA_FACTORY_ROOT_PATH: ../LLaMA-Factory
