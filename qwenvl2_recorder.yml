@@ -59,7 +59,6 @@ nodes:
         source: camera/image
         queue_size: 1
       ground_truth: key-interpolation/text
-      text: text-interpolation/question
     outputs:
       - text
     env:
