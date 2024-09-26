@@ -123,8 +123,6 @@ You can then
 
 ```bash
 # Clone llama factory
-cd ..
-cd ../dora_mickrobot
 dora build qwenvl2.yml
 dora start qwenvl2.yml
 ```
