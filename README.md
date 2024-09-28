@@ -123,9 +123,6 @@ You can then
 
 ```bash
 # Clone llama factory
-cd ..
-git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git
-cd ../dora_mickrobot
-dora build qwenvl2_recorder.yml
-dora start qwenvl2_recorder.yml
+dora build qwenvl2.yml
+dora start qwenvl2.yml
 ```

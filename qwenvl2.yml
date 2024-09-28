@@ -52,8 +52,8 @@ nodes:
       IMAGE_HEIGHT: 480
 
   - id: dora-qwenvl
-    build: pip install -e llama-factory
-    path: llama-factory
+    build: pip install -e ../dora/node-hub/dora-qwenvl
+    path: dora-qwenvl
     inputs:
       image:
         source: camera/image
