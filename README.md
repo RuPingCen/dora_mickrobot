@@ -1,40 +1,44 @@
 # Overview
 
-该节点主要基于 C/C++实现，节点读取键盘数据并控制 mickrobot 四轮差速小车移动
+This is a Dora program that uses the qwenvl2 model to realize the movement of the car. We want to use a camera installed on the car as the input of the large language model, and have the large language model output four instructions: forward, backward, turn left, and turn right to achieve autonomous driving of the car.
 
-1. **w a d x** ：表示前后左右
+## mickrobot_chassis
 
-2. **上 下 左 右**（方向键） ：表示前后左右
+The mickrobot_chassis node is implemented based on C/C++. This node gets keyboard value and controls the movement of the chassis
 
-3. **s** 表示停止
+1. **w a d x**: indicates front, back, left, and right
 
-4. 数字键 **1 2 3** 表示速度 1m/s 2m/s 3m/s
+2. **up, down, left, and right** (direction keys): indicates front, back, left, and right
 
-注：使用该节点时候需要打开左上角遥控器开关，设置到自动驾驶模式。
+3. **s** indicates stop
 
-## 启动命令：
+4. Number keys **1、2、 3** indicate speed 1**m/s 、2m/s、 3m/s**
 
-为串口添加权限
+==Note:== When using this node, you need to turn on the remote control switch in the upper left corner, which means setting the chassis to automatic driving mode.（使用该节点时候需要打开左上角遥控器开关，设置到自动驾驶模式）。
+
+###   mickrobot_chassis node usage ：
+
+Grant permissions to the serial port
 
 ```
 sudo chmod 777 /dev/ttyUSB0
 ```
 
-启动 dora 节点
+start mickrobot_chassis node with  Dora 
 
 ```
 dora start  mickrobot_dataflow.yml --name test
 ```
 
-## 查看打印信息
+### show chassis logs
 
 ```
  dora logs test mickrobot_chassis
 ```
 
-## 节点说明
+### Chassis receiving/publishing message 
 
-该节点接收 CmdVelTwist 的 json 字符串流，获取 json 字符中以下数据对小车底盘进行控制
+This mickrobot_chassis node receives the json string stream from **CmdVelTwist** and obtains the following data in the json string to control the chassis of the car
 
 ```
 j_cmd_vel["linear"]["x"];
@@ -45,24 +49,25 @@ j_cmd_vel["angular"]["y"];
 j_cmd_vel["angular"]["z"];
 ```
 
-同时，小车底盘会以 100Hz 的频率对外发布小车的状态信息（x 方向速度，y 方向速度，旋转角速度），发布的 Json 字符串数据流名称为“Odometry”
+At the same time, the mickrobot_chassis node will publish the chassis status (x speed, y speed, rotational angular velocity) at a frequency of 100Hz. The name of the published Json string data stream is "Odometry"
 
 ```
-	# chassis position
-	j_odom_pub["pose"]["position"]["x"] = position_x;
-	j_odom_pub["pose"]["position"]["y"] = position_y;
-	j_odom_pub["pose"]["position"]["z"] = 0;
-	j_odom_pub["pose"]["orientation"]["x"] = 0;
-	j_odom_pub["pose"]["orientation"]["y"] = 0;
-	j_odom_pub["pose"]["orientation"]["z"] = 0;
-	j_odom_pub["pose"]["orientation"]["w"] = 1;
-	# chassis speed
-	j_odom_pub["twist"]["linear"]["x"] = linear_x;
-	j_odom_pub["twist"]["linear"]["y"] = linear_y;
-	j_odom_pub["twist"]["linear"]["z"] = 0;
-	j_odom_pub["twist"]["angular"]["x"] = 0;
-	j_odom_pub["twist"]["angular"]["y"] = 0;
-	j_odom_pub["twist"]["angular"]["z"] = linear_w;
+# publish Odometry Json string
+# chassis position
+j_odom_pub["pose"]["position"]["x"] = position_x;
+j_odom_pub["pose"]["position"]["y"] = position_y;
+j_odom_pub["pose"]["position"]["z"] = 0;
+j_odom_pub["pose"]["orientation"]["x"] = 0;
+j_odom_pub["pose"]["orientation"]["y"] = 0;
+j_odom_pub["pose"]["orientation"]["z"] = 0;
+j_odom_pub["pose"]["orientation"]["w"] = 1;
+# chassis speed
+j_odom_pub["twist"]["linear"]["x"] = linear_x;
+j_odom_pub["twist"]["linear"]["y"] = linear_y;
+j_odom_pub["twist"]["linear"]["z"] = 0;
+j_odom_pub["twist"]["angular"]["x"] = 0;
+j_odom_pub["twist"]["angular"]["y"] = 0;
+j_odom_pub["twist"]["angular"]["z"] = linear_w;
 ```
 
 ## Qwenvl2 recorder
@@ -132,8 +137,7 @@ dora start qwenvl2.yml
 
 
 
+# Note:
 
-
-注意：
-
-1、针对不同的相机设备，需要修改 xxx.yml文件中camera节点的参数
+1. For different camera devices, you need to modify the parameters of the camera node in the xxx.yml file
+1.  The parameter LLAMA_FACTORY_ROOT_PATH in the yml file should give the absolute path
