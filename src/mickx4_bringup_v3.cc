@@ -219,9 +219,9 @@ int run(void *dora_context)
 
 				cout << "Twist event count: "<<count_1<<" data_seq "<< j_cmd_vel["seq"]<<" time is: " << 
 					 std::fixed << std::setprecision(9) << tv.tv_sec +tv.tv_usec*1e-9<<" s " <<std::endl;
-				//std::cout << "<----print---->" <<j<< std::endl;
+				std::cout << "<----print---->" <<j_cmd_vel<< std::endl;
 				cmdvel_twist.header.frame_id = j_cmd_vel["header"]["frame_id"];
-				cmdvel_twist.header.seq = j_cmd_vel["header"]["seq"];
+				cmdvel_twist.header.seq = 	j_cmd_vel ["header"]["seq"];
 				cmdvel_twist.header.sec = j_cmd_vel["header"]["stamp"]["sec"];
 				cmdvel_twist.header.nanosec = j_cmd_vel["header"]["stamp"]["nanosec"];
 				cmdvel_twist.linear.x = j_cmd_vel["linear"]["x"];

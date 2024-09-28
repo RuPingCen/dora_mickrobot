@@ -23,36 +23,42 @@ nodes:
   - id: text-interpolation
     path: text_interpolation.py
     inputs:
-      text: dora-qwenvl-recorder/text
+      text: key-interpolation/text
     outputs:
       - CmdVelTwist
 
   - id: camera
-    build: pip install -e opencv-video-capture
+    build: pip install opencv-video-capture
     path: opencv-video-capture
     inputs:
       tick: dora/timer/millis/16
     outputs:
       - image
     env:
-      CAPTURE_PATH: 0
+      CAPTURE_PATH: 2
       IMAGE_WIDTH: 640
       IMAGE_HEIGHT: 480
 
   - id: plot
-    build: cargo install dora-rerun --locked && cargo install --force rerun-cli@0.15.1
-    path: dora-rerun
-    inputs:
-      image:
-        source: camera/image
-        queue_size: 1
-      textlog_vlm: dora-qwenvl-recorder/text
-    env:
-      IMAGE_WIDTH: 640
-      IMAGE_HEIGHT: 480
+    operator:
+      python: plot_image_only.py
+      inputs:
+        image: camera/image
+
+  # - id: plot
+  #   build: cargo install dora-rerun --locked && cargo install --force rerun-cli@0.15.1
+  #   path: dora-rerun
+  #   inputs:
+  #     image:
+  #       source: camera/image
+  #       queue_size: 1
+  #     textlog_vlm: dora-qwenvl-recorder/text
+  #   env:
+  #     IMAGE_WIDTH: 640
+  #     IMAGE_HEIGHT: 480
 
   - id: dora-qwenvl-recorder
-    build: pip install -e llama-factory-recorder
+    build: pip install llama-factory-recorder
     path: llama-factory-recorder
     inputs:
       image:
@@ -63,4 +69,4 @@ nodes:
       - text
     env:
       DEFAULT_QUESTION: Respond with right, left, forward, backward, open, or close to move to objective
-      LLAMA_FACTORY_ROOT_PATH: ../LLaMA-Factory
+      LLAMA_FACTORY_ROOT_PATH: /home/crp/dora_project/LLaMA-Factory

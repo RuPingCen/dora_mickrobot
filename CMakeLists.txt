@@ -58,7 +58,7 @@ target_link_libraries(mickrobotx4
   ${YAMLCPP_LIBRARIES}
   #$ENV{HOME}/dora/target/debug/libdora_node_api_cxx.a
   $ENV{HOME}/dora/target/release/libdora_node_api_c.a
-  serial
+  /home/crp/dora_project/dora_mickrobot/thridpart_lib/serial/build/libserial.so
   m
   rt
   dl 

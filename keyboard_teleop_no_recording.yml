@@ -23,6 +23,6 @@ nodes:
   - id: text-interpolation
     path: text_interpolation.py
     inputs:
-      text: dora-qwenvl-recorder/text
+      text: key-interpolation/text
     outputs:
       - CmdVelTwist

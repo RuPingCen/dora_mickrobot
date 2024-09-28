@@ -9,6 +9,7 @@ for event in node:
         if event["id"] == "keyboard":
             char = event["value"][0].as_py()
             if char == "w":
+                print(" w ",event["value"])
                 node.send_output("text", pa.array(["forward"]))
             elif char == "s":
                 node.send_output("text", pa.array(["backward"]))

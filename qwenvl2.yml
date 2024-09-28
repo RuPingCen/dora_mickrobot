@@ -23,44 +23,51 @@ nodes:
   - id: text-interpolation
     path: text_interpolation.py
     inputs:
-      text: dora-qwenvl/text
+      text: dora-qwenvl/tick
     outputs:
       - CmdVelTwist
 
   - id: camera
-    build: pip install -e opencv-video-capture
+    build: pip install opencv-video-capture
     path: opencv-video-capture
     inputs:
       tick: dora/timer/millis/16
     outputs:
       - image
     env:
-      CAPTURE_PATH: 0
+      CAPTURE_PATH: 2
       IMAGE_WIDTH: 640
       IMAGE_HEIGHT: 480
 
   - id: plot
-    build: cargo install dora-rerun --locked && cargo install --force rerun-cli@0.15.1
-    path: dora-rerun
-    inputs:
-      image:
-        source: camera/image
-        queue_size: 1
-      textlog_vlm: dora-qwenvl/text
-    env:
-      IMAGE_WIDTH: 640
-      IMAGE_HEIGHT: 480
+    operator:
+      python: plot_image_only.py
+      inputs:
+        image: camera/image
+  # - id: plot
+  #   build: cargo install dora-rerun --locked && cargo install --force rerun-cli@0.15.1
+  #   path: dora-rerun
+  #   inputs:
+  #     image:
+  #       source: camera/image
+  #       queue_size: 1
+  #     textlog_vlm: dora-qwenvl/text
+  #   env:
+  #     IMAGE_WIDTH: 640
+  #     IMAGE_HEIGHT: 480
 
   - id: dora-qwenvl
-    build: pip install -e ../dora/node-hub/dora-qwenvl
+    build: pip install /home/crp/dora/node-hub/dora-qwenvl
+    # path: llama-factory
     path: dora-qwenvl
     inputs:
       image:
         source: camera/image
         queue_size: 1
-      ground_truth: key-interpolation/text
+      # tick: key-interpolation/text
+      tick: dora/timer/millis/500
     outputs:
-      - text
+      - tick
     env:
       DEFAULT_QUESTION: Respond with right, left, forward, backward, open, or close to move to objective
-      CUSTOM_MODEL_PATH: ../LLaMA-Factory/saves/qwen2_vl-7b/lora/sft
+      CUSTOM_MODEL_PATH: /home/crp/dora_project/LLaMA-Factory/saves/qwen2_vl-7b/lora/sft
