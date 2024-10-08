@@ -20,21 +20,35 @@ The mickrobot_chassis node is implemented based on C/C++. This node gets keyboar
 
 step1：you should check dora  path in  “dora_mickrobot/CMakeLists.txt" line 47、48、60  and line 61 for mickrobot_chassis node path.
 
-step2： build chassis node 
+
+
+step2：unzip and build  thridpart_lib serial
 
 ```
-cd dora_mickrobot/build
+cd dora_mickrobot\thridpart_lib
+unzip  serial.zip
+cd serial 
+mkdir build
 cmake ..
 make
 ```
 
-step3： Grant permissions to the serial port
+step3： build chassis node 
+
+```
+cd dora_mickrobot
+mkdir build
+cmake ..
+make
+```
+
+step4： Grant permissions to the serial port
 
 ```
 sudo chmod 777 /dev/ttyUSB0
 ```
 
-step4： start mickrobot_chassis node with  Dora 
+step5： start mickrobot_chassis node with  Dora 
 
 ```
 dora start  mickrobot_dataflow.yml --name test

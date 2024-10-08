@@ -1,5 +1,0 @@
-/home/crp/dora_project/dora_mickrobot/build/CMakeFiles/edit_cache.dir
-/home/crp/dora_project/dora_mickrobot/build/CMakeFiles/mickrobotx4.dir
-/home/crp/dora_project/dora_mickrobot/build/CMakeFiles/rebuild_cache.dir
-/home/crp/dora_project/dora_mickrobot/build/CMakeFiles/mickrobot_uninstall.dir
-/home/crp/dora_project/dora_mickrobot/build/CMakeFiles/uninstall.dir
