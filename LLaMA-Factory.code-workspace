@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../LLaMA-Factory"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

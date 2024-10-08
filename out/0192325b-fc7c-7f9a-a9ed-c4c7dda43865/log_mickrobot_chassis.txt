@@ -1,0 +1,983 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+Twist event count: 1 data_seq null time is: 1727421751.000787020 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":1,"stamp":{"nanosec":786360979,"sec":1727421751}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 2 data_seq null time is: 1727421752.000243664 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":2,"stamp":{"nanosec":243175029,"sec":1727421752}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 3 data_seq null time is: 1727421752.000716686 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":3,"stamp":{"nanosec":716171979,"sec":1727421752}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 4 data_seq null time is: 1727421753.000191450 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":4,"stamp":{"nanosec":190568923,"sec":1727421753}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 5 data_seq null time is: 1727421753.000668526 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":5,"stamp":{"nanosec":668030023,"sec":1727421753}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 6 data_seq null time is: 1727421754.000146151 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":6,"stamp":{"nanosec":145865917,"sec":1727421754}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 7 data_seq null time is: 1727421754.000620127 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":7,"stamp":{"nanosec":619602918,"sec":1727421754}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 8 data_seq null time is: 1727421755.000093699 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":8,"stamp":{"nanosec":93308925,"sec":1727421755}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 9 data_seq null time is: 1727421755.000569105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":9,"stamp":{"nanosec":568603992,"sec":1727421755}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 10 data_seq null time is: 1727421756.000045300 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":10,"stamp":{"nanosec":44708967,"sec":1727421756}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 11 data_seq null time is: 1727421756.000516891 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":11,"stamp":{"nanosec":516422986,"sec":1727421756}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 12 data_seq null time is: 1727421756.000992537 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":12,"stamp":{"nanosec":992185115,"sec":1727421756}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 13 data_seq null time is: 1727421757.000467539 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":13,"stamp":{"nanosec":466948986,"sec":1727421757}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 14 data_seq null time is: 1727421757.000941992 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":14,"stamp":{"nanosec":941606044,"sec":1727421757}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 15 data_seq null time is: 1727421758.000415802 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":15,"stamp":{"nanosec":415443897,"sec":1727421758}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 16 data_seq null time is: 1727421758.000890970 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":16,"stamp":{"nanosec":890583038,"sec":1727421758}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 17 data_seq null time is: 1727421759.000363111 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":17,"stamp":{"nanosec":362884044,"sec":1727421759}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 18 data_seq null time is: 1727421759.000838041 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":18,"stamp":{"nanosec":837651968,"sec":1727421759}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 19 data_seq null time is: 1727421760.000309706 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":19,"stamp":{"nanosec":309263944,"sec":1727421760}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 20 data_seq null time is: 1727421760.000785112 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":20,"stamp":{"nanosec":784581899,"sec":1727421760}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 21 data_seq null time is: 1727421761.000262260 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":21,"stamp":{"nanosec":261904001,"sec":1727421761}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 22 data_seq null time is: 1727421761.000737906 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":22,"stamp":{"nanosec":737503051,"sec":1727421761}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 23 data_seq null time is: 1727421762.000213385 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":23,"stamp":{"nanosec":212973117,"sec":1727421762}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 24 data_seq null time is: 1727421762.000689983 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":24,"stamp":{"nanosec":689650058,"sec":1727421762}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 25 data_seq null time is: 1727421763.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":25,"stamp":{"nanosec":182523012,"sec":1727421763}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 26 data_seq null time is: 1727421763.000680208 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":26,"stamp":{"nanosec":679825067,"sec":1727421763}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 27 data_seq null time is: 1727421764.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":27,"stamp":{"nanosec":183855056,"sec":1727421764}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 28 data_seq null time is: 1727421764.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":28,"stamp":{"nanosec":684439897,"sec":1727421764}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 29 data_seq null time is: 1727421765.000180960 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":29,"stamp":{"nanosec":180672883,"sec":1727421765}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 30 data_seq null time is: 1727421765.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":30,"stamp":{"nanosec":683185100,"sec":1727421765}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 31 data_seq null time is: 1727421766.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":31,"stamp":{"nanosec":182188987,"sec":1727421766}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 32 data_seq null time is: 1727421766.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":32,"stamp":{"nanosec":682156085,"sec":1727421766}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 33 data_seq null time is: 1727421767.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":33,"stamp":{"nanosec":182847023,"sec":1727421767}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 34 data_seq null time is: 1727421767.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":34,"stamp":{"nanosec":681972980,"sec":1727421767}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 35 data_seq null time is: 1727421768.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":35,"stamp":{"nanosec":183137893,"sec":1727421768}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 36 data_seq null time is: 1727421768.000682116 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":36,"stamp":{"nanosec":681719064,"sec":1727421768}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 37 data_seq null time is: 1727421769.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":37,"stamp":{"nanosec":182646989,"sec":1727421769}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 38 data_seq null time is: 1727421769.000686884 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":38,"stamp":{"nanosec":686291933,"sec":1727421769}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 39 data_seq null time is: 1727421770.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":39,"stamp":{"nanosec":181817054,"sec":1727421770}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 40 data_seq null time is: 1727421770.000681162 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":40,"stamp":{"nanosec":680805921,"sec":1727421770}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 41 data_seq null time is: 1727421771.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":41,"stamp":{"nanosec":183765888,"sec":1727421771}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 42 data_seq null time is: 1727421771.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":42,"stamp":{"nanosec":683609008,"sec":1727421771}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 43 data_seq null time is: 1727421772.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":43,"stamp":{"nanosec":181276082,"sec":1727421772}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 44 data_seq null time is: 1727421772.000685692 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":44,"stamp":{"nanosec":685467004,"sec":1727421772}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 45 data_seq null time is: 1727421773.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":45,"stamp":{"nanosec":182349920,"sec":1727421773}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 46 data_seq null time is: 1727421773.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":46,"stamp":{"nanosec":683790922,"sec":1727421773}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 47 data_seq null time is: 1727421774.000189304 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":47,"stamp":{"nanosec":188591003,"sec":1727421774}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 48 data_seq null time is: 1727421774.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":48,"stamp":{"nanosec":683639049,"sec":1727421774}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 49 data_seq null time is: 1727421775.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":49,"stamp":{"nanosec":183245897,"sec":1727421775}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 50 data_seq null time is: 1727421775.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":50,"stamp":{"nanosec":684140920,"sec":1727421775}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 51 data_seq null time is: 1727421776.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":51,"stamp":{"nanosec":183721065,"sec":1727421776}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 52 data_seq null time is: 1727421776.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":52,"stamp":{"nanosec":683495998,"sec":1727421776}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 53 data_seq null time is: 1727421777.000190258 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":53,"stamp":{"nanosec":189851045,"sec":1727421777}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 54 data_seq null time is: 1727421777.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":54,"stamp":{"nanosec":682425022,"sec":1727421777}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 55 data_seq null time is: 1727421778.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":55,"stamp":{"nanosec":182852029,"sec":1727421778}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 56 data_seq null time is: 1727421778.000686884 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":56,"stamp":{"nanosec":686569929,"sec":1727421778}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 57 data_seq null time is: 1727421779.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":57,"stamp":{"nanosec":181900978,"sec":1727421779}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 58 data_seq null time is: 1727421779.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":58,"stamp":{"nanosec":682801961,"sec":1727421779}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 59 data_seq null time is: 1727421780.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":59,"stamp":{"nanosec":183103084,"sec":1727421780}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 60 data_seq null time is: 1727421780.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":60,"stamp":{"nanosec":684530019,"sec":1727421780}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 61 data_seq null time is: 1727421781.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":61,"stamp":{"nanosec":181536912,"sec":1727421781}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 62 data_seq null time is: 1727421781.000686646 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":62,"stamp":{"nanosec":686393976,"sec":1727421781}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 63 data_seq null time is: 1727421782.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":63,"stamp":{"nanosec":182054042,"sec":1727421782}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 64 data_seq null time is: 1727421782.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":64,"stamp":{"nanosec":684746026,"sec":1727421782}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 65 data_seq null time is: 1727421783.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":65,"stamp":{"nanosec":181824922,"sec":1727421783}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 66 data_seq null time is: 1727421783.000682116 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":66,"stamp":{"nanosec":681747913,"sec":1727421783}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 67 data_seq null time is: 1727421784.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":67,"stamp":{"nanosec":181080102,"sec":1727421784}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 68 data_seq null time is: 1727421784.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":68,"stamp":{"nanosec":682482004,"sec":1727421784}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 69 data_seq null time is: 1727421785.000181198 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":69,"stamp":{"nanosec":180658102,"sec":1727421785}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 70 data_seq null time is: 1727421785.000680685 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":70,"stamp":{"nanosec":680289030,"sec":1727421785}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 71 data_seq null time is: 1727421786.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":71,"stamp":{"nanosec":182543039,"sec":1727421786}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 72 data_seq null time is: 1727421786.000680447 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":72,"stamp":{"nanosec":679975032,"sec":1727421786}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 73 data_seq null time is: 1727421787.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":73,"stamp":{"nanosec":180891036,"sec":1727421787}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 74 data_seq null time is: 1727421787.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":74,"stamp":{"nanosec":682528018,"sec":1727421787}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 75 data_seq null time is: 1727421788.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":75,"stamp":{"nanosec":181310892,"sec":1727421788}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 76 data_seq null time is: 1727421788.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":76,"stamp":{"nanosec":684925079,"sec":1727421788}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 77 data_seq null time is: 1727421789.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":77,"stamp":{"nanosec":182653903,"sec":1727421789}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 78 data_seq null time is: 1727421789.000681400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":78,"stamp":{"nanosec":681124925,"sec":1727421789}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 79 data_seq null time is: 1727421790.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":79,"stamp":{"nanosec":182848930,"sec":1727421790}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 80 data_seq null time is: 1727421790.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":80,"stamp":{"nanosec":683296918,"sec":1727421790}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 81 data_seq null time is: 1727421791.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":81,"stamp":{"nanosec":182535886,"sec":1727421791}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 82 data_seq null time is: 1727421791.000681877 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":82,"stamp":{"nanosec":681374073,"sec":1727421791}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 83 data_seq null time is: 1727421792.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":83,"stamp":{"nanosec":181770086,"sec":1727421792}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 84 data_seq null time is: 1727421792.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":84,"stamp":{"nanosec":682559967,"sec":1727421792}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 85 data_seq null time is: 1727421793.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":85,"stamp":{"nanosec":182688951,"sec":1727421793}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 86 data_seq null time is: 1727421793.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":86,"stamp":{"nanosec":682692050,"sec":1727421793}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 87 data_seq null time is: 1727421794.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":87,"stamp":{"nanosec":181523084,"sec":1727421794}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 88 data_seq null time is: 1727421794.000681639 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":88,"stamp":{"nanosec":681118965,"sec":1727421794}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 89 data_seq null time is: 1727421795.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":89,"stamp":{"nanosec":180943965,"sec":1727421795}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 90 data_seq null time is: 1727421795.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":90,"stamp":{"nanosec":683562040,"sec":1727421795}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 91 data_seq null time is: 1727421796.000179768 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":91,"stamp":{"nanosec":179253101,"sec":1727421796}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 92 data_seq null time is: 1727421796.000681877 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":92,"stamp":{"nanosec":681548118,"sec":1727421796}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 93 data_seq null time is: 1727421797.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":93,"stamp":{"nanosec":181667089,"sec":1727421797}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 94 data_seq null time is: 1727421797.000681639 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":94,"stamp":{"nanosec":680949926,"sec":1727421797}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 95 data_seq null time is: 1727421798.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":95,"stamp":{"nanosec":180994987,"sec":1727421798}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 96 data_seq null time is: 1727421798.000681400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":96,"stamp":{"nanosec":680911064,"sec":1727421798}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 97 data_seq null time is: 1727421799.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":97,"stamp":{"nanosec":183835029,"sec":1727421799}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 98 data_seq null time is: 1727421799.000681400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":98,"stamp":{"nanosec":681149959,"sec":1727421799}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 99 data_seq null time is: 1727421800.000180244 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":99,"stamp":{"nanosec":179828882,"sec":1727421800}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 100 data_seq null time is: 1727421800.000681400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":100,"stamp":{"nanosec":680721998,"sec":1727421800}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 101 data_seq null time is: 1727421801.000179768 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":101,"stamp":{"nanosec":179363965,"sec":1727421801}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 102 data_seq null time is: 1727421801.000679016 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":102,"stamp":{"nanosec":678843021,"sec":1727421801}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 103 data_seq null time is: 1727421802.000180483 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":103,"stamp":{"nanosec":180026054,"sec":1727421802}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 104 data_seq null time is: 1727421802.000682116 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":104,"stamp":{"nanosec":681647062,"sec":1727421802}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 105 data_seq null time is: 1727421803.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":105,"stamp":{"nanosec":181586027,"sec":1727421803}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 106 data_seq null time is: 1727421803.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":106,"stamp":{"nanosec":683893918,"sec":1727421803}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 107 data_seq null time is: 1727421804.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":107,"stamp":{"nanosec":181607007,"sec":1727421804}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 108 data_seq null time is: 1727421804.000681162 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":108,"stamp":{"nanosec":680610895,"sec":1727421804}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 109 data_seq null time is: 1727421805.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":109,"stamp":{"nanosec":181416988,"sec":1727421805}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 110 data_seq null time is: 1727421805.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":110,"stamp":{"nanosec":683208942,"sec":1727421805}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 111 data_seq null time is: 1727421806.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":111,"stamp":{"nanosec":182148933,"sec":1727421806}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 112 data_seq null time is: 1727421806.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":112,"stamp":{"nanosec":681981086,"sec":1727421806}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 113 data_seq null time is: 1727421807.000180960 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":113,"stamp":{"nanosec":180480003,"sec":1727421807}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 114 data_seq null time is: 1727421807.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":114,"stamp":{"nanosec":683933973,"sec":1727421807}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 115 data_seq null time is: 1727421808.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":115,"stamp":{"nanosec":181711912,"sec":1727421808}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 116 data_seq null time is: 1727421808.000681877 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":116,"stamp":{"nanosec":681755065,"sec":1727421808}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 117 data_seq null time is: 1727421809.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":117,"stamp":{"nanosec":181526899,"sec":1727421809}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 118 data_seq null time is: 1727421809.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":118,"stamp":{"nanosec":683943033,"sec":1727421809}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 119 data_seq null time is: 1727421810.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":119,"stamp":{"nanosec":182216882,"sec":1727421810}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 120 data_seq null time is: 1727421810.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":120,"stamp":{"nanosec":682307004,"sec":1727421810}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 121 data_seq null time is: 1727421811.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":121,"stamp":{"nanosec":182588100,"sec":1727421811}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 122 data_seq null time is: 1727421811.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":122,"stamp":{"nanosec":682409048,"sec":1727421811}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 123 data_seq null time is: 1727421812.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":123,"stamp":{"nanosec":183860063,"sec":1727421812}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 124 data_seq null time is: 1727421812.000685692 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":124,"stamp":{"nanosec":685065984,"sec":1727421812}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 125 data_seq null time is: 1727421813.000185966 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":125,"stamp":{"nanosec":185571908,"sec":1727421813}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 126 data_seq null time is: 1727421813.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":126,"stamp":{"nanosec":684180974,"sec":1727421813}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 127 data_seq null time is: 1727421814.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":127,"stamp":{"nanosec":184616088,"sec":1727421814}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 128 data_seq null time is: 1727421814.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":128,"stamp":{"nanosec":685187101,"sec":1727421814}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 129 data_seq null time is: 1727421815.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":129,"stamp":{"nanosec":181425094,"sec":1727421815}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 130 data_seq null time is: 1727421815.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":130,"stamp":{"nanosec":682756900,"sec":1727421815}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 131 data_seq null time is: 1727421816.000181198 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":131,"stamp":{"nanosec":180553913,"sec":1727421816}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 132 data_seq null time is: 1727421816.000685692 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":132,"stamp":{"nanosec":685401916,"sec":1727421816}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 133 data_seq null time is: 1727421817.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":133,"stamp":{"nanosec":182046890,"sec":1727421817}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 134 data_seq null time is: 1727421817.000680447 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":134,"stamp":{"nanosec":679723978,"sec":1727421817}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 135 data_seq null time is: 1727421818.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":135,"stamp":{"nanosec":182049036,"sec":1727421818}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 136 data_seq null time is: 1727421818.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":136,"stamp":{"nanosec":681934118,"sec":1727421818}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 137 data_seq null time is: 1727421819.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":137,"stamp":{"nanosec":181802988,"sec":1727421819}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 138 data_seq null time is: 1727421819.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":138,"stamp":{"nanosec":682998895,"sec":1727421819}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 139 data_seq null time is: 1727421820.000180244 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":139,"stamp":{"nanosec":179790973,"sec":1727421820}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 140 data_seq null time is: 1727421820.000680923 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":140,"stamp":{"nanosec":680428981,"sec":1727421820}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 141 data_seq null time is: 1727421821.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":141,"stamp":{"nanosec":181335926,"sec":1727421821}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 142 data_seq null time is: 1727421821.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":142,"stamp":{"nanosec":682260036,"sec":1727421821}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 143 data_seq null time is: 1727421822.000181198 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":143,"stamp":{"nanosec":180774927,"sec":1727421822}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 144 data_seq null time is: 1727421822.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":144,"stamp":{"nanosec":683355093,"sec":1727421822}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 145 data_seq null time is: 1727421823.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":145,"stamp":{"nanosec":182579040,"sec":1727421823}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 146 data_seq null time is: 1727421823.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":146,"stamp":{"nanosec":684998035,"sec":1727421823}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 147 data_seq null time is: 1727421824.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":147,"stamp":{"nanosec":182404994,"sec":1727421824}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 148 data_seq null time is: 1727421824.000681400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":148,"stamp":{"nanosec":681117057,"sec":1727421824}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 149 data_seq null time is: 1727421825.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":149,"stamp":{"nanosec":183470010,"sec":1727421825}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 150 data_seq null time is: 1727421825.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":150,"stamp":{"nanosec":685442924,"sec":1727421825}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 151 data_seq null time is: 1727421826.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":151,"stamp":{"nanosec":184338092,"sec":1727421826}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 152 data_seq null time is: 1727421826.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":152,"stamp":{"nanosec":682558059,"sec":1727421826}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 153 data_seq null time is: 1727421827.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":153,"stamp":{"nanosec":184216976,"sec":1727421827}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 154 data_seq null time is: 1727421827.000681639 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":154,"stamp":{"nanosec":681514978,"sec":1727421827}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 155 data_seq null time is: 1727421828.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":155,"stamp":{"nanosec":184278964,"sec":1727421828}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 156 data_seq null time is: 1727421828.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":156,"stamp":{"nanosec":684526920,"sec":1727421828}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 157 data_seq null time is: 1727421829.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":157,"stamp":{"nanosec":181130886,"sec":1727421829}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 158 data_seq null time is: 1727421829.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":158,"stamp":{"nanosec":684475898,"sec":1727421829}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 159 data_seq null time is: 1727421830.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":159,"stamp":{"nanosec":181967020,"sec":1727421830}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 160 data_seq null time is: 1727421830.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":160,"stamp":{"nanosec":682612895,"sec":1727421830}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 161 data_seq null time is: 1727421831.000181198 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":161,"stamp":{"nanosec":180684089,"sec":1727421831}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 162 data_seq null time is: 1727421831.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":162,"stamp":{"nanosec":682801008,"sec":1727421831}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 163 data_seq null time is: 1727421832.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":163,"stamp":{"nanosec":183029890,"sec":1727421832}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 164 data_seq null time is: 1727421832.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":164,"stamp":{"nanosec":682904958,"sec":1727421832}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 165 data_seq null time is: 1727421833.000184536 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":165,"stamp":{"nanosec":184011936,"sec":1727421833}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 166 data_seq null time is: 1727421833.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":166,"stamp":{"nanosec":683213949,"sec":1727421833}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 167 data_seq null time is: 1727421834.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":167,"stamp":{"nanosec":183007955,"sec":1727421834}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 168 data_seq null time is: 1727421834.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":168,"stamp":{"nanosec":685532093,"sec":1727421834}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 169 data_seq null time is: 1727421835.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":169,"stamp":{"nanosec":183525085,"sec":1727421835}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 170 data_seq null time is: 1727421835.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":170,"stamp":{"nanosec":682425022,"sec":1727421835}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 171 data_seq null time is: 1727421836.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":171,"stamp":{"nanosec":181232929,"sec":1727421836}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 172 data_seq null time is: 1727421836.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":172,"stamp":{"nanosec":684318065,"sec":1727421836}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 173 data_seq null time is: 1727421837.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":173,"stamp":{"nanosec":182585000,"sec":1727421837}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 174 data_seq null time is: 1727421837.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":174,"stamp":{"nanosec":681997060,"sec":1727421837}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 175 data_seq null time is: 1727421838.000184536 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":175,"stamp":{"nanosec":184122085,"sec":1727421838}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 176 data_seq null time is: 1727421838.000686169 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":176,"stamp":{"nanosec":685664892,"sec":1727421838}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 177 data_seq null time is: 1727421839.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":177,"stamp":{"nanosec":180754899,"sec":1727421839}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 178 data_seq null time is: 1727421839.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":178,"stamp":{"nanosec":685061931,"sec":1727421839}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 179 data_seq null time is: 1727421840.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":179,"stamp":{"nanosec":182884931,"sec":1727421840}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 180 data_seq null time is: 1727421840.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":180,"stamp":{"nanosec":684807062,"sec":1727421840}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 181 data_seq null time is: 1727421841.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":181,"stamp":{"nanosec":183130979,"sec":1727421841}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 182 data_seq null time is: 1727421841.000688076 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":182,"stamp":{"nanosec":687688112,"sec":1727421841}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 183 data_seq null time is: 1727421842.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":183,"stamp":{"nanosec":182245969,"sec":1727421842}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 184 data_seq null time is: 1727421842.000684500 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":184,"stamp":{"nanosec":683854103,"sec":1727421842}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 185 data_seq null time is: 1727421843.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":185,"stamp":{"nanosec":184237957,"sec":1727421843}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 186 data_seq null time is: 1727421843.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":186,"stamp":{"nanosec":682005882,"sec":1727421843}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 187 data_seq null time is: 1727421844.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":187,"stamp":{"nanosec":183584928,"sec":1727421844}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 188 data_seq null time is: 1727421844.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":188,"stamp":{"nanosec":682775020,"sec":1727421844}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 189 data_seq null time is: 1727421845.000185251 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":189,"stamp":{"nanosec":184956073,"sec":1727421845}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 190 data_seq null time is: 1727421845.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":190,"stamp":{"nanosec":683343887,"sec":1727421845}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 191 data_seq null time is: 1727421846.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":191,"stamp":{"nanosec":183943986,"sec":1727421846}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 192 data_seq null time is: 1727421846.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":192,"stamp":{"nanosec":682782888,"sec":1727421846}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 193 data_seq null time is: 1727421847.000185728 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":193,"stamp":{"nanosec":185414075,"sec":1727421847}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 194 data_seq null time is: 1727421847.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":194,"stamp":{"nanosec":682566881,"sec":1727421847}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 195 data_seq null time is: 1727421848.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":195,"stamp":{"nanosec":182775974,"sec":1727421848}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 196 data_seq null time is: 1727421848.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":196,"stamp":{"nanosec":684417009,"sec":1727421848}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 197 data_seq null time is: 1727421849.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":197,"stamp":{"nanosec":183013916,"sec":1727421849}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 198 data_seq null time is: 1727421849.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":198,"stamp":{"nanosec":682084083,"sec":1727421849}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 199 data_seq null time is: 1727421850.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":199,"stamp":{"nanosec":183765888,"sec":1727421850}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 200 data_seq null time is: 1727421850.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":200,"stamp":{"nanosec":682068109,"sec":1727421850}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 201 data_seq null time is: 1727421851.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":201,"stamp":{"nanosec":181384086,"sec":1727421851}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 202 data_seq null time is: 1727421851.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":202,"stamp":{"nanosec":682431936,"sec":1727421851}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 203 data_seq null time is: 1727421852.000183821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":203,"stamp":{"nanosec":183345079,"sec":1727421852}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 204 data_seq null time is: 1727421852.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":204,"stamp":{"nanosec":684503078,"sec":1727421852}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 205 data_seq null time is: 1727421853.000185251 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":205,"stamp":{"nanosec":184849977,"sec":1727421853}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 206 data_seq null time is: 1727421853.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":206,"stamp":{"nanosec":684786081,"sec":1727421853}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 207 data_seq null time is: 1727421854.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":207,"stamp":{"nanosec":182697057,"sec":1727421854}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 208 data_seq null time is: 1727421854.000687361 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":208,"stamp":{"nanosec":686992883,"sec":1727421854}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 209 data_seq null time is: 1727421855.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":209,"stamp":{"nanosec":181857109,"sec":1727421855}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 210 data_seq null time is: 1727421855.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":210,"stamp":{"nanosec":684479951,"sec":1727421855}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 211 data_seq null time is: 1727421856.000185251 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":211,"stamp":{"nanosec":184709072,"sec":1727421856}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 212 data_seq null time is: 1727421856.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":212,"stamp":{"nanosec":683083057,"sec":1727421856}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 213 data_seq null time is: 1727421857.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":213,"stamp":{"nanosec":184577941,"sec":1727421857}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 214 data_seq null time is: 1727421857.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":214,"stamp":{"nanosec":685605049,"sec":1727421857}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 215 data_seq null time is: 1727421858.000183821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":215,"stamp":{"nanosec":183542013,"sec":1727421858}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 216 data_seq null time is: 1727421858.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":216,"stamp":{"nanosec":683682918,"sec":1727421858}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 217 data_seq null time is: 1727421859.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":217,"stamp":{"nanosec":182621002,"sec":1727421859}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 218 data_seq null time is: 1727421859.000686646 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":218,"stamp":{"nanosec":686178922,"sec":1727421859}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 219 data_seq null time is: 1727421860.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":219,"stamp":{"nanosec":181737899,"sec":1727421860}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 220 data_seq null time is: 1727421860.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":220,"stamp":{"nanosec":684843063,"sec":1727421860}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 221 data_seq null time is: 1727421861.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":221,"stamp":{"nanosec":182614088,"sec":1727421861}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 222 data_seq null time is: 1727421861.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":222,"stamp":{"nanosec":682610988,"sec":1727421861}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 223 data_seq null time is: 1727421862.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":223,"stamp":{"nanosec":183579921,"sec":1727421862}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 224 data_seq null time is: 1727421862.000689030 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":224,"stamp":{"nanosec":688458919,"sec":1727421862}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 225 data_seq null time is: 1727421863.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":225,"stamp":{"nanosec":183037042,"sec":1727421863}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 226 data_seq null time is: 1727421863.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":226,"stamp":{"nanosec":682903051,"sec":1727421863}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 227 data_seq null time is: 1727421864.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":227,"stamp":{"nanosec":182456016,"sec":1727421864}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 228 data_seq null time is: 1727421864.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":228,"stamp":{"nanosec":683310031,"sec":1727421864}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 229 data_seq null time is: 1727421865.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":229,"stamp":{"nanosec":182219982,"sec":1727421865}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 230 data_seq null time is: 1727421865.000682116 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":230,"stamp":{"nanosec":681914091,"sec":1727421865}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 231 data_seq null time is: 1727421866.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":231,"stamp":{"nanosec":182703018,"sec":1727421866}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 232 data_seq null time is: 1727421866.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":232,"stamp":{"nanosec":682199954,"sec":1727421866}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 233 data_seq null time is: 1727421867.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":233,"stamp":{"nanosec":182549953,"sec":1727421867}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 234 data_seq null time is: 1727421867.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":234,"stamp":{"nanosec":685072898,"sec":1727421867}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 235 data_seq null time is: 1727421868.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":235,"stamp":{"nanosec":183362960,"sec":1727421868}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 236 data_seq null time is: 1727421868.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":236,"stamp":{"nanosec":684681892,"sec":1727421868}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 237 data_seq null time is: 1727421869.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":237,"stamp":{"nanosec":184210062,"sec":1727421869}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 238 data_seq null time is: 1727421869.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":238,"stamp":{"nanosec":682240009,"sec":1727421869}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 239 data_seq null time is: 1727421870.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":239,"stamp":{"nanosec":184454917,"sec":1727421870}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 240 data_seq null time is: 1727421870.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":240,"stamp":{"nanosec":681787967,"sec":1727421870}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 241 data_seq null time is: 1727421871.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":241,"stamp":{"nanosec":181201934,"sec":1727421871}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 242 data_seq null time is: 1727421871.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":242,"stamp":{"nanosec":684479951,"sec":1727421871}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 243 data_seq null time is: 1727421872.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":243,"stamp":{"nanosec":184688091,"sec":1727421872}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 244 data_seq null time is: 1727421872.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":244,"stamp":{"nanosec":683234930,"sec":1727421872}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 245 data_seq null time is: 1727421873.000185251 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":245,"stamp":{"nanosec":184797048,"sec":1727421873}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 246 data_seq null time is: 1727421873.000686407 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":246,"stamp":{"nanosec":686026096,"sec":1727421873}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 247 data_seq null time is: 1727421874.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":247,"stamp":{"nanosec":181981086,"sec":1727421874}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 248 data_seq null time is: 1727421874.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":248,"stamp":{"nanosec":684890985,"sec":1727421874}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 249 data_seq null time is: 1727421875.000185966 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":249,"stamp":{"nanosec":185530900,"sec":1727421875}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 250 data_seq null time is: 1727421875.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":250,"stamp":{"nanosec":683171987,"sec":1727421875}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 251 data_seq null time is: 1727421876.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":251,"stamp":{"nanosec":181926012,"sec":1727421876}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 252 data_seq null time is: 1727421876.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":252,"stamp":{"nanosec":682466983,"sec":1727421876}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 253 data_seq null time is: 1727421877.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":253,"stamp":{"nanosec":184452056,"sec":1727421877}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 254 data_seq null time is: 1727421877.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":254,"stamp":{"nanosec":685513019,"sec":1727421877}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 255 data_seq null time is: 1727421878.000185966 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":255,"stamp":{"nanosec":185620069,"sec":1727421878}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 256 data_seq null time is: 1727421878.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":256,"stamp":{"nanosec":681982040,"sec":1727421878}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 257 data_seq null time is: 1727421879.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":257,"stamp":{"nanosec":182739973,"sec":1727421879}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 258 data_seq null time is: 1727421879.000686884 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":258,"stamp":{"nanosec":686347961,"sec":1727421879}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 259 data_seq null time is: 1727421880.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":259,"stamp":{"nanosec":182566881,"sec":1727421880}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 260 data_seq null time is: 1727421880.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":260,"stamp":{"nanosec":683629035,"sec":1727421880}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 261 data_seq null time is: 1727421881.000185490 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":261,"stamp":{"nanosec":185019016,"sec":1727421881}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 262 data_seq null time is: 1727421881.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":262,"stamp":{"nanosec":683420896,"sec":1727421881}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 263 data_seq null time is: 1727421882.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":263,"stamp":{"nanosec":183223962,"sec":1727421882}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 264 data_seq null time is: 1727421882.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":264,"stamp":{"nanosec":684294939,"sec":1727421882}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 265 data_seq null time is: 1727421883.000185490 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":265,"stamp":{"nanosec":184992074,"sec":1727421883}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 266 data_seq null time is: 1727421883.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":266,"stamp":{"nanosec":685575008,"sec":1727421883}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 267 data_seq null time is: 1727421884.000183821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":267,"stamp":{"nanosec":183403968,"sec":1727421884}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 268 data_seq null time is: 1727421884.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":268,"stamp":{"nanosec":684463977,"sec":1727421884}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 269 data_seq null time is: 1727421885.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":269,"stamp":{"nanosec":183234930,"sec":1727421885}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 270 data_seq null time is: 1727421885.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":270,"stamp":{"nanosec":682327985,"sec":1727421885}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 271 data_seq null time is: 1727421886.000185490 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":271,"stamp":{"nanosec":185055971,"sec":1727421886}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 272 data_seq null time is: 1727421886.000686407 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":272,"stamp":{"nanosec":686036109,"sec":1727421886}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 273 data_seq null time is: 1727421887.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":273,"stamp":{"nanosec":182077884,"sec":1727421887}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 274 data_seq null time is: 1727421887.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":274,"stamp":{"nanosec":684762954,"sec":1727421887}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 275 data_seq null time is: 1727421888.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":275,"stamp":{"nanosec":181404113,"sec":1727421888}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 276 data_seq null time is: 1727421888.000681877 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":276,"stamp":{"nanosec":681536912,"sec":1727421888}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 277 data_seq null time is: 1727421889.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":277,"stamp":{"nanosec":183037996,"sec":1727421889}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 278 data_seq null time is: 1727421889.000684500 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":278,"stamp":{"nanosec":683901071,"sec":1727421889}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 279 data_seq null time is: 1727421890.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":279,"stamp":{"nanosec":181200027,"sec":1727421890}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 280 data_seq null time is: 1727421890.000681162 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":280,"stamp":{"nanosec":680733919,"sec":1727421890}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 281 data_seq null time is: 1727421891.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":281,"stamp":{"nanosec":182818889,"sec":1727421891}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 282 data_seq null time is: 1727421891.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":282,"stamp":{"nanosec":684220075,"sec":1727421891}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 283 data_seq null time is: 1727421892.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":283,"stamp":{"nanosec":181917905,"sec":1727421892}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 284 data_seq null time is: 1727421892.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":284,"stamp":{"nanosec":685431957,"sec":1727421892}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 285 data_seq null time is: 1727421893.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":285,"stamp":{"nanosec":183624982,"sec":1727421893}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 286 data_seq null time is: 1727421893.000684500 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":286,"stamp":{"nanosec":684181928,"sec":1727421893}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 287 data_seq null time is: 1727421894.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":287,"stamp":{"nanosec":182681083,"sec":1727421894}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 288 data_seq null time is: 1727421894.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":288,"stamp":{"nanosec":683860063,"sec":1727421894}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 289 data_seq null time is: 1727421895.000184536 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":289,"stamp":{"nanosec":183789014,"sec":1727421895}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 290 data_seq null time is: 1727421895.000687599 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":290,"stamp":{"nanosec":687100887,"sec":1727421895}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 291 data_seq null time is: 1727421896.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":291,"stamp":{"nanosec":183542966,"sec":1727421896}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 292 data_seq null time is: 1727421896.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":292,"stamp":{"nanosec":682812929,"sec":1727421896}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 293 data_seq null time is: 1727421897.000186682 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":293,"stamp":{"nanosec":186214923,"sec":1727421897}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 294 data_seq null time is: 1727421897.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":294,"stamp":{"nanosec":685425996,"sec":1727421897}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 295 data_seq null time is: 1727421898.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":295,"stamp":{"nanosec":183135032,"sec":1727421898}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 296 data_seq null time is: 1727421898.000682116 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":296,"stamp":{"nanosec":681694030,"sec":1727421898}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 297 data_seq null time is: 1727421899.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":297,"stamp":{"nanosec":184447050,"sec":1727421899}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 298 data_seq null time is: 1727421899.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":298,"stamp":{"nanosec":683794975,"sec":1727421899}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 299 data_seq null time is: 1727421900.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":299,"stamp":{"nanosec":183653116,"sec":1727421900}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 300 data_seq null time is: 1727421900.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":300,"stamp":{"nanosec":684227943,"sec":1727421900}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 301 data_seq null time is: 1727421901.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":301,"stamp":{"nanosec":184649944,"sec":1727421901}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 302 data_seq null time is: 1727421901.000682116 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":302,"stamp":{"nanosec":681754112,"sec":1727421901}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 303 data_seq null time is: 1727421902.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":303,"stamp":{"nanosec":181346893,"sec":1727421902}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 304 data_seq null time is: 1727421902.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":304,"stamp":{"nanosec":684900045,"sec":1727421902}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 305 data_seq null time is: 1727421903.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":305,"stamp":{"nanosec":182333946,"sec":1727421903}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 306 data_seq null time is: 1727421903.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":306,"stamp":{"nanosec":682718038,"sec":1727421903}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 307 data_seq null time is: 1727421904.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":307,"stamp":{"nanosec":181236028,"sec":1727421904}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 308 data_seq null time is: 1727421904.000686884 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":308,"stamp":{"nanosec":686355113,"sec":1727421904}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 309 data_seq null time is: 1727421905.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":309,"stamp":{"nanosec":183701992,"sec":1727421905}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 310 data_seq null time is: 1727421905.000682116 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":310,"stamp":{"nanosec":681940078,"sec":1727421905}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 311 data_seq null time is: 1727421906.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":311,"stamp":{"nanosec":184196949,"sec":1727421906}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 312 data_seq null time is: 1727421906.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":312,"stamp":{"nanosec":683269023,"sec":1727421906}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 313 data_seq null time is: 1727421907.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":313,"stamp":{"nanosec":182559967,"sec":1727421907}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 314 data_seq null time is: 1727421907.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":314,"stamp":{"nanosec":682662010,"sec":1727421907}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 315 data_seq null time is: 1727421908.000185728 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":315,"stamp":{"nanosec":185345888,"sec":1727421908}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 316 data_seq null time is: 1727421908.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":316,"stamp":{"nanosec":684349060,"sec":1727421908}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 317 data_seq null time is: 1727421909.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":317,"stamp":{"nanosec":182135105,"sec":1727421909}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 318 data_seq null time is: 1727421909.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":318,"stamp":{"nanosec":683787107,"sec":1727421909}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 319 data_seq null time is: 1727421910.000187159 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":319,"stamp":{"nanosec":186935901,"sec":1727421910}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 320 data_seq null time is: 1727421910.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":320,"stamp":{"nanosec":682840108,"sec":1727421910}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 321 data_seq null time is: 1727421911.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":321,"stamp":{"nanosec":184422969,"sec":1727421911}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 322 data_seq null time is: 1727421911.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":322,"stamp":{"nanosec":684485912,"sec":1727421911}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 323 data_seq null time is: 1727421912.000180960 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":323,"stamp":{"nanosec":180394887,"sec":1727421912}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 324 data_seq null time is: 1727421912.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":324,"stamp":{"nanosec":682564020,"sec":1727421912}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 325 data_seq null time is: 1727421913.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":325,"stamp":{"nanosec":182261943,"sec":1727421913}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 326 data_seq null time is: 1727421913.000684500 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":326,"stamp":{"nanosec":684043884,"sec":1727421913}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 327 data_seq null time is: 1727421914.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":327,"stamp":{"nanosec":183203935,"sec":1727421914}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 328 data_seq null time is: 1727421914.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":328,"stamp":{"nanosec":682589054,"sec":1727421914}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 329 data_seq null time is: 1727421915.000185966 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":329,"stamp":{"nanosec":185297966,"sec":1727421915}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 330 data_seq null time is: 1727421915.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":330,"stamp":{"nanosec":683120965,"sec":1727421915}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 331 data_seq null time is: 1727421916.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":331,"stamp":{"nanosec":180788993,"sec":1727421916}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 332 data_seq null time is: 1727421916.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":332,"stamp":{"nanosec":683291912,"sec":1727421916}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 333 data_seq null time is: 1727421917.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":333,"stamp":{"nanosec":184322118,"sec":1727421917}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 334 data_seq null time is: 1727421917.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":334,"stamp":{"nanosec":684305906,"sec":1727421917}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 335 data_seq null time is: 1727421918.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":335,"stamp":{"nanosec":182009935,"sec":1727421918}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 336 data_seq null time is: 1727421918.000687122 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":336,"stamp":{"nanosec":686613082,"sec":1727421918}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 337 data_seq null time is: 1727421919.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":337,"stamp":{"nanosec":183367013,"sec":1727421919}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 338 data_seq null time is: 1727421919.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":338,"stamp":{"nanosec":682871103,"sec":1727421919}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 339 data_seq null time is: 1727421920.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":339,"stamp":{"nanosec":182446956,"sec":1727421920}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 340 data_seq null time is: 1727421920.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":340,"stamp":{"nanosec":684815883,"sec":1727421920}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 341 data_seq null time is: 1727421921.000185251 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":341,"stamp":{"nanosec":184840917,"sec":1727421921}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 342 data_seq null time is: 1727421921.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":342,"stamp":{"nanosec":682612895,"sec":1727421921}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 343 data_seq null time is: 1727421922.000186205 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":343,"stamp":{"nanosec":185950040,"sec":1727421922}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 344 data_seq null time is: 1727421922.000686407 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":344,"stamp":{"nanosec":686153888,"sec":1727421922}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 345 data_seq null time is: 1727421923.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":345,"stamp":{"nanosec":183609962,"sec":1727421923}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 346 data_seq null time is: 1727421923.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":346,"stamp":{"nanosec":683185100,"sec":1727421923}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 347 data_seq null time is: 1727421924.000186205 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":347,"stamp":{"nanosec":185780048,"sec":1727421924}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 348 data_seq null time is: 1727421924.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":348,"stamp":{"nanosec":683012962,"sec":1727421924}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 349 data_seq null time is: 1727421925.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":349,"stamp":{"nanosec":184539079,"sec":1727421925}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 350 data_seq null time is: 1727421925.000685930 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":350,"stamp":{"nanosec":685463905,"sec":1727421925}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 351 data_seq null time is: 1727421926.000180960 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":351,"stamp":{"nanosec":180480003,"sec":1727421926}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 352 data_seq null time is: 1727421926.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":352,"stamp":{"nanosec":682519912,"sec":1727421926}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 353 data_seq null time is: 1727421927.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":353,"stamp":{"nanosec":182852983,"sec":1727421927}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 354 data_seq null time is: 1727421927.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":354,"stamp":{"nanosec":684895992,"sec":1727421927}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 355 data_seq null time is: 1727421928.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":355,"stamp":{"nanosec":182032108,"sec":1727421928}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 356 data_seq null time is: 1727421928.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":356,"stamp":{"nanosec":684592962,"sec":1727421928}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 357 data_seq null time is: 1727421929.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":357,"stamp":{"nanosec":184387922,"sec":1727421929}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 358 data_seq null time is: 1727421929.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":358,"stamp":{"nanosec":682712078,"sec":1727421929}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 359 data_seq null time is: 1727421930.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":359,"stamp":{"nanosec":181261062,"sec":1727421930}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 360 data_seq null time is: 1727421930.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":360,"stamp":{"nanosec":685095071,"sec":1727421930}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 361 data_seq null time is: 1727421931.000181913 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":361,"stamp":{"nanosec":181582927,"sec":1727421931}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 362 data_seq null time is: 1727421931.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":362,"stamp":{"nanosec":682104110,"sec":1727421931}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 363 data_seq null time is: 1727421932.000186920 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":363,"stamp":{"nanosec":186631917,"sec":1727421932}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 364 data_seq null time is: 1727421932.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":364,"stamp":{"nanosec":684480905,"sec":1727421932}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 365 data_seq null time is: 1727421933.000184536 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":365,"stamp":{"nanosec":184035062,"sec":1727421933}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 366 data_seq null time is: 1727421933.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":366,"stamp":{"nanosec":682697057,"sec":1727421933}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 367 data_seq null time is: 1727421934.000180960 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":367,"stamp":{"nanosec":180556058,"sec":1727421934}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 368 data_seq null time is: 1727421934.000686407 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":368,"stamp":{"nanosec":685828924,"sec":1727421934}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 369 data_seq null time is: 1727421935.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":369,"stamp":{"nanosec":184376955,"sec":1727421935}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 370 data_seq null time is: 1727421935.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":370,"stamp":{"nanosec":683157920,"sec":1727421935}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 371 data_seq null time is: 1727421936.000187397 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":371,"stamp":{"nanosec":187258958,"sec":1727421936}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 372 data_seq null time is: 1727421936.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":372,"stamp":{"nanosec":684597015,"sec":1727421936}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 373 data_seq null time is: 1727421937.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":373,"stamp":{"nanosec":182589054,"sec":1727421937}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 374 data_seq null time is: 1727421937.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":374,"stamp":{"nanosec":684791088,"sec":1727421937}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 375 data_seq null time is: 1727421938.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":375,"stamp":{"nanosec":182516098,"sec":1727421938}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 376 data_seq null time is: 1727421938.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":376,"stamp":{"nanosec":681902885,"sec":1727421938}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 377 data_seq null time is: 1727421939.000185251 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":377,"stamp":{"nanosec":184861898,"sec":1727421939}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 378 data_seq null time is: 1727421939.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":378,"stamp":{"nanosec":684885978,"sec":1727421939}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 379 data_seq null time is: 1727421940.000184298 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":379,"stamp":{"nanosec":183639049,"sec":1727421940}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 380 data_seq null time is: 1727421940.000681877 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":380,"stamp":{"nanosec":681437015,"sec":1727421940}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 381 data_seq null time is: 1727421941.000185490 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":381,"stamp":{"nanosec":185019016,"sec":1727421941}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 382 data_seq null time is: 1727421941.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":382,"stamp":{"nanosec":684992074,"sec":1727421941}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 383 data_seq null time is: 1727421942.000184536 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":383,"stamp":{"nanosec":184012889,"sec":1727421942}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 384 data_seq null time is: 1727421942.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":384,"stamp":{"nanosec":685003042,"sec":1727421942}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 385 data_seq null time is: 1727421943.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":385,"stamp":{"nanosec":184428930,"sec":1727421943}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 386 data_seq null time is: 1727421943.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":386,"stamp":{"nanosec":683155059,"sec":1727421943}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 387 data_seq null time is: 1727421944.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":387,"stamp":{"nanosec":183764934,"sec":1727421944}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 388 data_seq null time is: 1727421944.000687122 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":388,"stamp":{"nanosec":686625003,"sec":1727421944}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 389 data_seq null time is: 1727421945.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":389,"stamp":{"nanosec":184277057,"sec":1727421945}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 390 data_seq null time is: 1727421945.000681400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":390,"stamp":{"nanosec":680989980,"sec":1727421945}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 391 data_seq null time is: 1727421946.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":391,"stamp":{"nanosec":184407949,"sec":1727421946}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 392 data_seq null time is: 1727421946.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":392,"stamp":{"nanosec":682610034,"sec":1727421946}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 393 data_seq null time is: 1727421947.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":393,"stamp":{"nanosec":180963993,"sec":1727421947}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 394 data_seq null time is: 1727421947.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":394,"stamp":{"nanosec":682739019,"sec":1727421947}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 395 data_seq null time is: 1727421948.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":395,"stamp":{"nanosec":183437108,"sec":1727421948}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 396 data_seq null time is: 1727421948.000680923 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":396,"stamp":{"nanosec":680600881,"sec":1727421948}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 397 data_seq null time is: 1727421949.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":397,"stamp":{"nanosec":181741952,"sec":1727421949}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 398 data_seq null time is: 1727421949.000685692 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":398,"stamp":{"nanosec":685318946,"sec":1727421949}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 399 data_seq null time is: 1727421950.000183344 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":399,"stamp":{"nanosec":182832002,"sec":1727421950}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 400 data_seq null time is: 1727421950.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":400,"stamp":{"nanosec":683670043,"sec":1727421950}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 401 data_seq null time is: 1727421951.000181198 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":401,"stamp":{"nanosec":180917024,"sec":1727421951}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 402 data_seq null time is: 1727421951.000681162 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":402,"stamp":{"nanosec":680735111,"sec":1727421951}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 403 data_seq null time is: 1727421952.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":403,"stamp":{"nanosec":182548046,"sec":1727421952}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 404 data_seq null time is: 1727421952.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":404,"stamp":{"nanosec":683471918,"sec":1727421952}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 405 data_seq null time is: 1727421953.000183821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":405,"stamp":{"nanosec":183506965,"sec":1727421953}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 406 data_seq null time is: 1727421953.000684738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":406,"stamp":{"nanosec":684335947,"sec":1727421953}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 407 data_seq null time is: 1727421954.000180960 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":407,"stamp":{"nanosec":180396080,"sec":1727421954}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 408 data_seq null time is: 1727421954.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":408,"stamp":{"nanosec":683624029,"sec":1727421954}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 409 data_seq null time is: 1727421955.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":409,"stamp":{"nanosec":184454917,"sec":1727421955}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 410 data_seq null time is: 1727421955.000681639 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":410,"stamp":{"nanosec":681081056,"sec":1727421955}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 411 data_seq null time is: 1727421956.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":411,"stamp":{"nanosec":180778980,"sec":1727421956}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 412 data_seq null time is: 1727421956.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":412,"stamp":{"nanosec":683897018,"sec":1727421956}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 413 data_seq null time is: 1727421957.000181675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":413,"stamp":{"nanosec":181155920,"sec":1727421957}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 414 data_seq null time is: 1727421957.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":414,"stamp":{"nanosec":682163000,"sec":1727421957}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 415 data_seq null time is: 1727421958.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":415,"stamp":{"nanosec":183250904,"sec":1727421958}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 416 data_seq null time is: 1727421958.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":416,"stamp":{"nanosec":682596921,"sec":1727421958}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 417 data_seq null time is: 1727421959.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":417,"stamp":{"nanosec":183044910,"sec":1727421959}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 418 data_seq null time is: 1727421959.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":418,"stamp":{"nanosec":682043075,"sec":1727421959}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 419 data_seq null time is: 1727421960.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":419,"stamp":{"nanosec":183190107,"sec":1727421960}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 420 data_seq null time is: 1727421960.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":420,"stamp":{"nanosec":682028055,"sec":1727421960}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 421 data_seq null time is: 1727421961.000183821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":421,"stamp":{"nanosec":183401107,"sec":1727421961}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 422 data_seq null time is: 1727421961.000688791 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":422,"stamp":{"nanosec":688318014,"sec":1727421961}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 423 data_seq null time is: 1727421962.000184536 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":423,"stamp":{"nanosec":184127092,"sec":1727421962}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 424 data_seq null time is: 1727421962.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":424,"stamp":{"nanosec":683032035,"sec":1727421962}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 425 data_seq null time is: 1727421963.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":425,"stamp":{"nanosec":181694030,"sec":1727421963}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 426 data_seq null time is: 1727421963.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":426,"stamp":{"nanosec":682651042,"sec":1727421963}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 427 data_seq null time is: 1727421964.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":427,"stamp":{"nanosec":182097911,"sec":1727421964}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 428 data_seq null time is: 1727421964.000680923 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":428,"stamp":{"nanosec":680524110,"sec":1727421964}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 429 data_seq null time is: 1727421965.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":429,"stamp":{"nanosec":182143926,"sec":1727421965}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 430 data_seq null time is: 1727421965.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":430,"stamp":{"nanosec":682116985,"sec":1727421965}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 431 data_seq null time is: 1727421966.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":431,"stamp":{"nanosec":183218002,"sec":1727421966}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 432 data_seq null time is: 1727421966.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":432,"stamp":{"nanosec":682813882,"sec":1727421966}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 433 data_seq null time is: 1727421967.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":433,"stamp":{"nanosec":183541059,"sec":1727421967}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 434 data_seq null time is: 1727421967.000684977 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":434,"stamp":{"nanosec":684591054,"sec":1727421967}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 435 data_seq null time is: 1727421968.000185251 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":435,"stamp":{"nanosec":184745073,"sec":1727421968}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 436 data_seq null time is: 1727421968.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":436,"stamp":{"nanosec":683408021,"sec":1727421968}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 437 data_seq null time is: 1727421969.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":437,"stamp":{"nanosec":182044982,"sec":1727421969}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 438 data_seq null time is: 1727421969.000686884 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":438,"stamp":{"nanosec":686243057,"sec":1727421969}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 439 data_seq null time is: 1727421970.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":439,"stamp":{"nanosec":183183908,"sec":1727421970}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 440 data_seq null time is: 1727421970.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":440,"stamp":{"nanosec":683322906,"sec":1727421970}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 441 data_seq null time is: 1727421971.000183821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":441,"stamp":{"nanosec":183239936,"sec":1727421971}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 442 data_seq null time is: 1727421971.000681639 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":442,"stamp":{"nanosec":681221961,"sec":1727421971}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 443 data_seq null time is: 1727421972.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":443,"stamp":{"nanosec":182226896,"sec":1727421972}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 444 data_seq null time is: 1727421972.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":444,"stamp":{"nanosec":683957099,"sec":1727421972}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 445 data_seq null time is: 1727421973.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":445,"stamp":{"nanosec":183361053,"sec":1727421973}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 446 data_seq null time is: 1727421973.000681639 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":446,"stamp":{"nanosec":681219100,"sec":1727421973}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 447 data_seq null time is: 1727421974.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":447,"stamp":{"nanosec":181917905,"sec":1727421974}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 448 data_seq null time is: 1727421974.000683546 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":448,"stamp":{"nanosec":682964086,"sec":1727421974}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 449 data_seq null time is: 1727421975.000183821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":449,"stamp":{"nanosec":183406114,"sec":1727421975}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 450 data_seq null time is: 1727421975.000685453 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":450,"stamp":{"nanosec":684864044,"sec":1727421975}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 451 data_seq null time is: 1727421976.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":451,"stamp":{"nanosec":182568073,"sec":1727421976}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 452 data_seq null time is: 1727421976.000686407 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":452,"stamp":{"nanosec":686006069,"sec":1727421976}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 453 data_seq null time is: 1727421977.000184059 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":453,"stamp":{"nanosec":183619022,"sec":1727421977}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 454 data_seq null time is: 1727421977.000683308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":454,"stamp":{"nanosec":682821035,"sec":1727421977}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 455 data_seq null time is: 1727421978.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":455,"stamp":{"nanosec":182636976,"sec":1727421978}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 456 data_seq null time is: 1727421978.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":456,"stamp":{"nanosec":682378053,"sec":1727421978}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 457 data_seq null time is: 1727421979.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":457,"stamp":{"nanosec":182171106,"sec":1727421979}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 458 data_seq null time is: 1727421979.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":458,"stamp":{"nanosec":683248043,"sec":1727421979}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 459 data_seq null time is: 1727421980.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":459,"stamp":{"nanosec":181838989,"sec":1727421980}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 460 data_seq null time is: 1727421980.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":460,"stamp":{"nanosec":684792041,"sec":1727421980}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 461 data_seq null time is: 1727421981.000184774 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":461,"stamp":{"nanosec":184257984,"sec":1727421981}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 462 data_seq null time is: 1727421981.000684023 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":462,"stamp":{"nanosec":683711051,"sec":1727421981}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 463 data_seq null time is: 1727421982.000185966 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":463,"stamp":{"nanosec":185596942,"sec":1727421982}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 464 data_seq null time is: 1727421982.000685215 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":464,"stamp":{"nanosec":684983015,"sec":1727421982}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 465 data_seq null time is: 1727421983.000182152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":465,"stamp":{"nanosec":181720018,"sec":1727421983}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 466 data_seq null time is: 1727421983.000681877 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":466,"stamp":{"nanosec":681412935,"sec":1727421983}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 467 data_seq null time is: 1727421984.000181437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":467,"stamp":{"nanosec":181099891,"sec":1727421984}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 468 data_seq null time is: 1727421984.000681400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":468,"stamp":{"nanosec":681181907,"sec":1727421984}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 469 data_seq null time is: 1727421985.000185490 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":469,"stamp":{"nanosec":185045003,"sec":1727421985}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 470 data_seq null time is: 1727421985.000684500 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":470,"stamp":{"nanosec":683820962,"sec":1727421985}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 471 data_seq null time is: 1727421986.000185490 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":471,"stamp":{"nanosec":185065031,"sec":1727421986}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 472 data_seq null time is: 1727421986.000681162 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":472,"stamp":{"nanosec":680881023,"sec":1727421986}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 473 data_seq null time is: 1727421987.000181198 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":473,"stamp":{"nanosec":180663108,"sec":1727421987}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 474 data_seq null time is: 1727421987.000682831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":474,"stamp":{"nanosec":682607889,"sec":1727421987}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 475 data_seq null time is: 1727421988.000183105 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":475,"stamp":{"nanosec":182832002,"sec":1727421988}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 476 data_seq null time is: 1727421988.000682592 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":476,"stamp":{"nanosec":682447910,"sec":1727421988}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 477 data_seq null time is: 1727421989.000183582 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":477,"stamp":{"nanosec":183113098,"sec":1727421989}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 478 data_seq null time is: 1727421989.000684261 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":478,"stamp":{"nanosec":683717966,"sec":1727421989}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 479 data_seq null time is: 1727421990.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":479,"stamp":{"nanosec":181989908,"sec":1727421990}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 480 data_seq null time is: 1727421990.000683784 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":480,"stamp":{"nanosec":683135032,"sec":1727421990}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 481 data_seq null time is: 1727421991.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":481,"stamp":{"nanosec":182041883,"sec":1727421991}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 482 data_seq null time is: 1727421991.000690222 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":482,"stamp":{"nanosec":689708948,"sec":1727421991}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 483 data_seq null time is: 1727421992.000187635 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":483,"stamp":{"nanosec":187144041,"sec":1727421992}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 484 data_seq null time is: 1727421992.000689268 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":484,"stamp":{"nanosec":688832998,"sec":1727421992}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 485 data_seq null time is: 1727421993.000185013 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":485,"stamp":{"nanosec":184533119,"sec":1727421993}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 486 data_seq null time is: 1727421993.000683069 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":486,"stamp":{"nanosec":682527065,"sec":1727421993}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

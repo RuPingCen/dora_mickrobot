@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+RuntimeError: Dora Runtime raised an error.
+
+Caused by:
+   0: main task failed
+   1: failed to init an operator
+   2: failed to init python operator
+   3: Traceback (most recent call last):
+        File "/home/crp/dora_project/dora_mickrobot/plot_image_only.py", line 10, in <module>
+          from utils import LABELS
+
+      ModuleNotFoundError: No module named 'utils'
+
+Location:
+    binaries/runtime/src/operator/python.rs:28:9

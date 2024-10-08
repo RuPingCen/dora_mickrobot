@@ -1,0 +1,8 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Unable to open port 

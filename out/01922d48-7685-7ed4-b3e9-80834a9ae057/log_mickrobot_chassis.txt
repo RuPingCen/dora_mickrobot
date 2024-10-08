@@ -1,0 +1,164 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1727336581.000902176 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1727336598.000029564 s 
+serial data is too short ,  len: 1079
+ analy uart recive data error ...Twist event count: 3 data_seq null time is: 1727336598.000447273 s 
+serial data is too short ,  len: 620
+ analy uart recive data error ...Twist event count: 4 data_seq null time is: 1727336598.000728369 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 5 data_seq null time is: 1727336598.000972271 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 6 data_seq null time is: 1727336599.000318050 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 7 data_seq null time is: 1727336599.000600338 s 
+serial data is too short ,  len: 1274
+ analy uart recive data error ...Twist event count: 8 data_seq null time is: 1727336600.000131607 s 
+serial data is too short ,  len: 2882
+ analy uart recive data error ...Twist event count: 9 data_seq null time is: 1727336601.000330210 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 10 data_seq null time is: 1727336603.000309229 s 
+serial data is too short ,  len: 1361
+ analy uart recive data error ...Twist event count: 11 data_seq null time is: 1727336603.000871420 s 
+serial data is too short ,  len: 1430
+ analy uart recive data error ...Twist event count: 12 data_seq null time is: 1727336604.000471592 s 
+serial data is too short ,  len: 3853
+ analy uart recive data error ...Twist event count: 13 data_seq null time is: 1727336606.000036478 s 
+serial data is too short ,  len: 1040
+ analy uart recive data error ...Twist event count: 14 data_seq null time is: 1727336606.000485659 s 
+serial data is too short ,  len: 815
+ analy uart recive data error ...Twist event count: 15 data_seq null time is: 1727336606.000806093 s 
+serial data is too short ,  len: 1699
+ analy uart recive data error ...Twist event count: 16 data_seq null time is: 1727336607.000542402 s 
+serial data is too short ,  len: 685
+ analy uart recive data error ...Twist event count: 17 data_seq null time is: 1727336607.000803471 s 
+serial data is too short ,  len: 523
+ analy uart recive data error ...Twist event count: 18 data_seq null time is: 1727336608.000004292 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 19 data_seq null time is: 1727336608.000352383 s 
+serial data is too short ,  len: 945
+ analy uart recive data error ...Twist event count: 20 data_seq null time is: 1727336608.000711679 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 21 data_seq null time is: 1727336631.000188828 s 
+serial data is too short ,  len: 1413
+ analy uart recive data error ...Twist event count: 22 data_seq null time is: 1727336631.000784159 s 
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 23 data_seq null time is: 1727336632.000015259 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 24 data_seq null time is: 1727336632.000224352 s 
+first_time: 1727336632.000224352 s 
+Twist event count: 25 data_seq null time is: 1727336632.000224352 s 
+unrecognize frame 0xac 
+dt: 0.000153542
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 26 data_seq null time is: 1727336632.000377893 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 27 data_seq null time is: 1727336632.000828266 s 
+serial data is too short ,  len: 1119
+ analy uart recive data error ...Twist event count: 28 data_seq null time is: 1727336633.000309706 s 
+serial data is too short ,  len: 545
+ analy uart recive data error ...Twist event count: 29 data_seq null time is: 1727336633.000526190 s 
+serial data is too short ,  len: 620
+ analy uart recive data error ...Twist event count: 30 data_seq null time is: 1727336633.000811577 s 
+serial data is too short ,  len: 559
+ analy uart recive data error ...Twist event count: 31 data_seq null time is: 1727336634.000025511 s 
+serial data is too short ,  len: 676
+ analy uart recive data error ...Twist event count: 32 data_seq null time is: 1727336634.000288725 s 
+serial data is too short ,  len: 520
+ analy uart recive data error ...Twist event count: 33 data_seq null time is: 1727336634.000545025 s 
+serial data is too short ,  len: 944
+ analy uart recive data error ...Twist event count: 34 data_seq null time is: 1727336634.000904083 s 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 35 data_seq null time is: 1727336634.000904322 s 
+dt: 0.999150991
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 36 data_seq null time is: 1727336635.000055075 s 
+serial data is too short ,  len: 663
+ analy uart recive data error ...Twist event count: 37 data_seq null time is: 1727336635.000521898 s 
+serial data is too short ,  len: 1946
+ analy uart recive data error ...Twist event count: 38 data_seq null time is: 1727336636.000317812 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 39 data_seq null time is: 1727336636.000584126 s 
+serial data is too short ,  len: 1352
+ analy uart recive data error ...Twist event count: 40 data_seq null time is: 1727336637.000105619 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 41 data_seq null time is: 1727336639.000516415 s 
+serial data is too short ,  len: 724
+ analy uart recive data error ...Twist event count: 42 data_seq null time is: 1727336639.000791311 s 
+serial data is too short ,  len: 507
+ analy uart recive data error ...Twist event count: 43 data_seq null time is: 1727336640.000036955 s 
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 44 data_seq null time is: 1727336640.000265121 s 
+serial data is too short ,  len: 1177
+ analy uart recive data error ...Twist event count: 45 data_seq null time is: 1727336640.000773668 s 
+serial data is too short ,  len: 548
+ analy uart recive data error ...Twist event count: 46 data_seq null time is: 1727336640.000987530 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 47 data_seq null time is: 1727336641.000228882 s 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 48 data_seq null time is: 1727336641.000261545 s 
+serial data is too short ,  len: 841
+ analy uart recive data error ...Twist event count: 49 data_seq null time is: 1727336641.000790834 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 50 data_seq null time is: 1727336642.000063181 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 51 data_seq null time is: 1727336642.000303507 s 
+serial data is too short ,  len: 932
+ analy uart recive data error ...Twist event count: 52 data_seq null time is: 1727336642.000688076 s 
+serial data is too short ,  len: 689
+ analy uart recive data error ...Twist event count: 53 data_seq null time is: 1727336642.000983953 s 
+serial data is too short ,  len: 884
+ analy uart recive data error ...Twist event count: 54 data_seq null time is: 1727336643.000324726 s 
+serial data is too short ,  len: 925
+ analy uart recive data error ...Twist event count: 55 data_seq null time is: 1727336643.000739813 s 
+serial data is too short ,  len: 813
+ analy uart recive data error ...Twist event count: 56 data_seq null time is: 1727336644.000083208 s 
+serial data is too short ,  len: 689
+ analy uart recive data error ...Twist event count: 57 data_seq null time is: 1727336644.000368834 s 
+serial data is too short ,  len: 1933
+ analy uart recive data error ...Twist event count: 58 data_seq null time is: 1727336645.000168562 s 
+serial data is too short ,  len: 559
+ analy uart recive data error ...Twist event count: 59 data_seq null time is: 1727336645.000381231 s 
+unrecognize frame 0xac 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 60 data_seq null time is: 1727336645.000411987 s 
+serial data is too short ,  len: 520
+ analy uart recive data error ...Twist event count: 61 data_seq null time is: 1727336645.000811577 s 
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 62 data_seq null time is: 1727336646.000041485 s 
+dt: 0.999648571
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 63 data_seq null time is: 1727336646.000060558 s 
+serial data is too short ,  len: 610
+ analy uart recive data error ...Twist event count: 64 data_seq null time is: 1727336646.000503063 s 
+serial data is too short ,  len: 2441
+ analy uart recive data error ...Twist event count: 65 data_seq null time is: 1727336647.000538349 s 
+serial data is too short ,  len: 1327
+ analy uart recive data error ...Twist event count: 66 data_seq null time is: 1727336648.000059843 s 
+serial data is too short ,  len: 744
+ analy uart recive data error ...Twist event count: 67 data_seq null time is: 1727336648.000392675 s 
+serial data is too short ,  len: 703
+ analy uart recive data error ...Twist event count: 68 data_seq null time is: 1727336648.000671387 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 69 data_seq null time is: 1727336648.000919104 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 70 data_seq null time is: 1727336649.000168800 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 71 data_seq null time is: 1727336649.000393152 s 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 72 data_seq null time is: 1727336649.000393629 s 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

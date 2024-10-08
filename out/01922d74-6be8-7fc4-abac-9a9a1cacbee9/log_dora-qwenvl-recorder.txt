@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/home/crp/anaconda3/bin/llama-factory-recorder", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/llama_factory_recorder/main.py", line 91, in main
+    pa.array([])  # initialize pyarrow array
+    ^^^^^^^^^^^^
+  File "pyarrow/array.pxi", line 273, in pyarrow.lib.array
+  File "pyarrow/array.pxi", line 55, in pyarrow.lib._is_array_like
+  File "pyarrow/pandas-shim.pxi", line 124, in pyarrow.lib._PandasAPIShim._have_pandas_internal
+  File "pyarrow/pandas-shim.pxi", line 103, in pyarrow.lib._PandasAPIShim._check_import
+  File "pyarrow/pandas-shim.pxi", line 106, in pyarrow.lib._PandasAPIShim._check_import
+  File "pyarrow/pandas-shim.pxi", line 50, in pyarrow.lib._PandasAPIShim._import_pandas
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import is_numpy_dev as _is_numpy_dev  # pyright: ignore # noqa:F401
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/pandas/compat/__init__.py", line 25, in <module>
+    from pandas.compat.numpy import (
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/pandas/compat/numpy/__init__.py", line 4, in <module>
+    from pandas.util.version import Version
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/pandas/util/__init__.py", line 2, in <module>
+    from pandas.util._decorators import (  # noqa:F401
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/pandas/util/_decorators.py", line 14, in <module>
+    from pandas._libs.properties import cache_readonly
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/pandas/_libs/__init__.py", line 13, in <module>
+    from pandas._libs.interval import Interval
+  File "pandas/_libs/interval.pyx", line 1, in init pandas._libs.interval
+ValueError: numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject

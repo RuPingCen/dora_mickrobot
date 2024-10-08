@@ -1,0 +1,3 @@
+[ WARN:0@0.046] global cap_v4l.cpp:982 open VIDEOIO(V4L2:/dev/video2): can't open camera by index
+[ERROR:0@0.412] global obsensor_uvc_stream_channel.cpp:156 getStreamChannelGroup Camera index out of range
+[2m2024-10-05T11:57:04.118313Z[0m [33m WARN[0m [2mdora_node_api::node[0m[2m:[0m timeout while waiting for drop tokens; closing 1 shared memory regions that might still be used

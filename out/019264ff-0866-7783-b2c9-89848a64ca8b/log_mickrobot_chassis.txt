@@ -1,0 +1,23 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+Twist event count: 1 data_seq null time is: 1728271325.000600815 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":1,"stamp":{"nanosec":600218057,"sec":1728271325}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 2 data_seq null time is: 1728271325.000600815 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":2,"stamp":{"nanosec":600367069,"sec":1728271325}},"linear":{"x":0.0,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 3 data_seq null time is: 1728271325.000610590 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":3,"stamp":{"nanosec":610213994,"sec":1728271325}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 4 data_seq null time is: 1728271325.000612497 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":4,"stamp":{"nanosec":612217903,"sec":1728271325}},"linear":{"x":0.0,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 5 data_seq null time is: 1728271325.000749826 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":5,"stamp":{"nanosec":749392032,"sec":1728271325}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 6 data_seq null time is: 1728271325.000751972 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":6,"stamp":{"nanosec":751633882,"sec":1728271325}},"linear":{"x":0.0,"y":0.0,"z":0.0},"seq":null}
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

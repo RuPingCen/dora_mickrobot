@@ -1,0 +1,129 @@
+recived:  forward
+forward  linear_x 0.5
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 1,
+        "stamp": {
+            "sec": 1727344842,
+            "nanosec": 284203052
+        }
+    },
+    "linear": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+recived:  forward
+forward  linear_x 0.5
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 2,
+        "stamp": {
+            "sec": 1727344844,
+            "nanosec": 508177042
+        }
+    },
+    "linear": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+recived:  backward
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 3,
+        "stamp": {
+            "sec": 1727344909,
+            "nanosec": 437520980
+        }
+    },
+    "linear": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+recived:  backward
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 4,
+        "stamp": {
+            "sec": 1727344909,
+            "nanosec": 786470890
+        }
+    },
+    "linear": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+recived:  backward
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 5,
+        "stamp": {
+            "sec": 1727344926,
+            "nanosec": 167002916
+        }
+    },
+    "linear": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+recived:  backward
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 6,
+        "stamp": {
+            "sec": 1727344926,
+            "nanosec": 370678901
+        }
+    },
+    "linear": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+received stop

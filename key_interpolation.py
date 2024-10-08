@@ -13,7 +13,10 @@ for event in node:
                 node.send_output("text", pa.array(["forward"]))
             elif char == "s":
                 node.send_output("text", pa.array(["backward"]))
+                # node.send_output("text", pa.array(["stop"]))
             elif char == "d":
                 node.send_output("text", pa.array(["right"]))
             elif char == "a":
                 node.send_output("text", pa.array(["left"]))
+            elif char =="q":
+                node.send_output("text", pa.array(["stop"]))

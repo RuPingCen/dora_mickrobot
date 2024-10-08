@@ -1,0 +1,38 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1727342681.000842571 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":1,"stamp":{"nanosec":642071008,"sec":1727342681}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 735
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1727342682.000042915 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":2,"stamp":{"nanosec":686103105,"sec":1727342681}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 752
+ analy uart recive data error ...Twist event count: 3 data_seq null time is: 1727342682.000243425 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":3,"stamp":{"nanosec":896778106,"sec":1727342681}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 559
+ analy uart recive data error ...Twist event count: 4 data_seq null time is: 1727342682.000443697 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":4,"stamp":{"nanosec":206558942,"sec":1727342682}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 5 data_seq null time is: 1727342706.000842571 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":5,"stamp":{"nanosec":641611099,"sec":1727342706}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 832
+ analy uart recive data error ...Twist event count: 6 data_seq null time is: 1727342707.000109196 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":6,"stamp":{"nanosec":908442020,"sec":1727342706}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 1105
+ analy uart recive data error ...Twist event count: 7 data_seq null time is: 1727342707.000406742 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":7,"stamp":{"nanosec":205861091,"sec":1727342707}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 8 data_seq null time is: 1727342711.000552416 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":8,"stamp":{"nanosec":352106094,"sec":1727342711}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 9 data_seq null time is: 1727342722.000732899 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":9,"stamp":{"nanosec":532196044,"sec":1727342722}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

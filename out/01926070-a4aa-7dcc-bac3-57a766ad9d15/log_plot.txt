@@ -1,0 +1,6 @@
+[2m2024-10-06T06:07:41.390985Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Failed to send message after 3 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)
+[2m2024-10-06T06:07:44.192099Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Still failing to send message after 6 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)
+[2m2024-10-06T06:07:47.192702Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Still failing to send message after 7 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)
+[2m2024-10-06T06:07:50.193052Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Still failing to send message after 8 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)
+[2m2024-10-06T06:07:53.193455Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Still failing to send message after 9 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)
+[2m2024-10-06T06:07:56.194037Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Still failing to send message after 10 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)

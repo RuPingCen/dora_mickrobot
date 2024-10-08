@@ -1,0 +1,1 @@
+[2m2024-09-26T10:38:54.619413Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m dropping event because event `tx` was already closed: `Stop`

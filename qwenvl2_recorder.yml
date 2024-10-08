@@ -27,7 +27,19 @@ nodes:
     outputs:
       - CmdVelTwist
 
-  - id: camera
+  - id: camera1
+    build: pip install opencv-video-capture
+    path: opencv-video-capture
+    inputs:
+      tick: dora/timer/millis/16
+    outputs:
+      - image
+    env:
+      CAPTURE_PATH: 0
+      IMAGE_WIDTH: 640
+      IMAGE_HEIGHT: 480
+
+  - id: camera2
     build: pip install opencv-video-capture
     path: opencv-video-capture
     inputs:
@@ -39,34 +51,41 @@ nodes:
       IMAGE_WIDTH: 640
       IMAGE_HEIGHT: 480
 
-  - id: plot
-    operator:
-      python: plot_image_only.py
-      inputs:
-        image: camera/image
-
   # - id: plot
-  #   build: cargo install dora-rerun --locked && cargo install --force rerun-cli@0.15.1
-  #   path: dora-rerun
-  #   inputs:
-  #     image:
-  #       source: camera/image
-  #       queue_size: 1
-  #     textlog_vlm: dora-qwenvl-recorder/text
-  #   env:
-  #     IMAGE_WIDTH: 640
-  #     IMAGE_HEIGHT: 480
+  #   operator:
+  #     python: plot_image_only.py
+  #     inputs:
+  #       image: camera/image
+
+  - id: plot
+    build: cargo install dora-rerun --locked    #&& cargo install --force rerun-cli@0.15.1
+    path: dora-rerun
+    inputs:
+      image_1:
+        source: camera1/image
+        queue_size: 1
+      image_2:
+        source: camera2/image
+        queue_size: 1
+      textlog_vlm: dora-qwenvl-recorder/text
+    env:
+      IMAGE_WIDTH: 640
+      IMAGE_HEIGHT: 480
+      RERUN_MEMORY_LIMIT: 25%
 
   - id: dora-qwenvl-recorder
-    build: pip install llama-factory-recorder
+    build: pip install /home/crp/dora/node-hub/llama-factory-recorder
     path: llama-factory-recorder
     inputs:
-      image:
-        source: camera/image
+      image_1:
+        source: camera1/image
+        queue_size: 1
+      image_2:
+        source: camera2/image
         queue_size: 1
       ground_truth: key-interpolation/text
     outputs:
       - text
     env:
-      DEFAULT_QUESTION: Respond with right, left, forward, backward, open, or close to move to objective
+      DEFAULT_QUESTION: Respond with right, left, forward, backward,stop to move to the red line
       LLAMA_FACTORY_ROOT_PATH: /home/crp/dora_project/LLaMA-Factory

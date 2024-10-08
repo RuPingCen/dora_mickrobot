@@ -1,0 +1,2 @@
+[2m2024-10-06T06:09:15.183873Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Failed to send message after 3 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)
+[2m2024-10-06T06:09:17.984957Z[0m [33m WARN[0m [2mre_sdk_comms::buffered_client[0m[2m:[0m Still failing to send message after 6 attempts: Failed to send to Rerun server at 127.0.0.1:9876: Broken pipe (os error 32)

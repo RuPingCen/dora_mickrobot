@@ -1,0 +1,1594 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+unrecognize frame 0xac 
+first_time: 1727337245.000838995 s 
+Twist event count: 1 data_seq null time is: 1727337245.000838995 s 
+dt: 0.000059843
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 2 data_seq null time is: 1727337245.000899315 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 3 data_seq null time is: 1727337245.000999451 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 4 data_seq null time is: 1727337246.000099897 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 5 data_seq null time is: 1727337246.000198841 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 6 data_seq null time is: 1727337246.000299215 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 7 data_seq null time is: 1727337246.000399828 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 8 data_seq null time is: 1727337246.000499010 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 9 data_seq null time is: 1727337246.000599623 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 10 data_seq null time is: 1727337246.000699520 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 11 data_seq null time is: 1727337246.000799417 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 12 data_seq null time is: 1727337246.000899076 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 13 data_seq null time is: 1727337246.000999451 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 14 data_seq null time is: 1727337247.000099897 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 15 data_seq null time is: 1727337247.000199556 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 16 data_seq null time is: 1727337247.000299454 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 17 data_seq null time is: 1727337247.000399590 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 18 data_seq null time is: 1727337247.000498772 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 19 data_seq null time is: 1727337247.000600100 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 20 data_seq null time is: 1727337247.000699997 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 21 data_seq null time is: 1727337247.000799179 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 22 data_seq null time is: 1727337247.000899315 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 23 data_seq null time is: 1727337247.000999451 s 
+dt: 0.999099255
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 24 data_seq null time is: 1727337248.000098705 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 25 data_seq null time is: 1727337248.000199795 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 26 data_seq null time is: 1727337248.000299931 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 27 data_seq null time is: 1727337248.000398874 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 28 data_seq null time is: 1727337248.000499964 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 29 data_seq null time is: 1727337248.000600338 s 
+dt: 0.000098228
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 30 data_seq null time is: 1727337248.000698328 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 31 data_seq null time is: 1727337248.000799656 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 32 data_seq null time is: 1727337248.000899792 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 33 data_seq null time is: 1727337248.000999451 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 34 data_seq null time is: 1727337249.000099659 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 35 data_seq null time is: 1727337249.000200033 s 
+dt: 0.000759363
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 36 data_seq null time is: 1727337249.000959396 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 37 data_seq null time is: 1727337250.000059843 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 38 data_seq null time is: 1727337250.000159740 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 39 data_seq null time is: 1727337250.000260115 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 40 data_seq null time is: 1727337250.000359535 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 41 data_seq null time is: 1727337250.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 42 data_seq null time is: 1727337250.000559568 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 43 data_seq null time is: 1727337250.000659943 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 44 data_seq null time is: 1727337250.000758410 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 45 data_seq null time is: 1727337250.000859261 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 46 data_seq null time is: 1727337250.000959396 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 47 data_seq null time is: 1727337251.000059843 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 48 data_seq null time is: 1727337251.000159264 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 49 data_seq null time is: 1727337251.000260353 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 50 data_seq null time is: 1727337251.000359774 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 51 data_seq null time is: 1727337251.000460386 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 52 data_seq null time is: 1727337251.000560284 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 53 data_seq null time is: 1727337251.000659704 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 54 data_seq null time is: 1727337251.000758886 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 55 data_seq null time is: 1727337251.000859499 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 56 data_seq null time is: 1727337251.000960112 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 57 data_seq null time is: 1727337252.000059843 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 58 data_seq null time is: 1727337252.000159979 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 59 data_seq null time is: 1727337252.000259876 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 60 data_seq null time is: 1727337252.000360012 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 61 data_seq null time is: 1727337252.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 62 data_seq null time is: 1727337252.000559807 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 63 data_seq null time is: 1727337252.000660181 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 64 data_seq null time is: 1727337252.000759602 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 65 data_seq null time is: 1727337252.000860214 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 66 data_seq null time is: 1727337252.000959396 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 67 data_seq null time is: 1727337253.000058889 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 68 data_seq null time is: 1727337253.000159979 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 69 data_seq null time is: 1727337253.000260353 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 70 data_seq null time is: 1727337253.000360012 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 71 data_seq null time is: 1727337253.000460625 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 72 data_seq null time is: 1727337253.000560284 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 73 data_seq null time is: 1727337253.000659704 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 74 data_seq null time is: 1727337253.000760078 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 75 data_seq null time is: 1727337253.000859499 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 76 data_seq null time is: 1727337253.000959635 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 77 data_seq null time is: 1727337254.000059366 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 78 data_seq null time is: 1727337254.000159740 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 79 data_seq null time is: 1727337254.000259876 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 80 data_seq null time is: 1727337254.000360012 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 81 data_seq null time is: 1727337254.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 82 data_seq null time is: 1727337254.000560522 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 83 data_seq null time is: 1727337254.000660181 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 84 data_seq null time is: 1727337254.000759602 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 85 data_seq null time is: 1727337254.000859499 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 86 data_seq null time is: 1727337254.000959635 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 87 data_seq null time is: 1727337255.000059366 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 88 data_seq null time is: 1727337255.000160217 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 89 data_seq null time is: 1727337255.000259161 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 90 data_seq null time is: 1727337255.000360012 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 91 data_seq null time is: 1727337255.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 92 data_seq null time is: 1727337255.000560045 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 93 data_seq null time is: 1727337255.000659943 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 94 data_seq null time is: 1727337255.000759840 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 95 data_seq null time is: 1727337255.000859737 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 96 data_seq null time is: 1727337255.000960350 s 
+dt: 0.999099255
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 97 data_seq null time is: 1727337256.000059843 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 98 data_seq null time is: 1727337256.000160217 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 99 data_seq null time is: 1727337256.000259876 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 100 data_seq null time is: 1727337256.000359774 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 101 data_seq null time is: 1727337256.000460625 s 
+unrecognize frame 0xac 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 102 data_seq null time is: 1727337256.000560045 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 103 data_seq null time is: 1727337256.000660181 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 104 data_seq null time is: 1727337256.000760078 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 105 data_seq null time is: 1727337256.000859499 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 106 data_seq null time is: 1727337256.000960112 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 107 data_seq null time is: 1727337257.000059605 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 108 data_seq null time is: 1727337257.000159740 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 109 data_seq null time is: 1727337257.000259161 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 110 data_seq null time is: 1727337257.000359297 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 111 data_seq null time is: 1727337257.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 112 data_seq null time is: 1727337257.000559330 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 113 data_seq null time is: 1727337257.000659704 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 114 data_seq null time is: 1727337257.000759602 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 115 data_seq null time is: 1727337257.000860453 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 116 data_seq null time is: 1727337257.000960350 s 
+dt: 0.999099493
+  linear_x:  0.046999998  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 117 data_seq null time is: 1727337258.000059605 s 
+dt: 0.000100851
+  linear_x:  0.305999994  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 118 data_seq null time is: 1727337258.000160456 s 
+dt: 0.000099421
+  linear_x:  0.524999976  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 119 data_seq null time is: 1727337258.000260115 s 
+dt: 0.000099897
+  linear_x:  0.639999986  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 120 data_seq null time is: 1727337258.000360012 s 
+dt: 0.000100136
+  linear_x:  0.929000020  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 121 data_seq null time is: 1727337258.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000100613
+  linear_x:  0.870000005  position_y:  0.000000000   linear_w: -0.055000000
+Twist event count: 122 data_seq null time is: 1727337258.000560522 s 
+dt: 0.000099182
+  linear_x:  0.324999988  position_y:  0.000000000   linear_w: -0.363000005
+Twist event count: 123 data_seq null time is: 1727337258.000659466 s 
+dt: 0.000100613
+  linear_x:  -0.082000002  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 124 data_seq null time is: 1727337258.000760317 s 
+dt: 0.000100136
+  linear_x:  -0.017999999  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 125 data_seq null time is: 1727337258.000860214 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 126 data_seq null time is: 1727337258.000959873 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 127 data_seq null time is: 1727337259.000059605 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 128 data_seq null time is: 1727337259.000159979 s 
+dt: 0.000101328
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 129 data_seq null time is: 1727337259.000261068 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 130 data_seq null time is: 1727337259.000360012 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 131 data_seq null time is: 1727337259.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 132 data_seq null time is: 1727337259.000560045 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 133 data_seq null time is: 1727337259.000660658 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 134 data_seq null time is: 1727337259.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 135 data_seq null time is: 1727337259.000859737 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 136 data_seq null time is: 1727337259.000960588 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 137 data_seq null time is: 1727337260.000060558 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 138 data_seq null time is: 1727337260.000159264 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 139 data_seq null time is: 1727337260.000260115 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 140 data_seq null time is: 1727337260.000359774 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 141 data_seq null time is: 1727337260.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 142 data_seq null time is: 1727337260.000560999 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 143 data_seq null time is: 1727337260.000659704 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 144 data_seq null time is: 1727337260.000760555 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 145 data_seq null time is: 1727337260.000860691 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 146 data_seq null time is: 1727337260.000960112 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 147 data_seq null time is: 1727337261.000059605 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 148 data_seq null time is: 1727337261.000160217 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 149 data_seq null time is: 1727337261.000259876 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 150 data_seq null time is: 1727337261.000359535 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 151 data_seq null time is: 1727337261.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 152 data_seq null time is: 1727337261.000560284 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 153 data_seq null time is: 1727337261.000660419 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 154 data_seq null time is: 1727337261.000760317 s 
+dt: 0.000099897
+  linear_x:  -0.050999999  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 155 data_seq null time is: 1727337261.000860214 s 
+dt: 0.000098944
+  linear_x:  -0.307999998  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 156 data_seq null time is: 1727337261.000959158 s 
+dt: 0.999101400
+  linear_x:  -0.517000020  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 157 data_seq null time is: 1727337262.000060558 s 
+dt: 0.000099182
+  linear_x:  -0.736999989  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 158 data_seq null time is: 1727337262.000159502 s 
+dt: 0.000100613
+  linear_x:  -0.935999990  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 159 data_seq null time is: 1727337262.000260353 s 
+dt: 0.000099421
+  linear_x:  -0.875999987  position_y:  0.000000000   linear_w: 0.391000003
+Twist event count: 160 data_seq null time is: 1727337262.000359774 s 
+dt: 0.000100374
+  linear_x:  -0.421999991  position_y:  0.000000000   linear_w: -0.430000007
+Twist event count: 161 data_seq null time is: 1727337262.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  -0.017999999  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 162 data_seq null time is: 1727337262.000560522 s 
+dt: 0.000099421
+  linear_x:  0.050999999  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 163 data_seq null time is: 1727337262.000659943 s 
+dt: 0.000099659
+  linear_x:  -0.018999999  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 164 data_seq null time is: 1727337262.000759602 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 165 data_seq null time is: 1727337262.000860214 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 166 data_seq null time is: 1727337262.000961065 s 
+dt: 0.999098539
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 167 data_seq null time is: 1727337263.000059605 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 168 data_seq null time is: 1727337263.000159979 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 169 data_seq null time is: 1727337263.000259638 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 170 data_seq null time is: 1727337263.000359774 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 171 data_seq null time is: 1727337263.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 172 data_seq null time is: 1727337263.000560045 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 173 data_seq null time is: 1727337263.000659466 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 174 data_seq null time is: 1727337263.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 175 data_seq null time is: 1727337263.000859737 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 176 data_seq null time is: 1727337263.000959396 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 177 data_seq null time is: 1727337264.000059605 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 178 data_seq null time is: 1727337264.000159979 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 179 data_seq null time is: 1727337264.000260115 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 180 data_seq null time is: 1727337264.000360012 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 181 data_seq null time is: 1727337264.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 182 data_seq null time is: 1727337264.000559807 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 183 data_seq null time is: 1727337264.000659704 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 184 data_seq null time is: 1727337264.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 185 data_seq null time is: 1727337264.000859737 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 186 data_seq null time is: 1727337264.000960112 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 187 data_seq null time is: 1727337265.000060320 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 188 data_seq null time is: 1727337265.000160217 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 189 data_seq null time is: 1727337265.000260592 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 190 data_seq null time is: 1727337265.000360250 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 191 data_seq null time is: 1727337265.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 192 data_seq null time is: 1727337265.000559568 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 193 data_seq null time is: 1727337265.000660181 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 194 data_seq null time is: 1727337265.000760317 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 195 data_seq null time is: 1727337265.000860214 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 196 data_seq null time is: 1727337265.000959396 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 197 data_seq null time is: 1727337266.000059605 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 198 data_seq null time is: 1727337266.000160456 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 199 data_seq null time is: 1727337266.000260353 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 200 data_seq null time is: 1727337266.000359535 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 201 data_seq null time is: 1727337266.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 202 data_seq null time is: 1727337266.000559807 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 203 data_seq null time is: 1727337266.000660419 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 204 data_seq null time is: 1727337266.000759602 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 205 data_seq null time is: 1727337266.000860214 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 206 data_seq null time is: 1727337266.000960112 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 207 data_seq null time is: 1727337267.000060320 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 208 data_seq null time is: 1727337267.000160456 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 209 data_seq null time is: 1727337267.000259876 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 210 data_seq null time is: 1727337267.000359774 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 211 data_seq null time is: 1727337267.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 212 data_seq null time is: 1727337267.000560045 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 213 data_seq null time is: 1727337267.000659704 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 214 data_seq null time is: 1727337267.000760794 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 215 data_seq null time is: 1727337267.000860214 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 216 data_seq null time is: 1727337267.000959635 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 217 data_seq null time is: 1727337268.000059605 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 218 data_seq null time is: 1727337268.000159979 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 219 data_seq null time is: 1727337268.000260592 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 220 data_seq null time is: 1727337268.000360012 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 221 data_seq null time is: 1727337268.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 222 data_seq null time is: 1727337268.000559568 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 223 data_seq null time is: 1727337268.000659466 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 224 data_seq null time is: 1727337268.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 225 data_seq null time is: 1727337268.000859737 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 226 data_seq null time is: 1727337268.000959396 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 227 data_seq null time is: 1727337269.000059843 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 228 data_seq null time is: 1727337269.000159979 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 229 data_seq null time is: 1727337269.000259876 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 230 data_seq null time is: 1727337269.000360012 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 231 data_seq null time is: 1727337269.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 232 data_seq null time is: 1727337269.000559807 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 233 data_seq null time is: 1727337269.000659704 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 234 data_seq null time is: 1727337269.000759840 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 235 data_seq null time is: 1727337269.000859499 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 236 data_seq null time is: 1727337269.000959873 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 237 data_seq null time is: 1727337270.000059605 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 238 data_seq null time is: 1727337270.000160694 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 239 data_seq null time is: 1727337270.000259876 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 240 data_seq null time is: 1727337270.000360727 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 241 data_seq null time is: 1727337270.000459433 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 242 data_seq null time is: 1727337270.000559568 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 243 data_seq null time is: 1727337270.000660181 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 244 data_seq null time is: 1727337270.000760078 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 245 data_seq null time is: 1727337270.000860214 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 246 data_seq null time is: 1727337270.000959873 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 247 data_seq null time is: 1727337271.000060320 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 248 data_seq null time is: 1727337271.000159025 s 
+dt: 0.000101328
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 249 data_seq null time is: 1727337271.000260353 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 250 data_seq null time is: 1727337271.000359535 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 251 data_seq null time is: 1727337271.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 252 data_seq null time is: 1727337271.000560045 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 253 data_seq null time is: 1727337271.000660181 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 254 data_seq null time is: 1727337271.000760317 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 255 data_seq null time is: 1727337271.000860214 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 256 data_seq null time is: 1727337271.000959396 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 257 data_seq null time is: 1727337272.000059605 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 258 data_seq null time is: 1727337272.000159979 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 259 data_seq null time is: 1727337272.000259876 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 260 data_seq null time is: 1727337272.000359535 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 261 data_seq null time is: 1727337272.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 262 data_seq null time is: 1727337272.000559807 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 263 data_seq null time is: 1727337272.000659227 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 264 data_seq null time is: 1727337272.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 265 data_seq null time is: 1727337272.000859499 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 266 data_seq null time is: 1727337272.000960588 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 267 data_seq null time is: 1727337273.000060081 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 268 data_seq null time is: 1727337273.000159979 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 269 data_seq null time is: 1727337273.000260115 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 270 data_seq null time is: 1727337273.000360727 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 271 data_seq null time is: 1727337273.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 272 data_seq null time is: 1727337273.000559568 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 273 data_seq null time is: 1727337273.000660181 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 274 data_seq null time is: 1727337273.000759602 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 275 data_seq null time is: 1727337273.000860214 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 276 data_seq null time is: 1727337273.000960112 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 277 data_seq null time is: 1727337274.000059605 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 278 data_seq null time is: 1727337274.000159740 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 279 data_seq null time is: 1727337274.000259399 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 280 data_seq null time is: 1727337274.000360250 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 281 data_seq null time is: 1727337274.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 282 data_seq null time is: 1727337274.000560284 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 283 data_seq null time is: 1727337274.000660658 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 284 data_seq null time is: 1727337274.000760078 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 285 data_seq null time is: 1727337274.000860214 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 286 data_seq null time is: 1727337274.000960112 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 287 data_seq null time is: 1727337275.000059605 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 288 data_seq null time is: 1727337275.000160217 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 289 data_seq null time is: 1727337275.000259876 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 290 data_seq null time is: 1727337275.000360012 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 291 data_seq null time is: 1727337275.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 292 data_seq null time is: 1727337275.000559807 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 293 data_seq null time is: 1727337275.000660419 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 294 data_seq null time is: 1727337275.000759840 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 295 data_seq null time is: 1727337275.000859261 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 296 data_seq null time is: 1727337275.000960112 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 297 data_seq null time is: 1727337276.000059366 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 298 data_seq null time is: 1727337276.000159502 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 299 data_seq null time is: 1727337276.000260115 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 300 data_seq null time is: 1727337276.000360012 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 301 data_seq null time is: 1727337276.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 302 data_seq null time is: 1727337276.000559568 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 303 data_seq null time is: 1727337276.000659943 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 304 data_seq null time is: 1727337276.000760555 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 305 data_seq null time is: 1727337276.000860214 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 306 data_seq null time is: 1727337276.000959873 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 307 data_seq null time is: 1727337277.000059366 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 308 data_seq null time is: 1727337277.000159740 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 309 data_seq null time is: 1727337277.000259399 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 310 data_seq null time is: 1727337277.000360012 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 311 data_seq null time is: 1727337277.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 312 data_seq null time is: 1727337277.000560284 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 313 data_seq null time is: 1727337277.000660181 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 314 data_seq null time is: 1727337277.000760555 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 315 data_seq null time is: 1727337277.000860214 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 316 data_seq null time is: 1727337277.000960350 s 
+dt: 0.999099255
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 317 data_seq null time is: 1727337278.000059605 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 318 data_seq null time is: 1727337278.000159502 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 319 data_seq null time is: 1727337278.000260115 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 320 data_seq null time is: 1727337278.000360727 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 321 data_seq null time is: 1727337278.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 322 data_seq null time is: 1727337278.000559807 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 323 data_seq null time is: 1727337278.000659466 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 324 data_seq null time is: 1727337278.000759602 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 325 data_seq null time is: 1727337278.000860691 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 326 data_seq null time is: 1727337278.000960588 s 
+dt: 0.999098778
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 327 data_seq null time is: 1727337279.000059366 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 328 data_seq null time is: 1727337279.000159740 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 329 data_seq null time is: 1727337279.000260353 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 330 data_seq null time is: 1727337279.000360250 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 331 data_seq null time is: 1727337279.000460386 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 332 data_seq null time is: 1727337279.000560284 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 333 data_seq null time is: 1727337279.000659943 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 334 data_seq null time is: 1727337279.000759840 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 335 data_seq null time is: 1727337279.000859499 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 336 data_seq null time is: 1727337279.000960112 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 337 data_seq null time is: 1727337280.000060081 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 338 data_seq null time is: 1727337280.000159502 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 339 data_seq null time is: 1727337280.000260592 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 340 data_seq null time is: 1727337280.000360012 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 341 data_seq null time is: 1727337280.000458956 s 
+unrecognize frame 0xac 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 342 data_seq null time is: 1727337280.000560045 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 343 data_seq null time is: 1727337280.000660181 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 344 data_seq null time is: 1727337280.000759840 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 345 data_seq null time is: 1727337280.000860453 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 346 data_seq null time is: 1727337280.000959873 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 347 data_seq null time is: 1727337281.000060081 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 348 data_seq null time is: 1727337281.000159502 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 349 data_seq null time is: 1727337281.000259638 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 350 data_seq null time is: 1727337281.000360250 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 351 data_seq null time is: 1727337281.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 352 data_seq null time is: 1727337281.000559807 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 353 data_seq null time is: 1727337281.000659943 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 354 data_seq null time is: 1727337281.000760317 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 355 data_seq null time is: 1727337281.000859976 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 356 data_seq null time is: 1727337281.000959873 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 357 data_seq null time is: 1727337282.000059605 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 358 data_seq null time is: 1727337282.000160217 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 359 data_seq null time is: 1727337282.000260592 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 360 data_seq null time is: 1727337282.000359535 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 361 data_seq null time is: 1727337282.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 362 data_seq null time is: 1727337282.000559568 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 363 data_seq null time is: 1727337282.000660181 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 364 data_seq null time is: 1727337282.000760317 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 365 data_seq null time is: 1727337282.000860214 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 366 data_seq null time is: 1727337282.000960350 s 
+dt: 0.999099255
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 367 data_seq null time is: 1727337283.000059605 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 368 data_seq null time is: 1727337283.000159979 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 369 data_seq null time is: 1727337283.000260115 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 370 data_seq null time is: 1727337283.000360012 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 371 data_seq null time is: 1727337283.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 372 data_seq null time is: 1727337283.000560045 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 373 data_seq null time is: 1727337283.000660181 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 374 data_seq null time is: 1727337283.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 375 data_seq null time is: 1727337283.000859737 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 376 data_seq null time is: 1727337283.000960112 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 377 data_seq null time is: 1727337284.000059843 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 378 data_seq null time is: 1727337284.000160217 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 379 data_seq null time is: 1727337284.000260115 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 380 data_seq null time is: 1727337284.000360012 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 381 data_seq null time is: 1727337284.000460148 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 382 data_seq null time is: 1727337284.000560045 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 383 data_seq null time is: 1727337284.000659943 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 384 data_seq null time is: 1727337284.000760078 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 385 data_seq null time is: 1727337284.000859976 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 386 data_seq null time is: 1727337284.000960112 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 387 data_seq null time is: 1727337285.000060320 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 388 data_seq null time is: 1727337285.000159740 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 389 data_seq null time is: 1727337285.000259638 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 390 data_seq null time is: 1727337285.000360012 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 391 data_seq null time is: 1727337285.000459433 s 
+unrecognize frame 0xac 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 392 data_seq null time is: 1727337285.000560284 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 393 data_seq null time is: 1727337285.000659466 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 394 data_seq null time is: 1727337285.000760078 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 395 data_seq null time is: 1727337285.000859737 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 396 data_seq null time is: 1727337285.000959635 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 397 data_seq null time is: 1727337286.000060081 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 398 data_seq null time is: 1727337286.000159979 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 399 data_seq null time is: 1727337286.000259876 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 400 data_seq null time is: 1727337286.000359774 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 401 data_seq null time is: 1727337286.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 402 data_seq null time is: 1727337286.000560045 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 403 data_seq null time is: 1727337286.000660181 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 404 data_seq null time is: 1727337286.000759840 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 405 data_seq null time is: 1727337286.000859976 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 406 data_seq null time is: 1727337286.000960112 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 407 data_seq null time is: 1727337287.000060320 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 408 data_seq null time is: 1727337287.000160217 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 409 data_seq null time is: 1727337287.000259876 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 410 data_seq null time is: 1727337287.000360012 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 411 data_seq null time is: 1727337287.000459433 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 412 data_seq null time is: 1727337287.000559807 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 413 data_seq null time is: 1727337287.000659704 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 414 data_seq null time is: 1727337287.000759602 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 415 data_seq null time is: 1727337287.000859261 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 416 data_seq null time is: 1727337287.000960112 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 417 data_seq null time is: 1727337288.000059605 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 418 data_seq null time is: 1727337288.000160456 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 419 data_seq null time is: 1727337288.000259638 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 420 data_seq null time is: 1727337288.000359774 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 421 data_seq null time is: 1727337288.000458956 s 
+unrecognize frame 0xac 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 422 data_seq null time is: 1727337288.000559807 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 423 data_seq null time is: 1727337288.000659704 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 424 data_seq null time is: 1727337288.000759125 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 425 data_seq null time is: 1727337288.000859737 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 426 data_seq null time is: 1727337288.000959635 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 427 data_seq null time is: 1727337289.000059605 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 428 data_seq null time is: 1727337289.000159740 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 429 data_seq null time is: 1727337289.000259876 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 430 data_seq null time is: 1727337289.000360250 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 431 data_seq null time is: 1727337289.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 432 data_seq null time is: 1727337289.000559568 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 433 data_seq null time is: 1727337289.000659704 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 434 data_seq null time is: 1727337289.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 435 data_seq null time is: 1727337289.000859737 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 436 data_seq null time is: 1727337289.000959873 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 437 data_seq null time is: 1727337290.000059843 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 438 data_seq null time is: 1727337290.000160217 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 439 data_seq null time is: 1727337290.000260115 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 440 data_seq null time is: 1727337290.000360489 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 441 data_seq null time is: 1727337290.000460386 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 442 data_seq null time is: 1727337290.000560522 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 443 data_seq null time is: 1727337290.000659704 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 444 data_seq null time is: 1727337290.000759602 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 445 data_seq null time is: 1727337290.000859976 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 446 data_seq null time is: 1727337290.000959635 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 447 data_seq null time is: 1727337291.000059843 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 448 data_seq null time is: 1727337291.000159502 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 449 data_seq null time is: 1727337291.000258446 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 450 data_seq null time is: 1727337291.000359297 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 451 data_seq null time is: 1727337291.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 452 data_seq null time is: 1727337291.000559330 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 453 data_seq null time is: 1727337291.000659943 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 454 data_seq null time is: 1727337291.000760794 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 455 data_seq null time is: 1727337291.000859976 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 456 data_seq null time is: 1727337291.000959635 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 457 data_seq null time is: 1727337292.000059843 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 458 data_seq null time is: 1727337292.000159740 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 459 data_seq null time is: 1727337292.000259876 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 460 data_seq null time is: 1727337292.000360489 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 461 data_seq null time is: 1727337292.000459909 s 
+unrecognize frame 0xac 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 462 data_seq null time is: 1727337292.000560522 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 463 data_seq null time is: 1727337292.000660181 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 464 data_seq null time is: 1727337292.000760078 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 465 data_seq null time is: 1727337292.000859499 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 466 data_seq null time is: 1727337292.000959635 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 467 data_seq null time is: 1727337293.000059843 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 468 data_seq null time is: 1727337293.000159502 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 469 data_seq null time is: 1727337293.000260592 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 470 data_seq null time is: 1727337293.000360727 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 471 data_seq null time is: 1727337293.000460386 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 472 data_seq null time is: 1727337293.000559807 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 473 data_seq null time is: 1727337293.000659704 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 474 data_seq null time is: 1727337293.000760078 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 475 data_seq null time is: 1727337293.000859499 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 476 data_seq null time is: 1727337293.000959873 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 477 data_seq null time is: 1727337294.000060081 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 478 data_seq null time is: 1727337294.000161171 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 479 data_seq null time is: 1727337294.000260353 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 480 data_seq null time is: 1727337294.000360250 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 481 data_seq null time is: 1727337294.000459671 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 482 data_seq null time is: 1727337294.000560045 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 483 data_seq null time is: 1727337294.000660181 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 484 data_seq null time is: 1727337294.000760078 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 485 data_seq null time is: 1727337294.000859976 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 486 data_seq null time is: 1727337294.000959873 s 
+dt: 0.999100685
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 487 data_seq null time is: 1727337295.000060558 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 488 data_seq null time is: 1727337295.000159740 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 489 data_seq null time is: 1727337295.000260115 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 490 data_seq null time is: 1727337295.000359774 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 491 data_seq null time is: 1727337295.000458956 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 492 data_seq null time is: 1727337295.000559330 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 493 data_seq null time is: 1727337295.000659704 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 494 data_seq null time is: 1727337295.000759840 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 495 data_seq null time is: 1727337295.000859976 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 496 data_seq null time is: 1727337295.000959873 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 497 data_seq null time is: 1727337296.000060081 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 498 data_seq null time is: 1727337296.000159740 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 499 data_seq null time is: 1727337296.000259638 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 500 data_seq null time is: 1727337296.000360489 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 501 data_seq null time is: 1727337296.000459433 s 
+unrecognize frame 0xac 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 502 data_seq null time is: 1727337296.000560045 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 503 data_seq null time is: 1727337296.000660419 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 504 data_seq null time is: 1727337296.000759840 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 505 data_seq null time is: 1727337296.000859976 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 506 data_seq null time is: 1727337296.000960350 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 507 data_seq null time is: 1727337297.000060081 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 508 data_seq null time is: 1727337297.000160217 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 509 data_seq null time is: 1727337297.000259876 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 510 data_seq null time is: 1727337297.000360012 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 511 data_seq null time is: 1727337297.000459671 s 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

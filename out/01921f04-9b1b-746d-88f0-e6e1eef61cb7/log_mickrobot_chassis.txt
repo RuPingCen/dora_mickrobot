@@ -1,0 +1,20 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+Twist event count: 1 data_seq null time is: 1727097260.000343084 s 
+Twist event count: 2 data_seq null time is: 1727097262.000209332 s 
+Twist event count: 3 data_seq null time is: 1727097264.000179768 s 
+Twist event count: 4 data_seq null time is: 1727097265.000578165 s 
+Twist event count: 5 data_seq null time is: 1727097280.000348091 s 
+Twist event count: 6 data_seq null time is: 1727097286.000371695 s 
+Twist event count: 7 data_seq null time is: 1727097289.000668526 s 
+Twist event count: 8 data_seq null time is: 1727097291.000784397 s 
+Twist event count: 9 data_seq null time is: 1727097294.000443220 s 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

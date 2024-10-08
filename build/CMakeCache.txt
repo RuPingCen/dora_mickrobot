@@ -228,7 +228,7 @@ Eigen3_DIR:PATH=/usr/lib/cmake/eigen3
 PKG_CONFIG_EXECUTABLE:FILEPATH=/usr/bin/pkg-config
 
 //Path to a program.
-PYTHON_EXECUTABLE:FILEPATH=/usr/bin/python3
+PYTHON_EXECUTABLE:FILEPATH=/home/crp/anaconda3/bin/python3
 
 //Specify specific Python version to use ('major.minor' or 'major')
 PYTHON_VERSION:STRING=
@@ -237,7 +237,7 @@ PYTHON_VERSION:STRING=
 _lib:FILEPATH=/usr/local/lib/libserial.so
 
 //The directory containing a CMake configuration file for ament_cmake_core.
-ament_cmake_core_DIR:PATH=/opt/ros/foxy/share/ament_cmake_core/cmake
+ament_cmake_core_DIR:PATH=/opt/ros/galactic/share/ament_cmake_core/cmake
 
 //Value Computed by CMake
 mickrobot_BINARY_DIR:STATIC=/home/crp/dora_project/dora_mickrobot/build
@@ -400,7 +400,7 @@ CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding PkgConfig
 FIND_PACKAGE_MESSAGE_DETAILS_PkgConfig:INTERNAL=[/usr/bin/pkg-config][v0.29.1()]
 //Details about finding PythonInterp
-FIND_PACKAGE_MESSAGE_DETAILS_PythonInterp:INTERNAL=[/usr/bin/python3][v3.8.10(3)]
+FIND_PACKAGE_MESSAGE_DETAILS_PythonInterp:INTERNAL=[/home/crp/anaconda3/bin/python3][v3.11.5(3)]
 //ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
 PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PYTHON_EXECUTABLE

@@ -1,0 +1,16 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+[2m2024-09-26T08:30:59.393699Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m failed to initialize node
+
+Caused by:
+   0: failed to init event stream
+   1: subscribe failed: Node camera exited before initializing dora. For more information, run `dora logs 01922d74-6be8-7fc4-abac-9a9a1cacbee9 camera`.
+
+Location:
+    apis/rust/node/src/event_stream/mod.rs:101:17

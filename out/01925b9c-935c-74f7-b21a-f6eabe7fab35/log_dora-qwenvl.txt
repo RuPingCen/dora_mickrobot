@@ -1,0 +1,18 @@
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section'}
+`Qwen2VLRotaryEmbedding` can now be fully parameterized by passing the model config through the `config` argument. All other arguments will be removed in v4.46
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  1.35it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  2.63it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  2.30it/s]
+Traceback (most recent call last):
+  File "/home/crp/anaconda3/bin/dora-qwenvl", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 89, in main
+    node = Node()
+           ^^^^^^
+RuntimeError: Couldn not initiate node from environment variable. For dynamic node, please add a node id in the initialization function.
+
+Caused by:
+   0: failed to init event stream
+   1: subscribe failed: Node mickrobot_chassis exited before initializing dora. For more information, run `dora logs 01925b9c-935c-74f7-b21a-f6eabe7fab35 mickrobot_chassis`.
+
+Location:
+    apis/rust/node/src/event_stream/mod.rs:101:17

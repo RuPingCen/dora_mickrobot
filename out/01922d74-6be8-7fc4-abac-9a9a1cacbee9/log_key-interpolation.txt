@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/crp/dora_project/dora_mickrobot/key_interpolation.py", line 4, in <module>
+    node = Node()
+           ^^^^^^
+RuntimeError: Couldn not initiate node from environment variable. For dynamic node, please add a node id in the initialization function.
+
+Caused by:
+   0: failed to init event stream
+   1: subscribe failed: Node camera exited before initializing dora. For more information, run `dora logs 01922d74-6be8-7fc4-abac-9a9a1cacbee9 camera`.
+
+Location:
+    apis/rust/node/src/event_stream/mod.rs:101:17

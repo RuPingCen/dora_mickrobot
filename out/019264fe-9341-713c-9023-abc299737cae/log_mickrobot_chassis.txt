@@ -1,0 +1,27 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+Twist event count: 1 data_seq null time is: 1728271285.000294209 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":1,"stamp":{"nanosec":293751001,"sec":1728271285}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 2 data_seq null time is: 1728271285.000294447 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":2,"stamp":{"nanosec":293859958,"sec":1728271285}},"linear":{"x":0.0,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 3 data_seq null time is: 1728271285.000320911 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":3,"stamp":{"nanosec":320529937,"sec":1728271285}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 4 data_seq null time is: 1728271285.000322819 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":4,"stamp":{"nanosec":322669982,"sec":1728271285}},"linear":{"x":0.0,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 5 data_seq null time is: 1728271285.000473976 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":5,"stamp":{"nanosec":473501920,"sec":1728271285}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 6 data_seq null time is: 1728271285.000475883 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":6,"stamp":{"nanosec":475560903,"sec":1728271285}},"linear":{"x":0.0,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 7 data_seq null time is: 1728271285.000602722 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":7,"stamp":{"nanosec":602323055,"sec":1728271285}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+Twist event count: 8 data_seq null time is: 1728271285.000604868 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":8,"stamp":{"nanosec":604595899,"sec":1728271285}},"linear":{"x":0.0,"y":0.0,"z":0.0},"seq":null}
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

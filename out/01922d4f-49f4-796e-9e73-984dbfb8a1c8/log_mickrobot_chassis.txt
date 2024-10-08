@@ -1,0 +1,2599 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 533
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1727337024.000332117 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1727337024.000532627 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 3 data_seq null time is: 1727337024.000732899 s 
+serial data is too short ,  len: 547
+ analy uart recive data error ...Twist event count: 4 data_seq null time is: 1727337024.000933409 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 5 data_seq null time is: 1727337025.000133753 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 6 data_seq null time is: 1727337025.000334263 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 7 data_seq null time is: 1727337025.000534534 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 8 data_seq null time is: 1727337025.000735044 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 9 data_seq null time is: 1727337025.000935555 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 10 data_seq null time is: 1727337026.000135899 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 11 data_seq null time is: 1727337026.000336409 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 12 data_seq null time is: 1727337026.000536919 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 13 data_seq null time is: 1727337026.000737429 s 
+serial data is too short ,  len: 547
+ analy uart recive data error ...Twist event count: 14 data_seq null time is: 1727337026.000937700 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 15 data_seq null time is: 1727337027.000138044 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 16 data_seq null time is: 1727337027.000338554 s 
+serial data is too short ,  len: 663
+ analy uart recive data error ...Twist event count: 17 data_seq null time is: 1727337027.000538826 s 
+serial data is too short ,  len: 702
+ analy uart recive data error ...Twist event count: 18 data_seq null time is: 1727337027.000739336 s 
+serial data is too short ,  len: 724
+ analy uart recive data error ...Twist event count: 19 data_seq null time is: 1727337027.000939608 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 20 data_seq null time is: 1727337028.000139713 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 21 data_seq null time is: 1727337028.000340223 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 22 data_seq null time is: 1727337028.000540733 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 23 data_seq null time is: 1727337028.000741005 s 
+serial data is too short ,  len: 541
+ analy uart recive data error ...Twist event count: 24 data_seq null time is: 1727337028.000941515 s 
+serial data is too short ,  len: 786
+ analy uart recive data error ...Twist event count: 25 data_seq null time is: 1727337029.000141859 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 26 data_seq null time is: 1727337029.000342369 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 27 data_seq null time is: 1727337029.000542641 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 28 data_seq null time is: 1727337029.000743151 s 
+serial data is too short ,  len: 742
+ analy uart recive data error ...Twist event count: 29 data_seq null time is: 1727337029.000943661 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 30 data_seq null time is: 1727337030.000144005 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 31 data_seq null time is: 1727337030.000344276 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 32 data_seq null time is: 1727337030.000544786 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 33 data_seq null time is: 1727337030.000745296 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 34 data_seq null time is: 1727337030.000945568 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 35 data_seq null time is: 1727337031.000145912 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 36 data_seq null time is: 1727337031.000346422 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 37 data_seq null time is: 1727337031.000546694 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 38 data_seq null time is: 1727337031.000747204 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 39 data_seq null time is: 1727337031.000947475 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 40 data_seq null time is: 1727337032.000147820 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 41 data_seq null time is: 1727337032.000348330 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 42 data_seq null time is: 1727337032.000548601 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 43 data_seq null time is: 1727337032.000749111 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 44 data_seq null time is: 1727337032.000949621 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 45 data_seq null time is: 1727337033.000149965 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 46 data_seq null time is: 1727337033.000350475 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 47 data_seq null time is: 1727337033.000550747 s 
+serial data is too short ,  len: 655
+ analy uart recive data error ...Twist event count: 48 data_seq null time is: 1727337033.000751257 s 
+serial data is too short ,  len: 671
+ analy uart recive data error ...Twist event count: 49 data_seq null time is: 1727337033.000951767 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 50 data_seq null time is: 1727337034.000152111 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 51 data_seq null time is: 1727337034.000352621 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 52 data_seq null time is: 1727337034.000552893 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 53 data_seq null time is: 1727337034.000753403 s 
+serial data is too short ,  len: 740
+ analy uart recive data error ...Twist event count: 54 data_seq null time is: 1727337034.000953674 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 55 data_seq null time is: 1727337035.000154018 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 56 data_seq null time is: 1727337035.000354528 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 57 data_seq null time is: 1727337035.000554800 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 58 data_seq null time is: 1727337035.000755310 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 59 data_seq null time is: 1727337035.000955582 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 60 data_seq null time is: 1727337036.000155926 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 61 data_seq null time is: 1727337036.000356436 s 
+serial data is too short ,  len: 588
+ analy uart recive data error ...Twist event count: 62 data_seq null time is: 1727337036.000556707 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 63 data_seq null time is: 1727337036.000757217 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 64 data_seq null time is: 1727337036.000957489 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 65 data_seq null time is: 1727337037.000158072 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 66 data_seq null time is: 1727337037.000358582 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 67 data_seq null time is: 1727337037.000558853 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 68 data_seq null time is: 1727337037.000759363 s 
+serial data is too short ,  len: 542
+ analy uart recive data error ...Twist event count: 69 data_seq null time is: 1727337037.000959635 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 70 data_seq null time is: 1727337038.000159979 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 71 data_seq null time is: 1727337038.000360250 s 
+serial data is too short ,  len: 739
+ analy uart recive data error ...Twist event count: 72 data_seq null time is: 1727337038.000560522 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 73 data_seq null time is: 1727337038.000760794 s 
+serial data is too short ,  len: 746
+ analy uart recive data error ...Twist event count: 74 data_seq null time is: 1727337038.000961304 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 75 data_seq null time is: 1727337039.000161648 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 76 data_seq null time is: 1727337039.000362158 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 77 data_seq null time is: 1727337039.000562668 s 
+serial data is too short ,  len: 765
+ analy uart recive data error ...Twist event count: 78 data_seq null time is: 1727337039.000763178 s 
+serial data is too short ,  len: 620
+ analy uart recive data error ...Twist event count: 79 data_seq null time is: 1727337039.000963449 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 80 data_seq null time is: 1727337040.000163794 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 81 data_seq null time is: 1727337040.000364304 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 82 data_seq null time is: 1727337040.000564814 s 
+serial data is too short ,  len: 559
+ analy uart recive data error ...Twist event count: 83 data_seq null time is: 1727337040.000765085 s 
+serial data is too short ,  len: 763
+ analy uart recive data error ...Twist event count: 84 data_seq null time is: 1727337040.000965595 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 85 data_seq null time is: 1727337041.000165939 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 86 data_seq null time is: 1727337041.000366211 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 87 data_seq null time is: 1727337041.000566721 s 
+serial data is too short ,  len: 751
+ analy uart recive data error ...Twist event count: 88 data_seq null time is: 1727337041.000766993 s 
+serial data is too short ,  len: 774
+ analy uart recive data error ...Twist event count: 89 data_seq null time is: 1727337041.000967503 s 
+serial data is too short ,  len: 587
+ analy uart recive data error ...Twist event count: 90 data_seq null time is: 1727337042.000167847 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 91 data_seq null time is: 1727337042.000368357 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 92 data_seq null time is: 1727337042.000568628 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 93 data_seq null time is: 1727337042.000768900 s 
+serial data is too short ,  len: 776
+ analy uart recive data error ...Twist event count: 94 data_seq null time is: 1727337042.000969172 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 95 data_seq null time is: 1727337043.000169516 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 96 data_seq null time is: 1727337043.000370026 s 
+serial data is too short ,  len: 582
+ analy uart recive data error ...Twist event count: 97 data_seq null time is: 1727337043.000570297 s 
+serial data is too short ,  len: 740
+ analy uart recive data error ...Twist event count: 98 data_seq null time is: 1727337043.000770807 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 99 data_seq null time is: 1727337043.000971079 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 100 data_seq null time is: 1727337044.000171423 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 101 data_seq null time is: 1727337044.000371695 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 102 data_seq null time is: 1727337044.000572205 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 103 data_seq null time is: 1727337044.000772476 s 
+serial data is too short ,  len: 602
+ analy uart recive data error ...Twist event count: 104 data_seq null time is: 1727337044.000972986 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 105 data_seq null time is: 1727337045.000173330 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 106 data_seq null time is: 1727337045.000373602 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 107 data_seq null time is: 1727337045.000574112 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 108 data_seq null time is: 1727337045.000774384 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 109 data_seq null time is: 1727337045.000974894 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 110 data_seq null time is: 1727337046.000175238 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 111 data_seq null time is: 1727337046.000375509 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 112 data_seq null time is: 1727337046.000575781 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 113 data_seq null time is: 1727337046.000776291 s 
+serial data is too short ,  len: 545
+ analy uart recive data error ...Twist event count: 114 data_seq null time is: 1727337046.000976562 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 115 data_seq null time is: 1727337047.000176907 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 116 data_seq null time is: 1727337047.000377417 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 117 data_seq null time is: 1727337047.000577927 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 118 data_seq null time is: 1727337047.000778437 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 119 data_seq null time is: 1727337047.000978708 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 120 data_seq null time is: 1727337048.000179052 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 121 data_seq null time is: 1727337048.000379562 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 122 data_seq null time is: 1727337048.000579834 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 123 data_seq null time is: 1727337048.000780106 s 
+serial data is too short ,  len: 552
+ analy uart recive data error ...Twist event count: 124 data_seq null time is: 1727337048.000980616 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 125 data_seq null time is: 1727337049.000180960 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 126 data_seq null time is: 1727337049.000381470 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 127 data_seq null time is: 1727337049.000581741 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 128 data_seq null time is: 1727337049.000782013 s 
+serial data is too short ,  len: 742
+ analy uart recive data error ...Twist event count: 129 data_seq null time is: 1727337049.000982523 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 130 data_seq null time is: 1727337050.000183105 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 131 data_seq null time is: 1727337050.000383377 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 132 data_seq null time is: 1727337050.000583649 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 133 data_seq null time is: 1727337050.000783920 s 
+serial data is too short ,  len: 633
+ analy uart recive data error ...Twist event count: 134 data_seq null time is: 1727337050.000984430 s 
+serial data is too short ,  len: 689
+ analy uart recive data error ...Twist event count: 135 data_seq null time is: 1727337051.000184774 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 136 data_seq null time is: 1727337051.000385046 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 137 data_seq null time is: 1727337051.000585556 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 138 data_seq null time is: 1727337051.000785828 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 139 data_seq null time is: 1727337051.000986099 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 140 data_seq null time is: 1727337052.000186682 s 
+serial data is too short ,  len: 593
+ analy uart recive data error ...Twist event count: 141 data_seq null time is: 1727337052.000387192 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 142 data_seq null time is: 1727337052.000587463 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 143 data_seq null time is: 1727337052.000787735 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 144 data_seq null time is: 1727337052.000988245 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 145 data_seq null time is: 1727337053.000188589 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 146 data_seq null time is: 1727337053.000389099 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 147 data_seq null time is: 1727337053.000589371 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 148 data_seq null time is: 1727337053.000789881 s 
+serial data is too short ,  len: 739
+ analy uart recive data error ...Twist event count: 149 data_seq null time is: 1727337053.000990152 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 150 data_seq null time is: 1727337054.000190735 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 151 data_seq null time is: 1727337054.000391006 s 
+serial data is too short ,  len: 586
+ analy uart recive data error ...Twist event count: 152 data_seq null time is: 1727337054.000591516 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 153 data_seq null time is: 1727337054.000792027 s 
+serial data is too short ,  len: 752
+ analy uart recive data error ...Twist event count: 154 data_seq null time is: 1727337054.000992298 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 155 data_seq null time is: 1727337055.000192881 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 156 data_seq null time is: 1727337055.000393391 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 157 data_seq null time is: 1727337055.000593901 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 158 data_seq null time is: 1727337055.000794172 s 
+serial data is too short ,  len: 568
+ analy uart recive data error ...Twist event count: 159 data_seq null time is: 1727337055.000994682 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 160 data_seq null time is: 1727337056.000195026 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 161 data_seq null time is: 1727337056.000395536 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 162 data_seq null time is: 1727337056.000595570 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 163 data_seq null time is: 1727337056.000796080 s 
+serial data is too short ,  len: 739
+ analy uart recive data error ...Twist event count: 164 data_seq null time is: 1727337056.000996351 s 
+serial data is too short ,  len: 674
+ analy uart recive data error ...Twist event count: 165 data_seq null time is: 1727337057.000196695 s 
+serial data is too short ,  len: 700
+ analy uart recive data error ...Twist event count: 166 data_seq null time is: 1727337057.000397205 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 167 data_seq null time is: 1727337057.000597477 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 168 data_seq null time is: 1727337057.000797749 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 169 data_seq null time is: 1727337057.000998259 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 170 data_seq null time is: 1727337058.000198603 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 171 data_seq null time is: 1727337058.000398874 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 172 data_seq null time is: 1727337058.000599146 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 173 data_seq null time is: 1727337058.000799417 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 174 data_seq null time is: 1727337058.000999689 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 175 data_seq null time is: 1727337059.000200033 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 176 data_seq null time is: 1727337059.000400543 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 177 data_seq null time is: 1727337059.000600815 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 178 data_seq null time is: 1727337059.000801325 s 
+serial data is too short ,  len: 542
+ analy uart recive data error ...Twist event count: 179 data_seq null time is: 1727337060.000001669 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 180 data_seq null time is: 1727337060.000201941 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 181 data_seq null time is: 1727337060.000402212 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 182 data_seq null time is: 1727337060.000602722 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 183 data_seq null time is: 1727337060.000803232 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 184 data_seq null time is: 1727337061.000003576 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 185 data_seq null time is: 1727337061.000203848 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 186 data_seq null time is: 1727337061.000404358 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 187 data_seq null time is: 1727337061.000604868 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 188 data_seq null time is: 1727337061.000805378 s 
+serial data is too short ,  len: 724
+ analy uart recive data error ...Twist event count: 189 data_seq null time is: 1727337062.000005722 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 190 data_seq null time is: 1727337062.000205994 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 191 data_seq null time is: 1727337062.000406504 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 192 data_seq null time is: 1727337062.000607014 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 193 data_seq null time is: 1727337062.000807285 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 194 data_seq null time is: 1727337063.000007868 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 195 data_seq null time is: 1727337063.000208378 s 
+serial data is too short ,  len: 663
+ analy uart recive data error ...Twist event count: 196 data_seq null time is: 1727337063.000408888 s 
+serial data is too short ,  len: 702
+ analy uart recive data error ...Twist event count: 197 data_seq null time is: 1727337063.000609398 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 198 data_seq null time is: 1727337063.000809908 s 
+serial data is too short ,  len: 743
+ analy uart recive data error ...Twist event count: 199 data_seq null time is: 1727337064.000010252 s 
+serial data is too short ,  len: 592
+ analy uart recive data error ...Twist event count: 200 data_seq null time is: 1727337064.000210762 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 201 data_seq null time is: 1727337064.000411034 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 202 data_seq null time is: 1727337064.000611544 s 
+serial data is too short ,  len: 572
+ analy uart recive data error ...Twist event count: 203 data_seq null time is: 1727337064.000811815 s 
+serial data is too short ,  len: 753
+ analy uart recive data error ...Twist event count: 204 data_seq null time is: 1727337065.000012159 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 205 data_seq null time is: 1727337065.000212669 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 206 data_seq null time is: 1727337065.000412941 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 207 data_seq null time is: 1727337065.000613451 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 208 data_seq null time is: 1727337065.000813723 s 
+serial data is too short ,  len: 776
+ analy uart recive data error ...Twist event count: 209 data_seq null time is: 1727337066.000014305 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 210 data_seq null time is: 1727337066.000214577 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 211 data_seq null time is: 1727337066.000415087 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 212 data_seq null time is: 1727337066.000615358 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 213 data_seq null time is: 1727337066.000815868 s 
+serial data is too short ,  len: 569
+ analy uart recive data error ...Twist event count: 214 data_seq null time is: 1727337067.000016212 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 215 data_seq null time is: 1727337067.000216484 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 216 data_seq null time is: 1727337067.000416994 s 
+serial data is too short ,  len: 587
+ analy uart recive data error ...Twist event count: 217 data_seq null time is: 1727337067.000617266 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 218 data_seq null time is: 1727337067.000817537 s 
+serial data is too short ,  len: 776
+ analy uart recive data error ...Twist event count: 219 data_seq null time is: 1727337068.000018120 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 220 data_seq null time is: 1727337068.000218391 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 221 data_seq null time is: 1727337068.000418663 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 222 data_seq null time is: 1727337068.000618935 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 223 data_seq null time is: 1727337068.000819445 s 
+serial data is too short ,  len: 603
+ analy uart recive data error ...Twist event count: 224 data_seq null time is: 1727337069.000019789 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 225 data_seq null time is: 1727337069.000220299 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 226 data_seq null time is: 1727337069.000420570 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 227 data_seq null time is: 1727337069.000621080 s 
+serial data is too short ,  len: 672
+ analy uart recive data error ...Twist event count: 228 data_seq null time is: 1727337069.000821590 s 
+serial data is too short ,  len: 793
+ analy uart recive data error ...Twist event count: 229 data_seq null time is: 1727337070.000022173 s 
+serial data is too short ,  len: 786
+ analy uart recive data error ...Twist event count: 230 data_seq null time is: 1727337070.000222683 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 231 data_seq null time is: 1727337070.000422955 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 232 data_seq null time is: 1727337070.000623465 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 233 data_seq null time is: 1727337070.000823975 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 234 data_seq null time is: 1727337071.000024319 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 235 data_seq null time is: 1727337071.000224590 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 236 data_seq null time is: 1727337071.000425100 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 237 data_seq null time is: 1727337071.000625610 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 238 data_seq null time is: 1727337071.000826120 s 
+serial data is too short ,  len: 795
+ analy uart recive data error ...Twist event count: 239 data_seq null time is: 1727337072.000026464 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 240 data_seq null time is: 1727337072.000226974 s 
+serial data is too short ,  len: 586
+ analy uart recive data error ...Twist event count: 241 data_seq null time is: 1727337072.000427246 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 242 data_seq null time is: 1727337072.000627518 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 243 data_seq null time is: 1727337072.000828028 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 244 data_seq null time is: 1727337073.000028372 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 245 data_seq null time is: 1727337073.000228882 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 246 data_seq null time is: 1727337073.000429153 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 247 data_seq null time is: 1727337073.000629663 s 
+serial data is too short ,  len: 531
+ analy uart recive data error ...Twist event count: 248 data_seq null time is: 1727337073.000830173 s 
+serial data is too short ,  len: 795
+ analy uart recive data error ...Twist event count: 249 data_seq null time is: 1727337074.000030756 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 250 data_seq null time is: 1727337074.000231028 s 
+serial data is too short ,  len: 689
+ analy uart recive data error ...Twist event count: 251 data_seq null time is: 1727337074.000431538 s 
+serial data is too short ,  len: 680
+ analy uart recive data error ...Twist event count: 252 data_seq null time is: 1727337074.000632048 s 
+serial data is too short ,  len: 744
+ analy uart recive data error ...Twist event count: 253 data_seq null time is: 1727337074.000832319 s 
+serial data is too short ,  len: 792
+ analy uart recive data error ...Twist event count: 254 data_seq null time is: 1727337075.000032663 s 
+serial data is too short ,  len: 587
+ analy uart recive data error ...Twist event count: 255 data_seq null time is: 1727337075.000233173 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 256 data_seq null time is: 1727337075.000433445 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 257 data_seq null time is: 1727337075.000633955 s 
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 258 data_seq null time is: 1727337075.000834465 s 
+serial data is too short ,  len: 724
+ analy uart recive data error ...Twist event count: 259 data_seq null time is: 1727337076.000034809 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 260 data_seq null time is: 1727337076.000235081 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 261 data_seq null time is: 1727337076.000435591 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 262 data_seq null time is: 1727337076.000635862 s 
+serial data is too short ,  len: 745
+ analy uart recive data error ...Twist event count: 263 data_seq null time is: 1727337076.000836372 s 
+serial data is too short ,  len: 794
+ analy uart recive data error ...Twist event count: 264 data_seq null time is: 1727337077.000036716 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 265 data_seq null time is: 1727337077.000236988 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 266 data_seq null time is: 1727337077.000437498 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 267 data_seq null time is: 1727337077.000638008 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 268 data_seq null time is: 1727337077.000838280 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 269 data_seq null time is: 1727337078.000038862 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 270 data_seq null time is: 1727337078.000239134 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 271 data_seq null time is: 1727337078.000439644 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 272 data_seq null time is: 1727337078.000639915 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 273 data_seq null time is: 1727337078.000840425 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 274 data_seq null time is: 1727337079.000040770 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 275 data_seq null time is: 1727337079.000241280 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 276 data_seq null time is: 1727337079.000441551 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 277 data_seq null time is: 1727337079.000641823 s 
+serial data is too short ,  len: 744
+ analy uart recive data error ...Twist event count: 278 data_seq null time is: 1727337079.000842333 s 
+serial data is too short ,  len: 599
+ analy uart recive data error ...Twist event count: 279 data_seq null time is: 1727337080.000042677 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 280 data_seq null time is: 1727337080.000242949 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 281 data_seq null time is: 1727337080.000443220 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 282 data_seq null time is: 1727337080.000643492 s 
+serial data is too short ,  len: 689
+ analy uart recive data error ...Twist event count: 283 data_seq null time is: 1727337080.000844002 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 284 data_seq null time is: 1727337081.000044346 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 285 data_seq null time is: 1727337081.000244856 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 286 data_seq null time is: 1727337081.000445127 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 287 data_seq null time is: 1727337081.000645638 s 
+serial data is too short ,  len: 731
+ analy uart recive data error ...Twist event count: 288 data_seq null time is: 1727337081.000846148 s 
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 289 data_seq null time is: 1727337082.000046492 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 290 data_seq null time is: 1727337082.000247002 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 291 data_seq null time is: 1727337082.000447273 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 292 data_seq null time is: 1727337082.000647783 s 
+serial data is too short ,  len: 533
+ analy uart recive data error ...Twist event count: 293 data_seq null time is: 1727337082.000848293 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 294 data_seq null time is: 1727337083.000048637 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 295 data_seq null time is: 1727337083.000249147 s 
+serial data is too short ,  len: 595
+ analy uart recive data error ...Twist event count: 296 data_seq null time is: 1727337083.000449419 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 297 data_seq null time is: 1727337083.000649929 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 298 data_seq null time is: 1727337083.000850439 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 299 data_seq null time is: 1727337084.000050783 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 300 data_seq null time is: 1727337084.000251293 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 301 data_seq null time is: 1727337084.000451803 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 302 data_seq null time is: 1727337084.000652075 s 
+serial data is too short ,  len: 549
+ analy uart recive data error ...Twist event count: 303 data_seq null time is: 1727337084.000852585 s 
+serial data is too short ,  len: 791
+ analy uart recive data error ...Twist event count: 304 data_seq null time is: 1727337085.000052929 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 305 data_seq null time is: 1727337085.000253439 s 
+serial data is too short ,  len: 715
+ analy uart recive data error ...Twist event count: 306 data_seq null time is: 1727337085.000453711 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 307 data_seq null time is: 1727337085.000654221 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 308 data_seq null time is: 1727337085.000854731 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 309 data_seq null time is: 1727337086.000055075 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 310 data_seq null time is: 1727337086.000255585 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 311 data_seq null time is: 1727337086.000455856 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 312 data_seq null time is: 1727337086.000656128 s 
+serial data is too short ,  len: 606
+ analy uart recive data error ...Twist event count: 313 data_seq null time is: 1727337086.000856638 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 314 data_seq null time is: 1727337087.000056982 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 315 data_seq null time is: 1727337087.000257254 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 316 data_seq null time is: 1727337087.000457764 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 317 data_seq null time is: 1727337087.000658274 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 318 data_seq null time is: 1727337087.000858545 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 319 data_seq null time is: 1727337088.000059128 s 
+serial data is too short ,  len: 595
+ analy uart recive data error ...Twist event count: 320 data_seq null time is: 1727337088.000259399 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 321 data_seq null time is: 1727337088.000459671 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 322 data_seq null time is: 1727337088.000660181 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 323 data_seq null time is: 1727337088.000860453 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 324 data_seq null time is: 1727337089.000060797 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 325 data_seq null time is: 1727337089.000261068 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 326 data_seq null time is: 1727337089.000461578 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 327 data_seq null time is: 1727337089.000661850 s 
+serial data is too short ,  len: 744
+ analy uart recive data error ...Twist event count: 328 data_seq null time is: 1727337089.000862360 s 
+serial data is too short ,  len: 792
+ analy uart recive data error ...Twist event count: 329 data_seq null time is: 1727337090.000062466 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 330 data_seq null time is: 1727337090.000262737 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 331 data_seq null time is: 1727337090.000463009 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 332 data_seq null time is: 1727337090.000663519 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 333 data_seq null time is: 1727337090.000863791 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 334 data_seq null time is: 1727337091.000064135 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 335 data_seq null time is: 1727337091.000264406 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 336 data_seq null time is: 1727337091.000464678 s 
+serial data is too short ,  len: 676
+ analy uart recive data error ...Twist event count: 337 data_seq null time is: 1727337091.000665188 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 338 data_seq null time is: 1727337091.000865698 s 
+serial data is too short ,  len: 793
+ analy uart recive data error ...Twist event count: 339 data_seq null time is: 1727337092.000066042 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 340 data_seq null time is: 1727337092.000266314 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 341 data_seq null time is: 1727337092.000466824 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 342 data_seq null time is: 1727337092.000667095 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 343 data_seq null time is: 1727337092.000867605 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 344 data_seq null time is: 1727337093.000067949 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 345 data_seq null time is: 1727337093.000268459 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 346 data_seq null time is: 1727337093.000468731 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 347 data_seq null time is: 1727337093.000669003 s 
+serial data is too short ,  len: 557
+ analy uart recive data error ...Twist event count: 348 data_seq null time is: 1727337093.000869513 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 349 data_seq null time is: 1727337094.000069857 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 350 data_seq null time is: 1727337094.000270128 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 351 data_seq null time is: 1727337094.000470638 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 352 data_seq null time is: 1727337094.000670910 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 353 data_seq null time is: 1727337094.000871420 s 
+serial data is too short ,  len: 793
+ analy uart recive data error ...Twist event count: 354 data_seq null time is: 1727337095.000071764 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 355 data_seq null time is: 1727337095.000272274 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 356 data_seq null time is: 1727337095.000472546 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 357 data_seq null time is: 1727337095.000673056 s 
+serial data is too short ,  len: 533
+ analy uart recive data error ...Twist event count: 358 data_seq null time is: 1727337095.000873327 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 359 data_seq null time is: 1727337096.000073671 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 360 data_seq null time is: 1727337096.000274181 s 
+serial data is too short ,  len: 715
+ analy uart recive data error ...Twist event count: 361 data_seq null time is: 1727337096.000474691 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 362 data_seq null time is: 1727337096.000674963 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 363 data_seq null time is: 1727337096.000875473 s 
+serial data is too short ,  len: 791
+ analy uart recive data error ...Twist event count: 364 data_seq null time is: 1727337097.000075817 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 365 data_seq null time is: 1727337097.000276089 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 366 data_seq null time is: 1727337097.000476599 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 367 data_seq null time is: 1727337097.000677109 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 368 data_seq null time is: 1727337097.000877380 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 369 data_seq null time is: 1727337098.000077963 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 370 data_seq null time is: 1727337098.000278234 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 371 data_seq null time is: 1727337098.000478745 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 372 data_seq null time is: 1727337098.000679016 s 
+serial data is too short ,  len: 744
+ analy uart recive data error ...Twist event count: 373 data_seq null time is: 1727337098.000879526 s 
+serial data is too short ,  len: 794
+ analy uart recive data error ...Twist event count: 374 data_seq null time is: 1727337099.000079632 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 375 data_seq null time is: 1727337099.000280142 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 376 data_seq null time is: 1727337099.000480652 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 377 data_seq null time is: 1727337099.000680923 s 
+serial data is too short ,  len: 729
+ analy uart recive data error ...Twist event count: 378 data_seq null time is: 1727337099.000881433 s 
+serial data is too short ,  len: 600
+ analy uart recive data error ...Twist event count: 379 data_seq null time is: 1727337100.000081778 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 380 data_seq null time is: 1727337100.000282049 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 381 data_seq null time is: 1727337100.000482559 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 382 data_seq null time is: 1727337100.000683069 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 383 data_seq null time is: 1727337100.000883341 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 384 data_seq null time is: 1727337101.000083685 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 385 data_seq null time is: 1727337101.000284195 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 386 data_seq null time is: 1727337101.000484467 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 387 data_seq null time is: 1727337101.000684977 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 388 data_seq null time is: 1727337101.000885487 s 
+serial data is too short ,  len: 597
+ analy uart recive data error ...Twist event count: 389 data_seq null time is: 1727337102.000085831 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 390 data_seq null time is: 1727337102.000286341 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 391 data_seq null time is: 1727337102.000486612 s 
+serial data is too short ,  len: 702
+ analy uart recive data error ...Twist event count: 392 data_seq null time is: 1727337102.000687122 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 393 data_seq null time is: 1727337102.000887394 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 394 data_seq null time is: 1727337103.000087976 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 395 data_seq null time is: 1727337103.000288248 s 
+serial data is too short ,  len: 582
+ analy uart recive data error ...Twist event count: 396 data_seq null time is: 1727337103.000488758 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 397 data_seq null time is: 1727337103.000689030 s 
+serial data is too short ,  len: 731
+ analy uart recive data error ...Twist event count: 398 data_seq null time is: 1727337103.000889540 s 
+serial data is too short ,  len: 622
+ analy uart recive data error ...Twist event count: 399 data_seq null time is: 1727337104.000089884 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 400 data_seq null time is: 1727337104.000290394 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 401 data_seq null time is: 1727337104.000490665 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 402 data_seq null time is: 1727337104.000691175 s 
+serial data is too short ,  len: 537
+ analy uart recive data error ...Twist event count: 403 data_seq null time is: 1727337104.000891447 s 
+serial data is too short ,  len: 792
+ analy uart recive data error ...Twist event count: 404 data_seq null time is: 1727337105.000092030 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 405 data_seq null time is: 1727337105.000292301 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 406 data_seq null time is: 1727337105.000492811 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 407 data_seq null time is: 1727337105.000693321 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 408 data_seq null time is: 1727337105.000893593 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 409 data_seq null time is: 1727337106.000093937 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 410 data_seq null time is: 1727337106.000294447 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 411 data_seq null time is: 1727337106.000494719 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 412 data_seq null time is: 1727337106.000694990 s 
+serial data is too short ,  len: 533
+ analy uart recive data error ...Twist event count: 413 data_seq null time is: 1727337106.000895500 s 
+serial data is too short ,  len: 793
+ analy uart recive data error ...Twist event count: 414 data_seq null time is: 1727337107.000095606 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 415 data_seq null time is: 1727337107.000296116 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 416 data_seq null time is: 1727337107.000496387 s 
+serial data is too short ,  len: 588
+ analy uart recive data error ...Twist event count: 417 data_seq null time is: 1727337107.000696659 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 418 data_seq null time is: 1727337107.000896931 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 419 data_seq null time is: 1727337108.000097275 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 420 data_seq null time is: 1727337108.000297546 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 421 data_seq null time is: 1727337108.000497818 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 422 data_seq null time is: 1727337108.000698090 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 423 data_seq null time is: 1727337108.000898361 s 
+serial data is too short ,  len: 704
+ analy uart recive data error ...Twist event count: 424 data_seq null time is: 1727337109.000098705 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 425 data_seq null time is: 1727337109.000299215 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 426 data_seq null time is: 1727337109.000499487 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 427 data_seq null time is: 1727337109.000699759 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 428 data_seq null time is: 1727337109.000900030 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 429 data_seq null time is: 1727337110.000100613 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 430 data_seq null time is: 1727337110.000300884 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 431 data_seq null time is: 1727337110.000501156 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 432 data_seq null time is: 1727337110.000701666 s 
+serial data is too short ,  len: 732
+ analy uart recive data error ...Twist event count: 433 data_seq null time is: 1727337110.000901937 s 
+serial data is too short ,  len: 597
+ analy uart recive data error ...Twist event count: 434 data_seq null time is: 1727337111.000102282 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 435 data_seq null time is: 1727337111.000302792 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 436 data_seq null time is: 1727337111.000503063 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 437 data_seq null time is: 1727337111.000703573 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 438 data_seq null time is: 1727337111.000903845 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 439 data_seq null time is: 1727337112.000104189 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 440 data_seq null time is: 1727337112.000304699 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 441 data_seq null time is: 1727337112.000505209 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 442 data_seq null time is: 1727337112.000705481 s 
+serial data is too short ,  len: 747
+ analy uart recive data error ...Twist event count: 443 data_seq null time is: 1727337112.000905991 s 
+serial data is too short ,  len: 598
+ analy uart recive data error ...Twist event count: 444 data_seq null time is: 1727337113.000106335 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 445 data_seq null time is: 1727337113.000306845 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 446 data_seq null time is: 1727337113.000507116 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 447 data_seq null time is: 1727337113.000707388 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 448 data_seq null time is: 1727337113.000907660 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 449 data_seq null time is: 1727337114.000108004 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 450 data_seq null time is: 1727337114.000308275 s 
+serial data is too short ,  len: 595
+ analy uart recive data error ...Twist event count: 451 data_seq null time is: 1727337114.000508785 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 452 data_seq null time is: 1727337114.000709057 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 453 data_seq null time is: 1727337114.000909567 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 454 data_seq null time is: 1727337115.000109911 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 455 data_seq null time is: 1727337115.000310183 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 456 data_seq null time is: 1727337115.000510693 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 457 data_seq null time is: 1727337115.000710964 s 
+serial data is too short ,  len: 537
+ analy uart recive data error ...Twist event count: 458 data_seq null time is: 1727337115.000911474 s 
+serial data is too short ,  len: 794
+ analy uart recive data error ...Twist event count: 459 data_seq null time is: 1727337116.000111818 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 460 data_seq null time is: 1727337116.000312328 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 461 data_seq null time is: 1727337116.000512600 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 462 data_seq null time is: 1727337116.000713110 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 463 data_seq null time is: 1727337116.000913382 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 464 data_seq null time is: 1727337117.000113964 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 465 data_seq null time is: 1727337117.000314236 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 466 data_seq null time is: 1727337117.000514746 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 467 data_seq null time is: 1727337117.000715256 s 
+serial data is too short ,  len: 559
+ analy uart recive data error ...Twist event count: 468 data_seq null time is: 1727337117.000915527 s 
+serial data is too short ,  len: 771
+ analy uart recive data error ...Twist event count: 469 data_seq null time is: 1727337118.000115871 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 470 data_seq null time is: 1727337118.000316381 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 471 data_seq null time is: 1727337118.000516891 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 472 data_seq null time is: 1727337118.000717163 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 473 data_seq null time is: 1727337118.000917673 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 474 data_seq null time is: 1727337119.000118017 s 
+serial data is too short ,  len: 595
+ analy uart recive data error ...Twist event count: 475 data_seq null time is: 1727337119.000318527 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 476 data_seq null time is: 1727337119.000518799 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 477 data_seq null time is: 1727337119.000719309 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 478 data_seq null time is: 1727337119.000919819 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 479 data_seq null time is: 1727337120.000120163 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 480 data_seq null time is: 1727337120.000320673 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 481 data_seq null time is: 1727337120.000520945 s 
+serial data is too short ,  len: 591
+ analy uart recive data error ...Twist event count: 482 data_seq null time is: 1727337120.000721455 s 
+serial data is too short ,  len: 735
+ analy uart recive data error ...Twist event count: 483 data_seq null time is: 1727337120.000921726 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 484 data_seq null time is: 1727337121.000122070 s 
+serial data is too short ,  len: 715
+ analy uart recive data error ...Twist event count: 485 data_seq null time is: 1727337121.000322580 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 486 data_seq null time is: 1727337121.000523090 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 487 data_seq null time is: 1727337121.000723600 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 488 data_seq null time is: 1727337121.000923872 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 489 data_seq null time is: 1727337122.000124216 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 490 data_seq null time is: 1727337122.000324726 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 491 data_seq null time is: 1727337122.000524998 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 492 data_seq null time is: 1727337122.000725269 s 
+serial data is too short ,  len: 694
+ analy uart recive data error ...Twist event count: 493 data_seq null time is: 1727337122.000925779 s 
+serial data is too short ,  len: 795
+ analy uart recive data error ...Twist event count: 494 data_seq null time is: 1727337123.000126123 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 495 data_seq null time is: 1727337123.000326633 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 496 data_seq null time is: 1727337123.000527143 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 497 data_seq null time is: 1727337123.000727415 s 
+serial data is too short ,  len: 747
+ analy uart recive data error ...Twist event count: 498 data_seq null time is: 1727337123.000927925 s 
+serial data is too short ,  len: 593
+ analy uart recive data error ...Twist event count: 499 data_seq null time is: 1727337124.000128269 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 500 data_seq null time is: 1727337124.000328779 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 501 data_seq null time is: 1727337124.000529051 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 502 data_seq null time is: 1727337124.000729561 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 503 data_seq null time is: 1727337124.000929832 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 504 data_seq null time is: 1727337125.000130415 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 505 data_seq null time is: 1727337125.000330687 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 506 data_seq null time is: 1727337125.000531197 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 507 data_seq null time is: 1727337125.000731468 s 
+serial data is too short ,  len: 732
+ analy uart recive data error ...Twist event count: 508 data_seq null time is: 1727337125.000931740 s 
+serial data is too short ,  len: 763
+ analy uart recive data error ...Twist event count: 509 data_seq null time is: 1727337126.000132322 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 510 data_seq null time is: 1727337126.000332594 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 511 data_seq null time is: 1727337126.000533104 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 512 data_seq null time is: 1727337126.000733376 s 
+serial data is too short ,  len: 533
+ analy uart recive data error ...Twist event count: 513 data_seq null time is: 1727337126.000933886 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 514 data_seq null time is: 1727337127.000134230 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 515 data_seq null time is: 1727337127.000334740 s 
+serial data is too short ,  len: 676
+ analy uart recive data error ...Twist event count: 516 data_seq null time is: 1727337127.000535250 s 
+serial data is too short ,  len: 694
+ analy uart recive data error ...Twist event count: 517 data_seq null time is: 1727337127.000735521 s 
+serial data is too short ,  len: 745
+ analy uart recive data error ...Twist event count: 518 data_seq null time is: 1727337127.000935793 s 
+serial data is too short ,  len: 793
+ analy uart recive data error ...Twist event count: 519 data_seq null time is: 1727337128.000136137 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 520 data_seq null time is: 1727337128.000336647 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 521 data_seq null time is: 1727337128.000537157 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 522 data_seq null time is: 1727337128.000737429 s 
+serial data is too short ,  len: 584
+ analy uart recive data error ...Twist event count: 523 data_seq null time is: 1727337128.000937939 s 
+serial data is too short ,  len: 757
+ analy uart recive data error ...Twist event count: 524 data_seq null time is: 1727337129.000138283 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 525 data_seq null time is: 1727337129.000338554 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 526 data_seq null time is: 1727337129.000539064 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 527 data_seq null time is: 1727337129.000739574 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 528 data_seq null time is: 1727337129.000939846 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 529 data_seq null time is: 1727337130.000140190 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 530 data_seq null time is: 1727337130.000340700 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 531 data_seq null time is: 1727337130.000540972 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 532 data_seq null time is: 1727337130.000741482 s 
+serial data is too short ,  len: 721
+ analy uart recive data error ...Twist event count: 533 data_seq null time is: 1727337130.000941753 s 
+serial data is too short ,  len: 620
+ analy uart recive data error ...Twist event count: 534 data_seq null time is: 1727337131.000142336 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 535 data_seq null time is: 1727337131.000342607 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 536 data_seq null time is: 1727337131.000543118 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 537 data_seq null time is: 1727337131.000743628 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 538 data_seq null time is: 1727337131.000944138 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 539 data_seq null time is: 1727337132.000144482 s 
+serial data is too short ,  len: 676
+ analy uart recive data error ...Twist event count: 540 data_seq null time is: 1727337132.000344753 s 
+serial data is too short ,  len: 690
+ analy uart recive data error ...Twist event count: 541 data_seq null time is: 1727337132.000545263 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 542 data_seq null time is: 1727337132.000745773 s 
+serial data is too short ,  len: 733
+ analy uart recive data error ...Twist event count: 543 data_seq null time is: 1727337132.000946045 s 
+serial data is too short ,  len: 596
+ analy uart recive data error ...Twist event count: 544 data_seq null time is: 1727337133.000146389 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 545 data_seq null time is: 1727337133.000346899 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 546 data_seq null time is: 1727337133.000547409 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 547 data_seq null time is: 1727337133.000747681 s 
+serial data is too short ,  len: 744
+ analy uart recive data error ...Twist event count: 548 data_seq null time is: 1727337133.000948191 s 
+serial data is too short ,  len: 793
+ analy uart recive data error ...Twist event count: 549 data_seq null time is: 1727337134.000148535 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 550 data_seq null time is: 1727337134.000349045 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 551 data_seq null time is: 1727337134.000549316 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 552 data_seq null time is: 1727337134.000749826 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 553 data_seq null time is: 1727337134.000950098 s 
+serial data is too short ,  len: 594
+ analy uart recive data error ...Twist event count: 554 data_seq null time is: 1727337135.000150681 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 555 data_seq null time is: 1727337135.000350952 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 556 data_seq null time is: 1727337135.000551224 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 557 data_seq null time is: 1727337135.000751734 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 558 data_seq null time is: 1727337135.000952005 s 
+serial data is too short ,  len: 789
+ analy uart recive data error ...Twist event count: 559 data_seq null time is: 1727337136.000152588 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 560 data_seq null time is: 1727337136.000352859 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 561 data_seq null time is: 1727337136.000553131 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 562 data_seq null time is: 1727337136.000753403 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 563 data_seq null time is: 1727337136.000953674 s 
+serial data is too short ,  len: 724
+ analy uart recive data error ...Twist event count: 564 data_seq null time is: 1727337137.000154018 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 565 data_seq null time is: 1727337137.000354528 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 566 data_seq null time is: 1727337137.000555038 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 567 data_seq null time is: 1727337137.000755310 s 
+serial data is too short ,  len: 551
+ analy uart recive data error ...Twist event count: 568 data_seq null time is: 1727337137.000955820 s 
+serial data is too short ,  len: 793
+ analy uart recive data error ...Twist event count: 569 data_seq null time is: 1727337138.000156164 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 570 data_seq null time is: 1727337138.000356674 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 571 data_seq null time is: 1727337138.000556946 s 
+serial data is too short ,  len: 746
+ analy uart recive data error ...Twist event count: 572 data_seq null time is: 1727337138.000757456 s 
+serial data is too short ,  len: 753
+ analy uart recive data error ...Twist event count: 573 data_seq null time is: 1727337138.000957966 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 574 data_seq null time is: 1727337139.000158310 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 575 data_seq null time is: 1727337139.000358582 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 576 data_seq null time is: 1727337139.000559092 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 577 data_seq null time is: 1727337139.000759602 s 
+serial data is too short ,  len: 541
+ analy uart recive data error ...Twist event count: 578 data_seq null time is: 1727337139.000960112 s 
+serial data is too short ,  len: 794
+ analy uart recive data error ...Twist event count: 579 data_seq null time is: 1727337140.000160456 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 580 data_seq null time is: 1727337140.000360966 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 581 data_seq null time is: 1727337140.000561237 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 582 data_seq null time is: 1727337140.000761747 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 583 data_seq null time is: 1727337140.000962257 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 584 data_seq null time is: 1727337141.000162601 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 585 data_seq null time is: 1727337141.000363111 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 586 data_seq null time is: 1727337141.000563383 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 587 data_seq null time is: 1727337141.000763655 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 588 data_seq null time is: 1727337141.000964165 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 589 data_seq null time is: 1727337142.000164509 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 590 data_seq null time is: 1727337142.000365019 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 591 data_seq null time is: 1727337142.000565529 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 592 data_seq null time is: 1727337142.000765800 s 
+serial data is too short ,  len: 753
+ analy uart recive data error ...Twist event count: 593 data_seq null time is: 1727337142.000966072 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 594 data_seq null time is: 1727337143.000166655 s 
+serial data is too short ,  len: 702
+ analy uart recive data error ...Twist event count: 595 data_seq null time is: 1727337143.000366926 s 
+serial data is too short ,  len: 671
+ analy uart recive data error ...Twist event count: 596 data_seq null time is: 1727337143.000567436 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 597 data_seq null time is: 1727337143.000767708 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 598 data_seq null time is: 1727337143.000967979 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 599 data_seq null time is: 1727337144.000168324 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 600 data_seq null time is: 1727337144.000368834 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 601 data_seq null time is: 1727337144.000569105 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 602 data_seq null time is: 1727337144.000769615 s 
+serial data is too short ,  len: 724
+ analy uart recive data error ...Twist event count: 603 data_seq null time is: 1727337144.000970125 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 604 data_seq null time is: 1727337145.000170469 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 605 data_seq null time is: 1727337145.000370979 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 606 data_seq null time is: 1727337145.000571251 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 607 data_seq null time is: 1727337145.000771761 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 608 data_seq null time is: 1727337145.000972033 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 609 data_seq null time is: 1727337146.000172377 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 610 data_seq null time is: 1727337146.000372887 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 611 data_seq null time is: 1727337146.000573397 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 612 data_seq null time is: 1727337146.000773668 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 613 data_seq null time is: 1727337146.000974178 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 614 data_seq null time is: 1727337147.000174522 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 615 data_seq null time is: 1727337147.000375032 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 616 data_seq null time is: 1727337147.000575304 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 617 data_seq null time is: 1727337147.000775576 s 
+serial data is too short ,  len: 753
+ analy uart recive data error ...Twist event count: 618 data_seq null time is: 1727337147.000976086 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 619 data_seq null time is: 1727337148.000176430 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 620 data_seq null time is: 1727337148.000376701 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 621 data_seq null time is: 1727337148.000577211 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 622 data_seq null time is: 1727337148.000777721 s 
+serial data is too short ,  len: 556
+ analy uart recive data error ...Twist event count: 623 data_seq null time is: 1727337148.000977993 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 624 data_seq null time is: 1727337149.000178576 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 625 data_seq null time is: 1727337149.000378847 s 
+serial data is too short ,  len: 689
+ analy uart recive data error ...Twist event count: 626 data_seq null time is: 1727337149.000579119 s 
+serial data is too short ,  len: 676
+ analy uart recive data error ...Twist event count: 627 data_seq null time is: 1727337149.000779629 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 628 data_seq null time is: 1727337149.000980139 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 629 data_seq null time is: 1727337150.000180483 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 630 data_seq null time is: 1727337150.000380754 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 631 data_seq null time is: 1727337150.000581264 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 632 data_seq null time is: 1727337150.000781775 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 633 data_seq null time is: 1727337150.000982046 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 634 data_seq null time is: 1727337151.000182390 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 635 data_seq null time is: 1727337151.000382900 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 636 data_seq null time is: 1727337151.000583410 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 637 data_seq null time is: 1727337151.000783682 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 638 data_seq null time is: 1727337151.000984192 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 639 data_seq null time is: 1727337152.000184536 s 
+serial data is too short ,  len: 586
+ analy uart recive data error ...Twist event count: 640 data_seq null time is: 1727337152.000384808 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 641 data_seq null time is: 1727337152.000585318 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 642 data_seq null time is: 1727337152.000785589 s 
+serial data is too short ,  len: 714
+ analy uart recive data error ...Twist event count: 643 data_seq null time is: 1727337152.000986099 s 
+serial data is too short ,  len: 624
+ analy uart recive data error ...Twist event count: 644 data_seq null time is: 1727337153.000186443 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 645 data_seq null time is: 1727337153.000386715 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 646 data_seq null time is: 1727337153.000587225 s 
+serial data is too short ,  len: 595
+ analy uart recive data error ...Twist event count: 647 data_seq null time is: 1727337153.000787497 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 648 data_seq null time is: 1727337153.000987768 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 649 data_seq null time is: 1727337154.000188112 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 650 data_seq null time is: 1727337154.000388622 s 
+serial data is too short ,  len: 715
+ analy uart recive data error ...Twist event count: 651 data_seq null time is: 1727337154.000589132 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 652 data_seq null time is: 1727337154.000789404 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 653 data_seq null time is: 1727337154.000989914 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 654 data_seq null time is: 1727337155.000190258 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 655 data_seq null time is: 1727337155.000390768 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 656 data_seq null time is: 1727337155.000591040 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 657 data_seq null time is: 1727337155.000791550 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 658 data_seq null time is: 1727337155.000991821 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 659 data_seq null time is: 1727337156.000192404 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 660 data_seq null time is: 1727337156.000392675 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 661 data_seq null time is: 1727337156.000592947 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 662 data_seq null time is: 1727337156.000793219 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 663 data_seq null time is: 1727337156.000993729 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 664 data_seq null time is: 1727337157.000194073 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 665 data_seq null time is: 1727337157.000394344 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 666 data_seq null time is: 1727337157.000594616 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 667 data_seq null time is: 1727337157.000795126 s 
+serial data is too short ,  len: 560
+ analy uart recive data error ...Twist event count: 668 data_seq null time is: 1727337157.000995398 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 669 data_seq null time is: 1727337158.000195742 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 670 data_seq null time is: 1727337158.000396013 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 671 data_seq null time is: 1727337158.000596285 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 672 data_seq null time is: 1727337158.000796556 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 673 data_seq null time is: 1727337158.000996828 s 
+serial data is too short ,  len: 733
+ analy uart recive data error ...Twist event count: 674 data_seq null time is: 1727337159.000197172 s 
+serial data is too short ,  len: 632
+ analy uart recive data error ...Twist event count: 675 data_seq null time is: 1727337159.000397444 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 676 data_seq null time is: 1727337159.000597715 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 677 data_seq null time is: 1727337159.000797987 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 678 data_seq null time is: 1727337159.000998259 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 679 data_seq null time is: 1727337160.000198603 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 680 data_seq null time is: 1727337160.000399113 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 681 data_seq null time is: 1727337160.000599384 s 
+serial data is too short ,  len: 715
+ analy uart recive data error ...Twist event count: 682 data_seq null time is: 1727337160.000799656 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 683 data_seq null time is: 1727337161.000000000 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 684 data_seq null time is: 1727337161.000200272 s 
+serial data is too short ,  len: 589
+ analy uart recive data error ...Twist event count: 685 data_seq null time is: 1727337161.000400782 s 
+serial data is too short ,  len: 786
+ analy uart recive data error ...Twist event count: 686 data_seq null time is: 1727337161.000601292 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 687 data_seq null time is: 1727337161.000801563 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 688 data_seq null time is: 1727337162.000001907 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 689 data_seq null time is: 1727337162.000202417 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 690 data_seq null time is: 1727337162.000402689 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 691 data_seq null time is: 1727337162.000602961 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 692 data_seq null time is: 1727337162.000803471 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 693 data_seq null time is: 1727337163.000003576 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 694 data_seq null time is: 1727337163.000204086 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 695 data_seq null time is: 1727337163.000404596 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 696 data_seq null time is: 1727337163.000604868 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 697 data_seq null time is: 1727337163.000805378 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 698 data_seq null time is: 1727337164.000005722 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 699 data_seq null time is: 1727337164.000206232 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 700 data_seq null time is: 1727337164.000406504 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 701 data_seq null time is: 1727337164.000607014 s 
+serial data is too short ,  len: 595
+ analy uart recive data error ...Twist event count: 702 data_seq null time is: 1727337164.000807285 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 703 data_seq null time is: 1727337165.000007629 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 704 data_seq null time is: 1727337165.000207901 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 705 data_seq null time is: 1727337165.000408173 s 
+serial data is too short ,  len: 637
+ analy uart recive data error ...Twist event count: 706 data_seq null time is: 1727337165.000608444 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 707 data_seq null time is: 1727337165.000808954 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 708 data_seq null time is: 1727337166.000009298 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 709 data_seq null time is: 1727337166.000209808 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 710 data_seq null time is: 1727337166.000410318 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 711 data_seq null time is: 1727337166.000610590 s 
+serial data is too short ,  len: 643
+ analy uart recive data error ...Twist event count: 712 data_seq null time is: 1727337166.000811100 s 
+serial data is too short ,  len: 698
+ analy uart recive data error ...Twist event count: 713 data_seq null time is: 1727337167.000011444 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 714 data_seq null time is: 1727337167.000211716 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 715 data_seq null time is: 1727337167.000412226 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 716 data_seq null time is: 1727337167.000612497 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 717 data_seq null time is: 1727337167.000813007 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 718 data_seq null time is: 1727337168.000013351 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 719 data_seq null time is: 1727337168.000213861 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 720 data_seq null time is: 1727337168.000414133 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 721 data_seq null time is: 1727337168.000614643 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 722 data_seq null time is: 1727337168.000814915 s 
+serial data is too short ,  len: 558
+ analy uart recive data error ...Twist event count: 723 data_seq null time is: 1727337169.000015497 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 724 data_seq null time is: 1727337169.000215769 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 725 data_seq null time is: 1727337169.000416040 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 726 data_seq null time is: 1727337169.000616550 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 727 data_seq null time is: 1727337169.000816822 s 
+serial data is too short ,  len: 753
+ analy uart recive data error ...Twist event count: 728 data_seq null time is: 1727337170.000017166 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 729 data_seq null time is: 1727337170.000217676 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 730 data_seq null time is: 1727337170.000417948 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 731 data_seq null time is: 1727337170.000618458 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 732 data_seq null time is: 1727337170.000818729 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 733 data_seq null time is: 1727337171.000019073 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 734 data_seq null time is: 1727337171.000219584 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 735 data_seq null time is: 1727337171.000419855 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 736 data_seq null time is: 1727337171.000620365 s 
+serial data is too short ,  len: 590
+ analy uart recive data error ...Twist event count: 737 data_seq null time is: 1727337171.000820637 s 
+serial data is too short ,  len: 753
+ analy uart recive data error ...Twist event count: 738 data_seq null time is: 1727337172.000020981 s 
+serial data is too short ,  len: 782
+ analy uart recive data error ...Twist event count: 739 data_seq null time is: 1727337172.000221491 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 740 data_seq null time is: 1727337172.000421762 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 741 data_seq null time is: 1727337172.000622272 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 742 data_seq null time is: 1727337172.000822544 s 
+serial data is too short ,  len: 685
+ analy uart recive data error ...Twist event count: 743 data_seq null time is: 1727337173.000023127 s 
+serial data is too short ,  len: 650
+ analy uart recive data error ...Twist event count: 744 data_seq null time is: 1727337173.000223398 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 745 data_seq null time is: 1727337173.000423908 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 746 data_seq null time is: 1727337173.000624180 s 
+serial data is too short ,  len: 586
+ analy uart recive data error ...Twist event count: 747 data_seq null time is: 1727337173.000824690 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 748 data_seq null time is: 1727337174.000025034 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 749 data_seq null time is: 1727337174.000225306 s 
+serial data is too short ,  len: 626
+ analy uart recive data error ...Twist event count: 750 data_seq null time is: 1727337174.000425816 s 
+serial data is too short ,  len: 746
+ analy uart recive data error ...Twist event count: 751 data_seq null time is: 1727337174.000626326 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 752 data_seq null time is: 1727337174.000826597 s 
+serial data is too short ,  len: 752
+ analy uart recive data error ...Twist event count: 753 data_seq null time is: 1727337175.000026941 s 
+serial data is too short ,  len: 580
+ analy uart recive data error ...Twist event count: 754 data_seq null time is: 1727337175.000227451 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 755 data_seq null time is: 1727337175.000427723 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 756 data_seq null time is: 1727337175.000627995 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 757 data_seq null time is: 1727337175.000828505 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 758 data_seq null time is: 1727337176.000028849 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 759 data_seq null time is: 1727337176.000229359 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 760 data_seq null time is: 1727337176.000429869 s 
+serial data is too short ,  len: 587
+ analy uart recive data error ...Twist event count: 761 data_seq null time is: 1727337176.000630140 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 762 data_seq null time is: 1727337176.000830650 s 
+serial data is too short ,  len: 755
+ analy uart recive data error ...Twist event count: 763 data_seq null time is: 1727337177.000030994 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 764 data_seq null time is: 1727337177.000231504 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 765 data_seq null time is: 1727337177.000431776 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 766 data_seq null time is: 1727337177.000632286 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 767 data_seq null time is: 1727337177.000832558 s 
+serial data is too short ,  len: 555
+ analy uart recive data error ...Twist event count: 768 data_seq null time is: 1727337178.000033140 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 769 data_seq null time is: 1727337178.000233412 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 770 data_seq null time is: 1727337178.000433922 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 771 data_seq null time is: 1727337178.000634193 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 772 data_seq null time is: 1727337178.000834703 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 773 data_seq null time is: 1727337179.000035048 s 
+serial data is too short ,  len: 708
+ analy uart recive data error ...Twist event count: 774 data_seq null time is: 1727337179.000235319 s 
+serial data is too short ,  len: 664
+ analy uart recive data error ...Twist event count: 775 data_seq null time is: 1727337179.000435591 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 776 data_seq null time is: 1727337179.000636101 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 777 data_seq null time is: 1727337179.000836372 s 
+serial data is too short ,  len: 537
+ analy uart recive data error ...Twist event count: 778 data_seq null time is: 1727337180.000036955 s 
+serial data is too short ,  len: 786
+ analy uart recive data error ...Twist event count: 779 data_seq null time is: 1727337180.000237226 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 780 data_seq null time is: 1727337180.000437737 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 781 data_seq null time is: 1727337180.000638008 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 782 data_seq null time is: 1727337180.000838518 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 783 data_seq null time is: 1727337181.000038862 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 784 data_seq null time is: 1727337181.000239372 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 785 data_seq null time is: 1727337181.000439644 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 786 data_seq null time is: 1727337181.000640154 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 787 data_seq null time is: 1727337181.000840425 s 
+serial data is too short ,  len: 546
+ analy uart recive data error ...Twist event count: 788 data_seq null time is: 1727337182.000040770 s 
+serial data is too short ,  len: 781
+ analy uart recive data error ...Twist event count: 789 data_seq null time is: 1727337182.000241041 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 790 data_seq null time is: 1727337182.000441551 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 791 data_seq null time is: 1727337182.000642061 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 792 data_seq null time is: 1727337182.000842333 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 793 data_seq null time is: 1727337183.000042677 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 794 data_seq null time is: 1727337183.000243187 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 795 data_seq null time is: 1727337183.000443459 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 796 data_seq null time is: 1727337183.000643969 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 797 data_seq null time is: 1727337183.000844240 s 
+serial data is too short ,  len: 753
+ analy uart recive data error ...Twist event count: 798 data_seq null time is: 1727337184.000044584 s 
+serial data is too short ,  len: 587
+ analy uart recive data error ...Twist event count: 799 data_seq null time is: 1727337184.000244856 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 800 data_seq null time is: 1727337184.000445366 s 
+serial data is too short ,  len: 783
+ analy uart recive data error ...Twist event count: 801 data_seq null time is: 1727337184.000645638 s 
+serial data is too short ,  len: 584
+ analy uart recive data error ...Twist event count: 802 data_seq null time is: 1727337184.000845909 s 
+serial data is too short ,  len: 750
+ analy uart recive data error ...Twist event count: 803 data_seq null time is: 1727337185.000046492 s 
+serial data is too short ,  len: 784
+ analy uart recive data error ...Twist event count: 804 data_seq null time is: 1727337185.000246763 s 
+serial data is too short ,  len: 698
+ analy uart recive data error ...Twist event count: 805 data_seq null time is: 1727337185.000447273 s 
+serial data is too short ,  len: 676
+ analy uart recive data error ...Twist event count: 806 data_seq null time is: 1727337185.000647783 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 807 data_seq null time is: 1727337185.000848055 s 
+serial data is too short ,  len: 737
+ analy uart recive data error ...Twist event count: 808 data_seq null time is: 1727337186.000048399 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 809 data_seq null time is: 1727337186.000248909 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 810 data_seq null time is: 1727337186.000449181 s 
+serial data is too short ,  len: 780
+ analy uart recive data error ...Twist event count: 811 data_seq null time is: 1727337186.000649691 s 
+serial data is too short ,  len: 611
+ analy uart recive data error ...Twist event count: 812 data_seq null time is: 1727337186.000850201 s 
+serial data is too short ,  len: 719
+ analy uart recive data error ...Twist event count: 813 data_seq null time is: 1727337187.000050545 s 
+serial data is too short ,  len: 785
+ analy uart recive data error ...Twist event count: 814 data_seq null time is: 1727337187.000250816 s 
+serial data is too short ,  len: 767
+ analy uart recive data error ...Twist event count: 815 data_seq null time is: 1727337187.000451326 s 
+serial data is too short ,  len: 585
+ analy uart recive data error ...Twist event count: 816 data_seq null time is: 1727337187.000651598 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 817 data_seq null time is: 1727337187.000851870 s 
+serial data is too short ,  len: 711
+ analy uart recive data error ...Twist event count: 818 data_seq null time is: 1727337188.000052214 s 
+serial data is too short ,  len: 572
+ analy uart recive data error ...Twist event count: 819 data_seq null time is: 1727337188.000252724 s 
+serial data is too short ,  len: 754
+ analy uart recive data error ...Twist event count: 820 data_seq null time is: 1727337188.000453234 s 
+serial data is too short ,  len: 728
+ analy uart recive data error ...Twist event count: 821 data_seq null time is: 1727337188.000653505 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 822 data_seq null time is: 1727337188.000854015 s 
+serial data is too short ,  len: 504
+ analy uart recive data error ...Twist event count: 823 data_seq null time is: 1727337189.000054359 s 
+serial data is too short ,  len: 733
+ analy uart recive data error ...Twist event count: 824 data_seq null time is: 1727337189.000254631 s 
+serial data is too short ,  len: 757
+ analy uart recive data error ...Twist event count: 825 data_seq null time is: 1727337189.000455141 s 
+serial data is too short ,  len: 549
+ analy uart recive data error ...Twist event count: 826 data_seq null time is: 1727337189.000655413 s 
+serial data is too short ,  len: 702
+ analy uart recive data error ...Twist event count: 827 data_seq null time is: 1727337189.000855923 s 
+serial data is too short ,  len: 672
+ analy uart recive data error ...Twist event count: 828 data_seq null time is: 1727337190.000056267 s 
+serial data is too short ,  len: 715
+ analy uart recive data error ...Twist event count: 829 data_seq null time is: 1727337190.000256538 s 
+serial data is too short ,  len: 520
+ analy uart recive data error ...Twist event count: 830 data_seq null time is: 1727337190.000457048 s 
+serial data is too short ,  len: 689
+ analy uart recive data error ...Twist event count: 831 data_seq null time is: 1727337190.000657558 s 
+serial data is too short ,  len: 663
+ analy uart recive data error ...Twist event count: 832 data_seq null time is: 1727337190.000857830 s 
+unrecognize frame 0xac 
+first_time: 1727337190.000858068 s 
+Twist event count: 833 data_seq null time is: 1727337190.000858068 s 
+Twist event count: 834 data_seq null time is: 1727337190.000858307 s 
+Twist event count: 835 data_seq null time is: 1727337190.000858307 s 
+Twist event count: 836 data_seq null time is: 1727337190.000858307 s 
+Twist event count: 837 data_seq null time is: 1727337190.000858545 s 
+Twist event count: 838 data_seq null time is: 1727337190.000859261 s 
+dt: 0.000001431
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 839 data_seq null time is: 1727337190.000859737 s 
+dt: 0.000000238
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 840 data_seq null time is: 1727337190.000859737 s 
+dt: 0.000000238
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 841 data_seq null time is: 1727337190.000859976 s 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 842 data_seq null time is: 1727337190.000859976 s 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 843 data_seq null time is: 1727337190.000860214 s 
+dt: 0.000000238
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 844 data_seq null time is: 1727337190.000860214 s 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 845 data_seq null time is: 1727337190.000860214 s 
+dt: 0.000000238
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 846 data_seq null time is: 1727337190.000860453 s 
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 847 data_seq null time is: 1727337190.000860453 s 
+dt: 0.000031948
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 848 data_seq null time is: 1727337190.000892639 s 
+dt: 0.000101328
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 849 data_seq null time is: 1727337190.000993967 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 850 data_seq null time is: 1727337191.000093937 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 851 data_seq null time is: 1727337191.000194550 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 852 data_seq null time is: 1727337191.000293970 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 853 data_seq null time is: 1727337191.000394106 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 854 data_seq null time is: 1727337191.000493526 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 855 data_seq null time is: 1727337191.000594139 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 856 data_seq null time is: 1727337191.000692844 s 
+unrecognize frame 0xac 
+dt: 0.000101328
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 857 data_seq null time is: 1727337191.000794172 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 858 data_seq null time is: 1727337191.000893831 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 859 data_seq null time is: 1727337191.000993490 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 860 data_seq null time is: 1727337192.000093222 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 861 data_seq null time is: 1727337192.000194073 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 862 data_seq null time is: 1727337192.000293493 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 863 data_seq null time is: 1727337192.000392437 s 
+dt: 0.000101328
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 864 data_seq null time is: 1727337192.000494003 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 865 data_seq null time is: 1727337192.000593901 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 866 data_seq null time is: 1727337192.000693321 s 
+unrecognize frame 0xac 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 867 data_seq null time is: 1727337192.000794172 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 868 data_seq null time is: 1727337192.000894070 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 869 data_seq null time is: 1727337192.000993729 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 870 data_seq null time is: 1727337193.000094175 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 871 data_seq null time is: 1727337193.000194311 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 872 data_seq null time is: 1727337193.000293255 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 873 data_seq null time is: 1727337193.000392914 s 
+dt: 0.000101328
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 874 data_seq null time is: 1727337193.000494242 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 875 data_seq null time is: 1727337193.000593185 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 876 data_seq null time is: 1727337193.000693798 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 877 data_seq null time is: 1727337193.000794411 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 878 data_seq null time is: 1727337193.000893831 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 879 data_seq null time is: 1727337193.000993729 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 880 data_seq null time is: 1727337194.000093460 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 881 data_seq null time is: 1727337194.000193357 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 882 data_seq null time is: 1727337194.000293255 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 883 data_seq null time is: 1727337194.000393867 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 884 data_seq null time is: 1727337194.000494003 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 885 data_seq null time is: 1727337194.000593185 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 886 data_seq null time is: 1727337194.000693560 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 887 data_seq null time is: 1727337194.000793457 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 888 data_seq null time is: 1727337194.000894070 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 889 data_seq null time is: 1727337194.000993252 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 890 data_seq null time is: 1727337195.000093460 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 891 data_seq null time is: 1727337195.000193119 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 892 data_seq null time is: 1727337195.000293732 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 893 data_seq null time is: 1727337195.000393391 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 894 data_seq null time is: 1727337195.000493765 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 895 data_seq null time is: 1727337195.000592947 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 896 data_seq null time is: 1727337195.000694036 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 897 data_seq null time is: 1727337195.000793457 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 898 data_seq null time is: 1727337195.000894070 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 899 data_seq null time is: 1727337195.000993490 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 900 data_seq null time is: 1727337196.000093460 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 901 data_seq null time is: 1727337196.000193596 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 902 data_seq null time is: 1727337196.000293255 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 903 data_seq null time is: 1727337196.000393391 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 904 data_seq null time is: 1727337196.000494003 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 905 data_seq null time is: 1727337196.000592947 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 906 data_seq null time is: 1727337196.000693798 s 
+unrecognize frame 0xac 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 907 data_seq null time is: 1727337196.000793219 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 908 data_seq null time is: 1727337196.000894070 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 909 data_seq null time is: 1727337196.000993729 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 910 data_seq null time is: 1727337197.000093699 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 911 data_seq null time is: 1727337197.000193834 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 912 data_seq null time is: 1727337197.000293732 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 913 data_seq null time is: 1727337197.000393391 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 914 data_seq null time is: 1727337197.000493765 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 915 data_seq null time is: 1727337197.000593185 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 916 data_seq null time is: 1727337197.000694036 s 
+unrecognize frame 0xac 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 917 data_seq null time is: 1727337197.000793219 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 918 data_seq null time is: 1727337197.000893831 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 919 data_seq null time is: 1727337197.000993490 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 920 data_seq null time is: 1727337198.000093699 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 921 data_seq null time is: 1727337198.000193357 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 922 data_seq null time is: 1727337198.000293732 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 923 data_seq null time is: 1727337198.000394106 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 924 data_seq null time is: 1727337198.000494003 s 
+dt: 0.000098467
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 925 data_seq null time is: 1727337198.000592470 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 926 data_seq null time is: 1727337198.000693560 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 927 data_seq null time is: 1727337198.000793457 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 928 data_seq null time is: 1727337198.000893354 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 929 data_seq null time is: 1727337198.000993252 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 930 data_seq null time is: 1727337199.000093699 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 931 data_seq null time is: 1727337199.000193357 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 932 data_seq null time is: 1727337199.000293732 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 933 data_seq null time is: 1727337199.000393867 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 934 data_seq null time is: 1727337199.000493288 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 935 data_seq null time is: 1727337199.000593424 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 936 data_seq null time is: 1727337199.000694036 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 937 data_seq null time is: 1727337199.000793934 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 938 data_seq null time is: 1727337199.000893354 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 939 data_seq null time is: 1727337199.000993729 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 940 data_seq null time is: 1727337200.000093699 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 941 data_seq null time is: 1727337200.000193596 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 942 data_seq null time is: 1727337200.000293732 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 943 data_seq null time is: 1727337200.000393629 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 944 data_seq null time is: 1727337200.000493526 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 945 data_seq null time is: 1727337200.000593185 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 946 data_seq null time is: 1727337200.000694275 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 947 data_seq null time is: 1727337200.000794411 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 948 data_seq null time is: 1727337200.000893354 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 949 data_seq null time is: 1727337200.000993490 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 950 data_seq null time is: 1727337201.000093937 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 951 data_seq null time is: 1727337201.000193596 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 952 data_seq null time is: 1727337201.000293732 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 953 data_seq null time is: 1727337201.000394106 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 954 data_seq null time is: 1727337201.000494242 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 955 data_seq null time is: 1727337201.000593901 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 956 data_seq null time is: 1727337201.000693083 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 957 data_seq null time is: 1727337201.000793457 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 958 data_seq null time is: 1727337201.000893354 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 959 data_seq null time is: 1727337201.000993729 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 960 data_seq null time is: 1727337202.000093222 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 961 data_seq null time is: 1727337202.000193834 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 962 data_seq null time is: 1727337202.000293255 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 963 data_seq null time is: 1727337202.000393391 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 964 data_seq null time is: 1727337202.000493288 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 965 data_seq null time is: 1727337202.000593662 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 966 data_seq null time is: 1727337202.000693560 s 
+unrecognize frame 0xac 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 967 data_seq null time is: 1727337202.000792980 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 968 data_seq null time is: 1727337202.000893831 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 969 data_seq null time is: 1727337202.000993967 s 
+dt: 0.999099255
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 970 data_seq null time is: 1727337203.000093222 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 971 data_seq null time is: 1727337203.000193834 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 972 data_seq null time is: 1727337203.000293493 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 973 data_seq null time is: 1727337203.000392914 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 974 data_seq null time is: 1727337203.000493288 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 975 data_seq null time is: 1727337203.000593662 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 976 data_seq null time is: 1727337203.000693560 s 
+unrecognize frame 0xac 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 977 data_seq null time is: 1727337203.000793219 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 978 data_seq null time is: 1727337203.000893831 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 979 data_seq null time is: 1727337203.000993490 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 980 data_seq null time is: 1727337204.000093222 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 981 data_seq null time is: 1727337204.000193357 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 982 data_seq null time is: 1727337204.000293732 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 983 data_seq null time is: 1727337204.000393391 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 984 data_seq null time is: 1727337204.000493526 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 985 data_seq null time is: 1727337204.000593662 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 986 data_seq null time is: 1727337204.000693560 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 987 data_seq null time is: 1727337204.000793457 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 988 data_seq null time is: 1727337204.000893593 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 989 data_seq null time is: 1727337204.000992298 s 
+dt: 0.999101162
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 990 data_seq null time is: 1727337205.000093460 s 
+dt: 0.000098705
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 991 data_seq null time is: 1727337205.000191927 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 992 data_seq null time is: 1727337205.000292778 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 993 data_seq null time is: 1727337205.000391960 s 
+dt: 0.000101805
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 994 data_seq null time is: 1727337205.000493765 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 995 data_seq null time is: 1727337205.000594139 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 996 data_seq null time is: 1727337205.000693798 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 997 data_seq null time is: 1727337205.000793934 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 998 data_seq null time is: 1727337205.000893593 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 999 data_seq null time is: 1727337205.000993490 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1000 data_seq null time is: 1727337206.000093699 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1001 data_seq null time is: 1727337206.000193834 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1002 data_seq null time is: 1727337206.000293732 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1003 data_seq null time is: 1727337206.000393629 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1004 data_seq null time is: 1727337206.000493765 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1005 data_seq null time is: 1727337206.000593662 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1006 data_seq null time is: 1727337206.000694036 s 
+unrecognize frame 0xac 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1007 data_seq null time is: 1727337206.000793457 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1008 data_seq null time is: 1727337206.000893593 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1009 data_seq null time is: 1727337206.000993729 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1010 data_seq null time is: 1727337207.000093222 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1011 data_seq null time is: 1727337207.000193357 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1012 data_seq null time is: 1727337207.000293493 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1013 data_seq null time is: 1727337207.000393152 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1014 data_seq null time is: 1727337207.000493765 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1015 data_seq null time is: 1727337207.000593662 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1016 data_seq null time is: 1727337207.000693321 s 
+unrecognize frame 0xac 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1017 data_seq null time is: 1727337207.000793219 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1018 data_seq null time is: 1727337207.000893354 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1019 data_seq null time is: 1727337207.000993490 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1020 data_seq null time is: 1727337208.000093937 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1021 data_seq null time is: 1727337208.000192881 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1022 data_seq null time is: 1727337208.000293255 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1023 data_seq null time is: 1727337208.000393867 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1024 data_seq null time is: 1727337208.000493765 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1025 data_seq null time is: 1727337208.000593185 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1026 data_seq null time is: 1727337208.000693083 s 
+unrecognize frame 0xac 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1027 data_seq null time is: 1727337208.000794172 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1028 data_seq null time is: 1727337208.000893354 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1029 data_seq null time is: 1727337208.000993490 s 
+dt: 0.999100685
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1030 data_seq null time is: 1727337209.000094175 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1031 data_seq null time is: 1727337209.000194073 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1032 data_seq null time is: 1727337209.000293016 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1033 data_seq null time is: 1727337209.000393391 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1034 data_seq null time is: 1727337209.000493526 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1035 data_seq null time is: 1727337209.000593185 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1036 data_seq null time is: 1727337209.000694275 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1037 data_seq null time is: 1727337209.000794172 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1038 data_seq null time is: 1727337209.000893354 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1039 data_seq null time is: 1727337209.000993490 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1040 data_seq null time is: 1727337210.000093937 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1041 data_seq null time is: 1727337210.000193596 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1042 data_seq null time is: 1727337210.000293732 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1043 data_seq null time is: 1727337210.000393867 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1044 data_seq null time is: 1727337210.000493526 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1045 data_seq null time is: 1727337210.000593424 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1046 data_seq null time is: 1727337210.000693798 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1047 data_seq null time is: 1727337210.000793695 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1048 data_seq null time is: 1727337210.000893593 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1049 data_seq null time is: 1727337210.000993252 s 
+dt: 0.999100447
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1050 data_seq null time is: 1727337211.000093937 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1051 data_seq null time is: 1727337211.000193596 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1052 data_seq null time is: 1727337211.000293493 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1053 data_seq null time is: 1727337211.000393152 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1054 data_seq null time is: 1727337211.000493765 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1055 data_seq null time is: 1727337211.000593185 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1056 data_seq null time is: 1727337211.000693083 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1057 data_seq null time is: 1727337211.000793695 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1058 data_seq null time is: 1727337211.000893593 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1059 data_seq null time is: 1727337211.000993729 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1060 data_seq null time is: 1727337212.000093460 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1061 data_seq null time is: 1727337212.000194311 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1062 data_seq null time is: 1727337212.000293732 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1063 data_seq null time is: 1727337212.000393152 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1064 data_seq null time is: 1727337212.000493288 s 
+dt: 0.000100851
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1065 data_seq null time is: 1727337212.000594139 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1066 data_seq null time is: 1727337212.000693798 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1067 data_seq null time is: 1727337212.000794172 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1068 data_seq null time is: 1727337212.000893831 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1069 data_seq null time is: 1727337212.000993729 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1070 data_seq null time is: 1727337213.000093699 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1071 data_seq null time is: 1727337213.000193596 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1072 data_seq null time is: 1727337213.000294209 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1073 data_seq null time is: 1727337213.000393629 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1074 data_seq null time is: 1727337213.000493765 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1075 data_seq null time is: 1727337213.000592947 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1076 data_seq null time is: 1727337213.000693083 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1077 data_seq null time is: 1727337213.000793219 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1078 data_seq null time is: 1727337213.000893593 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1079 data_seq null time is: 1727337213.000993252 s 
+dt: 0.999099731
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1080 data_seq null time is: 1727337214.000093222 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1081 data_seq null time is: 1727337214.000192881 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1082 data_seq null time is: 1727337214.000293970 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1083 data_seq null time is: 1727337214.000393629 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1084 data_seq null time is: 1727337214.000493288 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1085 data_seq null time is: 1727337214.000593185 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1086 data_seq null time is: 1727337214.000693560 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1087 data_seq null time is: 1727337214.000793695 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1088 data_seq null time is: 1727337214.000893593 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1089 data_seq null time is: 1727337214.000993490 s 
+dt: 0.999099493
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1090 data_seq null time is: 1727337215.000092983 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1091 data_seq null time is: 1727337215.000193596 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1092 data_seq null time is: 1727337215.000293732 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1093 data_seq null time is: 1727337215.000393391 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1094 data_seq null time is: 1727337215.000492811 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1095 data_seq null time is: 1727337215.000593185 s 
+dt: 0.000101089
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1096 data_seq null time is: 1727337215.000694275 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1097 data_seq null time is: 1727337215.000794172 s 
+unrecognize frame 0xac 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1098 data_seq null time is: 1727337215.000893116 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1099 data_seq null time is: 1727337215.000993252 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1100 data_seq null time is: 1727337216.000093222 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1101 data_seq null time is: 1727337216.000193357 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1102 data_seq null time is: 1727337216.000293493 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1103 data_seq null time is: 1727337216.000393391 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1104 data_seq null time is: 1727337216.000493526 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1105 data_seq null time is: 1727337216.000593424 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1106 data_seq null time is: 1727337216.000693798 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1107 data_seq null time is: 1727337216.000793457 s 
+unrecognize frame 0xac 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1108 data_seq null time is: 1727337216.000893831 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1109 data_seq null time is: 1727337216.000993252 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1110 data_seq null time is: 1727337217.000093222 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1111 data_seq null time is: 1727337217.000193834 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1112 data_seq null time is: 1727337217.000293970 s 
+dt: 0.000099421
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1113 data_seq null time is: 1727337217.000393391 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1114 data_seq null time is: 1727337217.000493288 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1115 data_seq null time is: 1727337217.000593901 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1116 data_seq null time is: 1727337217.000693560 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1117 data_seq null time is: 1727337217.000793934 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1118 data_seq null time is: 1727337217.000893831 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1119 data_seq null time is: 1727337217.000993490 s 
+dt: 0.999099970
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1120 data_seq null time is: 1727337218.000093460 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1121 data_seq null time is: 1727337218.000193596 s 
+dt: 0.000099659
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1122 data_seq null time is: 1727337218.000293016 s 
+dt: 0.000100136
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1123 data_seq null time is: 1727337218.000393391 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1124 data_seq null time is: 1727337218.000494003 s 
+dt: 0.000098944
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1125 data_seq null time is: 1727337218.000592709 s 
+dt: 0.000100613
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1126 data_seq null time is: 1727337218.000693321 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1127 data_seq null time is: 1727337218.000793457 s 
+unrecognize frame 0xac 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1128 data_seq null time is: 1727337218.000893354 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1129 data_seq null time is: 1727337218.000993252 s 
+dt: 0.999100208
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1130 data_seq null time is: 1727337219.000093460 s 
+dt: 0.000100374
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1131 data_seq null time is: 1727337219.000193834 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1132 data_seq null time is: 1727337219.000293732 s 
+dt: 0.000099897
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1133 data_seq null time is: 1727337219.000393629 s 
+dt: 0.000099182
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 1134 data_seq null time is: 1727337219.000492811 s 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

@@ -1,0 +1,10 @@
+ init txt_interpolation
+ test  [
+  "backward"
+]
+1727343616.314105
+ test  [
+  "backward"
+]
+1727343618.290632
+received stop

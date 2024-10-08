@@ -1,0 +1,22 @@
+recived:  forward
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 1,
+        "stamp": {
+            "sec": 1727346760,
+            "nanosec": 114849090
+        }
+    },
+    "linear": {
+        "x": 0.1,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "angular": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+received stop

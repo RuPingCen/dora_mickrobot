@@ -1,0 +1,1331 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1728118956.000017405 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":1,"stamp":{"nanosec":816703081,"sec":1728118955}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2023
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1728118956.000545263 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":2,"stamp":{"nanosec":344532966,"sec":1728118956}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1928
+ analy uart recive data error ...Twist event count: 3 data_seq null time is: 1728118957.000087976 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":3,"stamp":{"nanosec":887533903,"sec":1728118956}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1877
+ analy uart recive data error ...Twist event count: 4 data_seq null time is: 1728118957.000631809 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":4,"stamp":{"nanosec":431185960,"sec":1728118957}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1931
+ analy uart recive data error ...Twist event count: 5 data_seq null time is: 1728118958.000174999 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":5,"stamp":{"nanosec":974420070,"sec":1728118957}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1899
+ analy uart recive data error ...Twist event count: 6 data_seq null time is: 1728118958.000720978 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":6,"stamp":{"nanosec":520648956,"sec":1728118958}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 7 data_seq null time is: 1728118959.000263691 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":7,"stamp":{"nanosec":63188076,"sec":1728118959}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1894
+ analy uart recive data error ...Twist event count: 8 data_seq null time is: 1728118959.000807762 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":8,"stamp":{"nanosec":606956958,"sec":1728118959}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1981
+ analy uart recive data error ...Twist event count: 9 data_seq null time is: 1728118960.000374794 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":9,"stamp":{"nanosec":174331903,"sec":1728118960}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2109
+ analy uart recive data error ...Twist event count: 10 data_seq null time is: 1728118960.000964403 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":10,"stamp":{"nanosec":763700008,"sec":1728118960}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2054
+ analy uart recive data error ...Twist event count: 11 data_seq null time is: 1728118961.000548840 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":11,"stamp":{"nanosec":348182916,"sec":1728118961}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2112
+ analy uart recive data error ...Twist event count: 12 data_seq null time is: 1728118962.000138521 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":12,"stamp":{"nanosec":937752962,"sec":1728118961}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2248
+ analy uart recive data error ...Twist event count: 13 data_seq null time is: 1728118962.000723839 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":13,"stamp":{"nanosec":523236036,"sec":1728118962}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 14 data_seq null time is: 1728118963.000312567 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":14,"stamp":{"nanosec":112282037,"sec":1728118963}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2063
+ analy uart recive data error ...Twist event count: 15 data_seq null time is: 1728118963.000900984 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":15,"stamp":{"nanosec":700398921,"sec":1728118963}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2067
+ analy uart recive data error ...Twist event count: 16 data_seq null time is: 1728118964.000489235 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":16,"stamp":{"nanosec":288616895,"sec":1728118964}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 17 data_seq null time is: 1728118965.000077009 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":17,"stamp":{"nanosec":876241922,"sec":1728118964}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 18 data_seq null time is: 1728118965.000666618 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":18,"stamp":{"nanosec":466017961,"sec":1728118965}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2099
+ analy uart recive data error ...Twist event count: 19 data_seq null time is: 1728118966.000254869 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":19,"stamp":{"nanosec":54296970,"sec":1728118966}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2251
+ analy uart recive data error ...Twist event count: 20 data_seq null time is: 1728118966.000841379 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":20,"stamp":{"nanosec":640732049,"sec":1728118966}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2068
+ analy uart recive data error ...Twist event count: 21 data_seq null time is: 1728118967.000432014 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":21,"stamp":{"nanosec":231623888,"sec":1728118967}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2113
+ analy uart recive data error ...Twist event count: 22 data_seq null time is: 1728118968.000020504 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":22,"stamp":{"nanosec":819875955,"sec":1728118967}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2067
+ analy uart recive data error ...Twist event count: 23 data_seq null time is: 1728118968.000609398 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":23,"stamp":{"nanosec":408971071,"sec":1728118968}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 24 data_seq null time is: 1728118969.000195503 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":24,"stamp":{"nanosec":994740009,"sec":1728118968}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2059
+ analy uart recive data error ...Twist event count: 25 data_seq null time is: 1728118969.000782490 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":25,"stamp":{"nanosec":582178115,"sec":1728118969}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2109
+ analy uart recive data error ...Twist event count: 26 data_seq null time is: 1728118970.000373602 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":26,"stamp":{"nanosec":173036098,"sec":1728118970}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2258
+ analy uart recive data error ...Twist event count: 27 data_seq null time is: 1728118970.000960350 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":27,"stamp":{"nanosec":760029077,"sec":1728118970}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2067
+ analy uart recive data error ...Twist event count: 28 data_seq null time is: 1728118971.000550985 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":28,"stamp":{"nanosec":350286960,"sec":1728118971}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2112
+ analy uart recive data error ...Twist event count: 29 data_seq null time is: 1728118972.000138044 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":29,"stamp":{"nanosec":937454938,"sec":1728118971}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2066
+ analy uart recive data error ...Twist event count: 30 data_seq null time is: 1728118972.000727177 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":30,"stamp":{"nanosec":526499032,"sec":1728118972}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 31 data_seq null time is: 1728118973.000316620 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":31,"stamp":{"nanosec":116132020,"sec":1728118973}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 32 data_seq null time is: 1728118973.000905037 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":32,"stamp":{"nanosec":704693078,"sec":1728118973}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 33 data_seq null time is: 1728118974.000495672 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":33,"stamp":{"nanosec":295336008,"sec":1728118974}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2290
+ analy uart recive data error ...Twist event count: 34 data_seq null time is: 1728118975.000084400 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":34,"stamp":{"nanosec":883910894,"sec":1728118974}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2083
+ analy uart recive data error ...Twist event count: 35 data_seq null time is: 1728118975.000675201 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":35,"stamp":{"nanosec":474678993,"sec":1728118975}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2091
+ analy uart recive data error ...Twist event count: 36 data_seq null time is: 1728118976.000262499 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":36,"stamp":{"nanosec":62019109,"sec":1728118976}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2083
+ analy uart recive data error ...Twist event count: 37 data_seq null time is: 1728118976.000854492 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":37,"stamp":{"nanosec":653908967,"sec":1728118976}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2062
+ analy uart recive data error ...Twist event count: 38 data_seq null time is: 1728118977.000442743 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":38,"stamp":{"nanosec":242182970,"sec":1728118977}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2117
+ analy uart recive data error ...Twist event count: 39 data_seq null time is: 1728118978.000034094 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":39,"stamp":{"nanosec":833599090,"sec":1728118977}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 40 data_seq null time is: 1728118978.000624418 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":40,"stamp":{"nanosec":424038887,"sec":1728118978}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2299
+ analy uart recive data error ...Twist event count: 41 data_seq null time is: 1728118979.000214338 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":41,"stamp":{"nanosec":13664007,"sec":1728118979}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2074
+ analy uart recive data error ...Twist event count: 42 data_seq null time is: 1728118979.000804186 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":42,"stamp":{"nanosec":603399991,"sec":1728118979}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2065
+ analy uart recive data error ...Twist event count: 43 data_seq null time is: 1728118980.000392675 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":43,"stamp":{"nanosec":192218065,"sec":1728118980}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2116
+ analy uart recive data error ...Twist event count: 44 data_seq null time is: 1728118980.000983953 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":44,"stamp":{"nanosec":783508062,"sec":1728118980}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2074
+ analy uart recive data error ...Twist event count: 45 data_seq null time is: 1728118981.000574589 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":45,"stamp":{"nanosec":374198913,"sec":1728118981}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2118
+ analy uart recive data error ...Twist event count: 46 data_seq null time is: 1728118982.000166178 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":46,"stamp":{"nanosec":965368032,"sec":1728118981}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 47 data_seq null time is: 1728118982.000755548 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":47,"stamp":{"nanosec":555113077,"sec":1728118982}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2252
+ analy uart recive data error ...Twist event count: 48 data_seq null time is: 1728118983.000347376 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":48,"stamp":{"nanosec":146800041,"sec":1728118983}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2112
+ analy uart recive data error ...Twist event count: 49 data_seq null time is: 1728118983.000935793 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":49,"stamp":{"nanosec":735281944,"sec":1728118983}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2075
+ analy uart recive data error ...Twist event count: 50 data_seq null time is: 1728118984.000527859 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":50,"stamp":{"nanosec":327296972,"sec":1728118984}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2107
+ analy uart recive data error ...Twist event count: 51 data_seq null time is: 1728118985.000116825 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":51,"stamp":{"nanosec":916420936,"sec":1728118984}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 52 data_seq null time is: 1728118985.000710964 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":52,"stamp":{"nanosec":510288953,"sec":1728118985}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 53 data_seq null time is: 1728118986.000302792 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":53,"stamp":{"nanosec":102150917,"sec":1728118986}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 54 data_seq null time is: 1728118986.000895500 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":54,"stamp":{"nanosec":694933891,"sec":1728118986}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2262
+ analy uart recive data error ...Twist event count: 55 data_seq null time is: 1728118987.000486851 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":55,"stamp":{"nanosec":286168098,"sec":1728118987}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2115
+ analy uart recive data error ...Twist event count: 56 data_seq null time is: 1728118988.000076532 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":56,"stamp":{"nanosec":875998973,"sec":1728118987}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 57 data_seq null time is: 1728118988.000669718 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":57,"stamp":{"nanosec":469266891,"sec":1728118988}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 58 data_seq null time is: 1728118989.000259876 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":58,"stamp":{"nanosec":59319972,"sec":1728118989}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 59 data_seq null time is: 1728118989.000853777 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":59,"stamp":{"nanosec":653202056,"sec":1728118989}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2067
+ analy uart recive data error ...Twist event count: 60 data_seq null time is: 1728118990.000443459 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":60,"stamp":{"nanosec":242877960,"sec":1728118990}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 61 data_seq null time is: 1728118991.000036716 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":61,"stamp":{"nanosec":836270093,"sec":1728118990}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2284
+ analy uart recive data error ...Twist event count: 62 data_seq null time is: 1728118991.000631809 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":62,"stamp":{"nanosec":431143045,"sec":1728118991}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2123
+ analy uart recive data error ...Twist event count: 63 data_seq null time is: 1728118992.000224113 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":63,"stamp":{"nanosec":23566961,"sec":1728118992}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2072
+ analy uart recive data error ...Twist event count: 64 data_seq null time is: 1728118992.000816345 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":64,"stamp":{"nanosec":615627050,"sec":1728118992}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2073
+ analy uart recive data error ...Twist event count: 65 data_seq null time is: 1728118993.000407457 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":65,"stamp":{"nanosec":206752061,"sec":1728118993}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2122
+ analy uart recive data error ...Twist event count: 66 data_seq null time is: 1728118993.000998974 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":66,"stamp":{"nanosec":798309087,"sec":1728118993}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2067
+ analy uart recive data error ...Twist event count: 67 data_seq null time is: 1728118994.000590563 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":67,"stamp":{"nanosec":389986038,"sec":1728118994}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 68 data_seq null time is: 1728118995.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":68,"stamp":{"nanosec":982160091,"sec":1728118994}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2219
+ analy uart recive data error ...Twist event count: 69 data_seq null time is: 1728118995.000773668 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":69,"stamp":{"nanosec":573195934,"sec":1728118995}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2184
+ analy uart recive data error ...Twist event count: 70 data_seq null time is: 1728118996.000367880 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":70,"stamp":{"nanosec":167376041,"sec":1728118996}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2081
+ analy uart recive data error ...Twist event count: 71 data_seq null time is: 1728118996.000960827 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":71,"stamp":{"nanosec":760404109,"sec":1728118996}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2087
+ analy uart recive data error ...Twist event count: 72 data_seq null time is: 1728118997.000556469 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":72,"stamp":{"nanosec":356040000,"sec":1728118997}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 73 data_seq null time is: 1728118998.000149012 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":73,"stamp":{"nanosec":948410987,"sec":1728118997}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 74 data_seq null time is: 1728118998.000742197 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":74,"stamp":{"nanosec":541554927,"sec":1728118998}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 75 data_seq null time is: 1728118999.000335932 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":75,"stamp":{"nanosec":135401964,"sec":1728118999}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2167
+ analy uart recive data error ...Twist event count: 76 data_seq null time is: 1728118999.000928879 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":76,"stamp":{"nanosec":728204965,"sec":1728118999}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2184
+ analy uart recive data error ...Twist event count: 77 data_seq null time is: 1728119000.000522137 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":77,"stamp":{"nanosec":321613073,"sec":1728119000}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2131
+ analy uart recive data error ...Twist event count: 78 data_seq null time is: 1728119001.000117064 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":78,"stamp":{"nanosec":916466951,"sec":1728119000}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2086
+ analy uart recive data error ...Twist event count: 79 data_seq null time is: 1728119001.000710249 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":79,"stamp":{"nanosec":509443998,"sec":1728119001}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2125
+ analy uart recive data error ...Twist event count: 80 data_seq null time is: 1728119002.000303745 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":80,"stamp":{"nanosec":103292942,"sec":1728119002}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2083
+ analy uart recive data error ...Twist event count: 81 data_seq null time is: 1728119002.000900507 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":81,"stamp":{"nanosec":699132919,"sec":1728119002}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2067
+ analy uart recive data error ...Twist event count: 82 data_seq null time is: 1728119003.000492096 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":82,"stamp":{"nanosec":291740894,"sec":1728119003}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2117
+ analy uart recive data error ...Twist event count: 83 data_seq null time is: 1728119004.000083685 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":83,"stamp":{"nanosec":883076906,"sec":1728119003}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2307
+ analy uart recive data error ...Twist event count: 84 data_seq null time is: 1728119004.000682354 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":84,"stamp":{"nanosec":481583118,"sec":1728119004}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 85 data_seq null time is: 1728119005.000276089 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":85,"stamp":{"nanosec":75783014,"sec":1728119005}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 86 data_seq null time is: 1728119005.000868797 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":86,"stamp":{"nanosec":668247938,"sec":1728119005}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 87 data_seq null time is: 1728119006.000461817 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":87,"stamp":{"nanosec":261192083,"sec":1728119006}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2115
+ analy uart recive data error ...Twist event count: 88 data_seq null time is: 1728119007.000052929 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":88,"stamp":{"nanosec":852380037,"sec":1728119006}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 89 data_seq null time is: 1728119007.000645399 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":89,"stamp":{"nanosec":444883108,"sec":1728119007}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 90 data_seq null time is: 1728119008.000239849 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":90,"stamp":{"nanosec":39486885,"sec":1728119008}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2282
+ analy uart recive data error ...Twist event count: 91 data_seq null time is: 1728119008.000834227 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":91,"stamp":{"nanosec":633651971,"sec":1728119008}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2094
+ analy uart recive data error ...Twist event count: 92 data_seq null time is: 1728119009.000431776 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":92,"stamp":{"nanosec":231144905,"sec":1728119009}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 93 data_seq null time is: 1728119010.000024796 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":93,"stamp":{"nanosec":824418067,"sec":1728119009}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 94 data_seq null time is: 1728119010.000618458 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":94,"stamp":{"nanosec":418006896,"sec":1728119010}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2130
+ analy uart recive data error ...Twist event count: 95 data_seq null time is: 1728119011.000213385 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":95,"stamp":{"nanosec":12756109,"sec":1728119011}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 96 data_seq null time is: 1728119011.000807047 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":96,"stamp":{"nanosec":606451988,"sec":1728119011}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2077
+ analy uart recive data error ...Twist event count: 97 data_seq null time is: 1728119012.000400543 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":97,"stamp":{"nanosec":200191020,"sec":1728119012}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2267
+ analy uart recive data error ...Twist event count: 98 data_seq null time is: 1728119012.000993967 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":98,"stamp":{"nanosec":793387889,"sec":1728119012}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2129
+ analy uart recive data error ...Twist event count: 99 data_seq null time is: 1728119013.000587463 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":99,"stamp":{"nanosec":387013912,"sec":1728119013}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2130
+ analy uart recive data error ...Twist event count: 100 data_seq null time is: 1728119014.000182629 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":100,"stamp":{"nanosec":982213020,"sec":1728119013}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 101 data_seq null time is: 1728119014.000776052 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":101,"stamp":{"nanosec":575493097,"sec":1728119014}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 102 data_seq null time is: 1728119015.000373363 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":102,"stamp":{"nanosec":172666072,"sec":1728119015}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2113
+ analy uart recive data error ...Twist event count: 103 data_seq null time is: 1728119015.000967503 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":103,"stamp":{"nanosec":766906023,"sec":1728119015}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2081
+ analy uart recive data error ...Twist event count: 104 data_seq null time is: 1728119016.000562429 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":104,"stamp":{"nanosec":361768007,"sec":1728119016}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 105 data_seq null time is: 1728119017.000158072 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":105,"stamp":{"nanosec":957493066,"sec":1728119016}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2284
+ analy uart recive data error ...Twist event count: 106 data_seq null time is: 1728119017.000751495 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":106,"stamp":{"nanosec":550967931,"sec":1728119017}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 107 data_seq null time is: 1728119018.000345707 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":107,"stamp":{"nanosec":145128011,"sec":1728119018}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 108 data_seq null time is: 1728119018.000939608 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":108,"stamp":{"nanosec":739087104,"sec":1728119018}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2092
+ analy uart recive data error ...Twist event count: 109 data_seq null time is: 1728119019.000534058 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":109,"stamp":{"nanosec":333600997,"sec":1728119019}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 110 data_seq null time is: 1728119020.000128984 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":110,"stamp":{"nanosec":928364992,"sec":1728119019}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 111 data_seq null time is: 1728119020.000722647 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":111,"stamp":{"nanosec":522011995,"sec":1728119020}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 112 data_seq null time is: 1728119021.000318527 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":112,"stamp":{"nanosec":118096113,"sec":1728119021}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2297
+ analy uart recive data error ...Twist event count: 113 data_seq null time is: 1728119021.000914335 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":113,"stamp":{"nanosec":713849067,"sec":1728119021}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 114 data_seq null time is: 1728119022.000508785 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":114,"stamp":{"nanosec":308238029,"sec":1728119022}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 115 data_seq null time is: 1728119023.000104427 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":115,"stamp":{"nanosec":903979063,"sec":1728119022}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2090
+ analy uart recive data error ...Twist event count: 116 data_seq null time is: 1728119023.000699997 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":116,"stamp":{"nanosec":499496936,"sec":1728119023}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2137
+ analy uart recive data error ...Twist event count: 117 data_seq null time is: 1728119024.000296831 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":117,"stamp":{"nanosec":96529006,"sec":1728119024}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2094
+ analy uart recive data error ...Twist event count: 118 data_seq null time is: 1728119024.000891924 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":118,"stamp":{"nanosec":691262960,"sec":1728119024}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2087
+ analy uart recive data error ...Twist event count: 119 data_seq null time is: 1728119025.000487089 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":119,"stamp":{"nanosec":286451101,"sec":1728119025}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2160
+ analy uart recive data error ...Twist event count: 120 data_seq null time is: 1728119026.000082254 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":120,"stamp":{"nanosec":881539106,"sec":1728119025}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2271
+ analy uart recive data error ...Twist event count: 121 data_seq null time is: 1728119026.000677586 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":121,"stamp":{"nanosec":477201938,"sec":1728119026}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2124
+ analy uart recive data error ...Twist event count: 122 data_seq null time is: 1728119027.000273228 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":122,"stamp":{"nanosec":72761058,"sec":1728119027}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2096
+ analy uart recive data error ...Twist event count: 123 data_seq null time is: 1728119027.000868082 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":123,"stamp":{"nanosec":667511940,"sec":1728119027}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2082
+ analy uart recive data error ...Twist event count: 124 data_seq null time is: 1728119028.000463009 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":124,"stamp":{"nanosec":262415885,"sec":1728119028}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2139
+ analy uart recive data error ...Twist event count: 125 data_seq null time is: 1728119029.000057459 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":125,"stamp":{"nanosec":856728076,"sec":1728119028}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 126 data_seq null time is: 1728119029.000651121 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":126,"stamp":{"nanosec":450508117,"sec":1728119029}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 127 data_seq null time is: 1728119030.000245571 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":127,"stamp":{"nanosec":45008897,"sec":1728119030}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2284
+ analy uart recive data error ...Twist event count: 128 data_seq null time is: 1728119030.000839949 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":128,"stamp":{"nanosec":639229059,"sec":1728119030}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2072
+ analy uart recive data error ...Twist event count: 129 data_seq null time is: 1728119031.000433445 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":129,"stamp":{"nanosec":232712984,"sec":1728119031}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2135
+ analy uart recive data error ...Twist event count: 130 data_seq null time is: 1728119032.000028372 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":130,"stamp":{"nanosec":828090906,"sec":1728119031}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2094
+ analy uart recive data error ...Twist event count: 131 data_seq null time is: 1728119032.000623226 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":131,"stamp":{"nanosec":422473907,"sec":1728119032}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2140
+ analy uart recive data error ...Twist event count: 132 data_seq null time is: 1728119033.000220537 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":132,"stamp":{"nanosec":19861936,"sec":1728119033}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 133 data_seq null time is: 1728119033.000815153 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":133,"stamp":{"nanosec":614396095,"sec":1728119033}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2085
+ analy uart recive data error ...Twist event count: 134 data_seq null time is: 1728119034.000409603 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":134,"stamp":{"nanosec":209234952,"sec":1728119034}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2148
+ analy uart recive data error ...Twist event count: 135 data_seq null time is: 1728119035.000005245 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":135,"stamp":{"nanosec":804688930,"sec":1728119034}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2273
+ analy uart recive data error ...Twist event count: 136 data_seq null time is: 1728119035.000600576 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":136,"stamp":{"nanosec":400022983,"sec":1728119035}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2129
+ analy uart recive data error ...Twist event count: 137 data_seq null time is: 1728119036.000193596 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":137,"stamp":{"nanosec":993237972,"sec":1728119035}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2090
+ analy uart recive data error ...Twist event count: 138 data_seq null time is: 1728119036.000789165 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":138,"stamp":{"nanosec":588521957,"sec":1728119036}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 139 data_seq null time is: 1728119037.000384092 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":139,"stamp":{"nanosec":183509111,"sec":1728119037}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 140 data_seq null time is: 1728119037.000978708 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":140,"stamp":{"nanosec":778085947,"sec":1728119037}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2083
+ analy uart recive data error ...Twist event count: 141 data_seq null time is: 1728119038.000572920 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":141,"stamp":{"nanosec":372364997,"sec":1728119038}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2151
+ analy uart recive data error ...Twist event count: 142 data_seq null time is: 1728119039.000171900 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":142,"stamp":{"nanosec":971122980,"sec":1728119038}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2258
+ analy uart recive data error ...Twist event count: 143 data_seq null time is: 1728119039.000767708 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":143,"stamp":{"nanosec":567239046,"sec":1728119039}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2171
+ analy uart recive data error ...Twist event count: 144 data_seq null time is: 1728119040.000364065 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":144,"stamp":{"nanosec":163561105,"sec":1728119040}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2101
+ analy uart recive data error ...Twist event count: 145 data_seq null time is: 1728119040.000960350 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":145,"stamp":{"nanosec":759843111,"sec":1728119040}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2075
+ analy uart recive data error ...Twist event count: 146 data_seq null time is: 1728119041.000553131 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":146,"stamp":{"nanosec":352435111,"sec":1728119041}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2133
+ analy uart recive data error ...Twist event count: 147 data_seq null time is: 1728119042.000148773 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":147,"stamp":{"nanosec":948041915,"sec":1728119041}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 148 data_seq null time is: 1728119042.000742674 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":148,"stamp":{"nanosec":541852951,"sec":1728119042}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 149 data_seq null time is: 1728119043.000337362 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":149,"stamp":{"nanosec":136862039,"sec":1728119043}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 150 data_seq null time is: 1728119043.000931025 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":150,"stamp":{"nanosec":730403900,"sec":1728119043}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2283
+ analy uart recive data error ...Twist event count: 151 data_seq null time is: 1728119044.000526667 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":151,"stamp":{"nanosec":326046943,"sec":1728119044}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2146
+ analy uart recive data error ...Twist event count: 152 data_seq null time is: 1728119045.000123739 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":152,"stamp":{"nanosec":923104047,"sec":1728119044}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 153 data_seq null time is: 1728119045.000719070 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":153,"stamp":{"nanosec":518301963,"sec":1728119045}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 154 data_seq null time is: 1728119046.000313282 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":154,"stamp":{"nanosec":112623929,"sec":1728119046}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2105
+ analy uart recive data error ...Twist event count: 155 data_seq null time is: 1728119046.000909805 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":155,"stamp":{"nanosec":709148883,"sec":1728119046}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 156 data_seq null time is: 1728119047.000505686 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":156,"stamp":{"nanosec":305007934,"sec":1728119047}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 157 data_seq null time is: 1728119048.000102043 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":157,"stamp":{"nanosec":901335954,"sec":1728119047}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2297
+ analy uart recive data error ...Twist event count: 158 data_seq null time is: 1728119048.000699043 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":158,"stamp":{"nanosec":498543024,"sec":1728119048}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 159 data_seq null time is: 1728119049.000295877 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":159,"stamp":{"nanosec":95221996,"sec":1728119049}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2101
+ analy uart recive data error ...Twist event count: 160 data_seq null time is: 1728119049.000891924 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":160,"stamp":{"nanosec":691376924,"sec":1728119049}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2094
+ analy uart recive data error ...Twist event count: 161 data_seq null time is: 1728119050.000488758 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":161,"stamp":{"nanosec":288033008,"sec":1728119050}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2140
+ analy uart recive data error ...Twist event count: 162 data_seq null time is: 1728119051.000084162 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":162,"stamp":{"nanosec":883568048,"sec":1728119050}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2101
+ analy uart recive data error ...Twist event count: 163 data_seq null time is: 1728119051.000679970 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":163,"stamp":{"nanosec":479485988,"sec":1728119051}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2120
+ analy uart recive data error ...Twist event count: 164 data_seq null time is: 1728119052.000274420 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":164,"stamp":{"nanosec":73621034,"sec":1728119052}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2101
+ analy uart recive data error ...Twist event count: 165 data_seq null time is: 1728119052.000869989 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":165,"stamp":{"nanosec":669308900,"sec":1728119052}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2275
+ analy uart recive data error ...Twist event count: 166 data_seq null time is: 1728119053.000463486 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":166,"stamp":{"nanosec":262901067,"sec":1728119053}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 167 data_seq null time is: 1728119054.000059843 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":167,"stamp":{"nanosec":859216928,"sec":1728119053}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 168 data_seq null time is: 1728119054.000654221 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":168,"stamp":{"nanosec":453449964,"sec":1728119054}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2130
+ analy uart recive data error ...Twist event count: 169 data_seq null time is: 1728119055.000249863 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":169,"stamp":{"nanosec":49277067,"sec":1728119055}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2091
+ analy uart recive data error ...Twist event count: 170 data_seq null time is: 1728119055.000844717 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":170,"stamp":{"nanosec":644041061,"sec":1728119055}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 171 data_seq null time is: 1728119056.000441074 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":171,"stamp":{"nanosec":240380048,"sec":1728119056}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 172 data_seq null time is: 1728119057.000038147 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":172,"stamp":{"nanosec":837481975,"sec":1728119056}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2223
+ analy uart recive data error ...Twist event count: 173 data_seq null time is: 1728119057.000633240 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":173,"stamp":{"nanosec":432607889,"sec":1728119057}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2206
+ analy uart recive data error ...Twist event count: 174 data_seq null time is: 1728119058.000231743 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":174,"stamp":{"nanosec":31095981,"sec":1728119058}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2108
+ analy uart recive data error ...Twist event count: 175 data_seq null time is: 1728119058.000828981 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":175,"stamp":{"nanosec":628315925,"sec":1728119058}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2086
+ analy uart recive data error ...Twist event count: 176 data_seq null time is: 1728119059.000425339 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":176,"stamp":{"nanosec":224625110,"sec":1728119059}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 177 data_seq null time is: 1728119060.000020027 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":177,"stamp":{"nanosec":819582939,"sec":1728119059}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 178 data_seq null time is: 1728119060.000615358 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":178,"stamp":{"nanosec":414613008,"sec":1728119060}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 179 data_seq null time is: 1728119061.000211716 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":179,"stamp":{"nanosec":11105060,"sec":1728119061}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 180 data_seq null time is: 1728119061.000807047 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":180,"stamp":{"nanosec":606455087,"sec":1728119061}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2321
+ analy uart recive data error ...Twist event count: 181 data_seq null time is: 1728119062.000402689 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":181,"stamp":{"nanosec":202229022,"sec":1728119062}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2108
+ analy uart recive data error ...Twist event count: 182 data_seq null time is: 1728119063.000000477 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":182,"stamp":{"nanosec":799886941,"sec":1728119062}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 183 data_seq null time is: 1728119063.000597000 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":183,"stamp":{"nanosec":396302938,"sec":1728119063}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 184 data_seq null time is: 1728119064.000191450 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":184,"stamp":{"nanosec":990700006,"sec":1728119063}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2098
+ analy uart recive data error ...Twist event count: 185 data_seq null time is: 1728119064.000786304 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":185,"stamp":{"nanosec":585784912,"sec":1728119064}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2123
+ analy uart recive data error ...Twist event count: 186 data_seq null time is: 1728119065.000381470 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":186,"stamp":{"nanosec":180713891,"sec":1728119065}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 187 data_seq null time is: 1728119065.000977755 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":187,"stamp":{"nanosec":776959896,"sec":1728119065}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2223
+ analy uart recive data error ...Twist event count: 188 data_seq null time is: 1728119066.000573158 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":188,"stamp":{"nanosec":372301101,"sec":1728119066}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2206
+ analy uart recive data error ...Twist event count: 189 data_seq null time is: 1728119067.000170708 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":189,"stamp":{"nanosec":969964981,"sec":1728119066}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2098
+ analy uart recive data error ...Twist event count: 190 data_seq null time is: 1728119067.000766277 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":190,"stamp":{"nanosec":565591096,"sec":1728119067}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2133
+ analy uart recive data error ...Twist event count: 191 data_seq null time is: 1728119068.000362873 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":191,"stamp":{"nanosec":162244081,"sec":1728119068}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2105
+ analy uart recive data error ...Twist event count: 192 data_seq null time is: 1728119068.000961781 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":192,"stamp":{"nanosec":761270999,"sec":1728119068}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2098
+ analy uart recive data error ...Twist event count: 193 data_seq null time is: 1728119069.000558138 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":193,"stamp":{"nanosec":357595920,"sec":1728119069}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2136
+ analy uart recive data error ...Twist event count: 194 data_seq null time is: 1728119070.000154495 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":194,"stamp":{"nanosec":953741073,"sec":1728119069}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 195 data_seq null time is: 1728119070.000750542 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":195,"stamp":{"nanosec":549880027,"sec":1728119070}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2314
+ analy uart recive data error ...Twist event count: 196 data_seq null time is: 1728119071.000344038 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":196,"stamp":{"nanosec":143374919,"sec":1728119071}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 197 data_seq null time is: 1728119071.000940800 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":197,"stamp":{"nanosec":740139961,"sec":1728119071}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2080
+ analy uart recive data error ...Twist event count: 198 data_seq null time is: 1728119072.000535488 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":198,"stamp":{"nanosec":334907054,"sec":1728119072}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 199 data_seq null time is: 1728119073.000131369 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":199,"stamp":{"nanosec":930895090,"sec":1728119072}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 200 data_seq null time is: 1728119073.000727177 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":200,"stamp":{"nanosec":526448011,"sec":1728119073}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 201 data_seq null time is: 1728119074.000323296 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":201,"stamp":{"nanosec":122555971,"sec":1728119074}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 202 data_seq null time is: 1728119074.000921249 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":202,"stamp":{"nanosec":720669984,"sec":1728119074}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2249
+ analy uart recive data error ...Twist event count: 203 data_seq null time is: 1728119075.000515699 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":203,"stamp":{"nanosec":315329074,"sec":1728119075}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2167
+ analy uart recive data error ...Twist event count: 204 data_seq null time is: 1728119076.000110626 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":204,"stamp":{"nanosec":909982919,"sec":1728119075}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 205 data_seq null time is: 1728119076.000707626 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":205,"stamp":{"nanosec":507138967,"sec":1728119076}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2127
+ analy uart recive data error ...Twist event count: 206 data_seq null time is: 1728119077.000302553 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":206,"stamp":{"nanosec":101762056,"sec":1728119077}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 207 data_seq null time is: 1728119077.000900507 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":207,"stamp":{"nanosec":699923992,"sec":1728119077}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 208 data_seq null time is: 1728119078.000496387 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":208,"stamp":{"nanosec":296045064,"sec":1728119078}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 209 data_seq null time is: 1728119079.000094175 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":209,"stamp":{"nanosec":893455982,"sec":1728119078}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 210 data_seq null time is: 1728119079.000690460 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":210,"stamp":{"nanosec":489937067,"sec":1728119079}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2316
+ analy uart recive data error ...Twist event count: 211 data_seq null time is: 1728119080.000285387 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":211,"stamp":{"nanosec":84997892,"sec":1728119080}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2104
+ analy uart recive data error ...Twist event count: 212 data_seq null time is: 1728119080.000881910 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":212,"stamp":{"nanosec":681433916,"sec":1728119080}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 213 data_seq null time is: 1728119081.000477552 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":213,"stamp":{"nanosec":276901960,"sec":1728119081}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 214 data_seq null time is: 1728119082.000073433 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":214,"stamp":{"nanosec":872863054,"sec":1728119081}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2083
+ analy uart recive data error ...Twist event count: 215 data_seq null time is: 1728119082.000668049 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":215,"stamp":{"nanosec":467716932,"sec":1728119082}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2137
+ analy uart recive data error ...Twist event count: 216 data_seq null time is: 1728119083.000264645 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":216,"stamp":{"nanosec":64018011,"sec":1728119083}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 217 data_seq null time is: 1728119083.000860691 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":217,"stamp":{"nanosec":660176038,"sec":1728119083}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2297
+ analy uart recive data error ...Twist event count: 218 data_seq null time is: 1728119084.000458002 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":218,"stamp":{"nanosec":257292985,"sec":1728119084}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2131
+ analy uart recive data error ...Twist event count: 219 data_seq null time is: 1728119085.000052691 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":219,"stamp":{"nanosec":852108955,"sec":1728119084}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 220 data_seq null time is: 1728119085.000649214 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":220,"stamp":{"nanosec":448750019,"sec":1728119085}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 221 data_seq null time is: 1728119086.000244141 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":221,"stamp":{"nanosec":43694972,"sec":1728119086}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 222 data_seq null time is: 1728119086.000841379 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":222,"stamp":{"nanosec":640723943,"sec":1728119086}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2105
+ analy uart recive data error ...Twist event count: 223 data_seq null time is: 1728119087.000438213 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":223,"stamp":{"nanosec":237616062,"sec":1728119087}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2133
+ analy uart recive data error ...Twist event count: 224 data_seq null time is: 1728119088.000035763 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":224,"stamp":{"nanosec":835031986,"sec":1728119087}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2152
+ analy uart recive data error ...Twist event count: 225 data_seq null time is: 1728119088.000634193 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":225,"stamp":{"nanosec":433680057,"sec":1728119088}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2296
+ analy uart recive data error ...Twist event count: 226 data_seq null time is: 1728119089.000232458 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":226,"stamp":{"nanosec":31986951,"sec":1728119089}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2103
+ analy uart recive data error ...Twist event count: 227 data_seq null time is: 1728119089.000829697 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":227,"stamp":{"nanosec":629028081,"sec":1728119089}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 228 data_seq null time is: 1728119090.000426292 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":228,"stamp":{"nanosec":225594043,"sec":1728119090}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 229 data_seq null time is: 1728119091.000023603 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":229,"stamp":{"nanosec":822951078,"sec":1728119090}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 230 data_seq null time is: 1728119091.000618935 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":230,"stamp":{"nanosec":418356895,"sec":1728119091}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2128
+ analy uart recive data error ...Twist event count: 231 data_seq null time is: 1728119092.000214815 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":231,"stamp":{"nanosec":14261960,"sec":1728119092}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2115
+ analy uart recive data error ...Twist event count: 232 data_seq null time is: 1728119092.000813007 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":232,"stamp":{"nanosec":612344026,"sec":1728119092}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2327
+ analy uart recive data error ...Twist event count: 233 data_seq null time is: 1728119093.000408411 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":233,"stamp":{"nanosec":208090066,"sec":1728119093}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 234 data_seq null time is: 1728119094.000006676 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":234,"stamp":{"nanosec":806021928,"sec":1728119093}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 235 data_seq null time is: 1728119094.000603437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":235,"stamp":{"nanosec":402789115,"sec":1728119094}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 236 data_seq null time is: 1728119095.000200987 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":236,"stamp":{"nanosec":200986,"sec":1728119095}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2108
+ analy uart recive data error ...Twist event count: 237 data_seq null time is: 1728119095.000797987 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":237,"stamp":{"nanosec":597165107,"sec":1728119095}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2125
+ analy uart recive data error ...Twist event count: 238 data_seq null time is: 1728119096.000393391 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":238,"stamp":{"nanosec":192672967,"sec":1728119096}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 239 data_seq null time is: 1728119096.000989437 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":239,"stamp":{"nanosec":788830995,"sec":1728119096}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 240 data_seq null time is: 1728119097.000586510 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":240,"stamp":{"nanosec":385831117,"sec":1728119097}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2297
+ analy uart recive data error ...Twist event count: 241 data_seq null time is: 1728119098.000182867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":241,"stamp":{"nanosec":982283115,"sec":1728119097}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 242 data_seq null time is: 1728119098.000780821 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":242,"stamp":{"nanosec":580285072,"sec":1728119098}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 243 data_seq null time is: 1728119099.000376701 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":243,"stamp":{"nanosec":176351070,"sec":1728119099}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2096
+ analy uart recive data error ...Twist event count: 244 data_seq null time is: 1728119099.000971794 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":244,"stamp":{"nanosec":771178007,"sec":1728119099}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2099
+ analy uart recive data error ...Twist event count: 245 data_seq null time is: 1728119100.000568390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":245,"stamp":{"nanosec":367921113,"sec":1728119100}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2142
+ analy uart recive data error ...Twist event count: 246 data_seq null time is: 1728119101.000166893 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":246,"stamp":{"nanosec":966223955,"sec":1728119100}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2108
+ analy uart recive data error ...Twist event count: 247 data_seq null time is: 1728119101.000765562 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":247,"stamp":{"nanosec":564694881,"sec":1728119101}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2333
+ analy uart recive data error ...Twist event count: 248 data_seq null time is: 1728119102.000362635 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":248,"stamp":{"nanosec":162014007,"sec":1728119102}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 249 data_seq null time is: 1728119102.000958681 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":249,"stamp":{"nanosec":757848024,"sec":1728119102}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 250 data_seq null time is: 1728119103.000556231 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":250,"stamp":{"nanosec":355740070,"sec":1728119103}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 251 data_seq null time is: 1728119104.000153065 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":251,"stamp":{"nanosec":952292919,"sec":1728119103}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2114
+ analy uart recive data error ...Twist event count: 252 data_seq null time is: 1728119104.000751972 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":252,"stamp":{"nanosec":551659107,"sec":1728119104}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 253 data_seq null time is: 1728119105.000348330 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":253,"stamp":{"nanosec":147891044,"sec":1728119105}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 254 data_seq null time is: 1728119105.000943899 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":254,"stamp":{"nanosec":743549108,"sec":1728119105}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 255 data_seq null time is: 1728119106.000541687 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":255,"stamp":{"nanosec":340938091,"sec":1728119106}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2323
+ analy uart recive data error ...Twist event count: 256 data_seq null time is: 1728119107.000137568 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":256,"stamp":{"nanosec":937252998,"sec":1728119106}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2090
+ analy uart recive data error ...Twist event count: 257 data_seq null time is: 1728119107.000734806 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":257,"stamp":{"nanosec":534153938,"sec":1728119107}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2138
+ analy uart recive data error ...Twist event count: 258 data_seq null time is: 1728119108.000331640 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":258,"stamp":{"nanosec":131150960,"sec":1728119108}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2107
+ analy uart recive data error ...Twist event count: 259 data_seq null time is: 1728119108.000929117 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":259,"stamp":{"nanosec":728404045,"sec":1728119108}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2083
+ analy uart recive data error ...Twist event count: 260 data_seq null time is: 1728119109.000524759 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":260,"stamp":{"nanosec":324398994,"sec":1728119109}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2145
+ analy uart recive data error ...Twist event count: 261 data_seq null time is: 1728119110.000121593 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":261,"stamp":{"nanosec":921047925,"sec":1728119109}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2107
+ analy uart recive data error ...Twist event count: 262 data_seq null time is: 1728119110.000719070 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":262,"stamp":{"nanosec":518374919,"sec":1728119110}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2314
+ analy uart recive data error ...Twist event count: 263 data_seq null time is: 1728119111.000314713 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":263,"stamp":{"nanosec":114165067,"sec":1728119111}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2101
+ analy uart recive data error ...Twist event count: 264 data_seq null time is: 1728119111.000909567 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":264,"stamp":{"nanosec":709198951,"sec":1728119111}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 265 data_seq null time is: 1728119112.000506163 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":265,"stamp":{"nanosec":305605888,"sec":1728119112}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 266 data_seq null time is: 1728119113.000102758 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":266,"stamp":{"nanosec":902152061,"sec":1728119112}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 267 data_seq null time is: 1728119113.000699282 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":267,"stamp":{"nanosec":498644113,"sec":1728119113}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2137
+ analy uart recive data error ...Twist event count: 268 data_seq null time is: 1728119114.000297070 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":268,"stamp":{"nanosec":96427917,"sec":1728119114}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2097
+ analy uart recive data error ...Twist event count: 269 data_seq null time is: 1728119114.000894308 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":269,"stamp":{"nanosec":693639039,"sec":1728119114}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2094
+ analy uart recive data error ...Twist event count: 270 data_seq null time is: 1728119115.000490904 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":270,"stamp":{"nanosec":290338993,"sec":1728119115}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2347
+ analy uart recive data error ...Twist event count: 271 data_seq null time is: 1728119116.000087738 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":271,"stamp":{"nanosec":887226104,"sec":1728119115}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 272 data_seq null time is: 1728119116.000686407 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":272,"stamp":{"nanosec":485913991,"sec":1728119116}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2138
+ analy uart recive data error ...Twist event count: 273 data_seq null time is: 1728119117.000285149 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":273,"stamp":{"nanosec":84289073,"sec":1728119117}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2103
+ analy uart recive data error ...Twist event count: 274 data_seq null time is: 1728119117.000881433 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":274,"stamp":{"nanosec":680665016,"sec":1728119117}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2098
+ analy uart recive data error ...Twist event count: 275 data_seq null time is: 1728119118.000478983 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":275,"stamp":{"nanosec":278383016,"sec":1728119118}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2135
+ analy uart recive data error ...Twist event count: 276 data_seq null time is: 1728119119.000075102 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":276,"stamp":{"nanosec":874676942,"sec":1728119118}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2108
+ analy uart recive data error ...Twist event count: 277 data_seq null time is: 1728119119.000672340 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":277,"stamp":{"nanosec":471705913,"sec":1728119119}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2275
+ analy uart recive data error ...Twist event count: 278 data_seq null time is: 1728119120.000269175 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":278,"stamp":{"nanosec":68491935,"sec":1728119120}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2154
+ analy uart recive data error ...Twist event count: 279 data_seq null time is: 1728119120.000865698 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":279,"stamp":{"nanosec":665066957,"sec":1728119120}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 280 data_seq null time is: 1728119121.000462770 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":280,"stamp":{"nanosec":262104988,"sec":1728119121}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 281 data_seq null time is: 1728119122.000059843 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":281,"stamp":{"nanosec":859076023,"sec":1728119121}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 282 data_seq null time is: 1728119122.000658989 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":282,"stamp":{"nanosec":458152055,"sec":1728119122}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 283 data_seq null time is: 1728119123.000255823 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":283,"stamp":{"nanosec":54877996,"sec":1728119123}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 284 data_seq null time is: 1728119123.000852585 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":284,"stamp":{"nanosec":652041912,"sec":1728119123}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 285 data_seq null time is: 1728119124.000449419 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":285,"stamp":{"nanosec":248717069,"sec":1728119124}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2310
+ analy uart recive data error ...Twist event count: 286 data_seq null time is: 1728119125.000045776 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":286,"stamp":{"nanosec":845051050,"sec":1728119124}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 287 data_seq null time is: 1728119125.000642776 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":287,"stamp":{"nanosec":442260980,"sec":1728119125}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 288 data_seq null time is: 1728119126.000238180 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":288,"stamp":{"nanosec":37822961,"sec":1728119126}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2105
+ analy uart recive data error ...Twist event count: 289 data_seq null time is: 1728119126.000836849 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":289,"stamp":{"nanosec":636203050,"sec":1728119126}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 290 data_seq null time is: 1728119127.000433445 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":290,"stamp":{"nanosec":232660055,"sec":1728119127}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2151
+ analy uart recive data error ...Twist event count: 291 data_seq null time is: 1728119128.000031233 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":291,"stamp":{"nanosec":830707073,"sec":1728119127}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 292 data_seq null time is: 1728119128.000631332 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":292,"stamp":{"nanosec":430959939,"sec":1728119128}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2324
+ analy uart recive data error ...Twist event count: 293 data_seq null time is: 1728119129.000231743 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":293,"stamp":{"nanosec":31003952,"sec":1728119129}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2141
+ analy uart recive data error ...Twist event count: 294 data_seq null time is: 1728119129.000832081 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":294,"stamp":{"nanosec":631501913,"sec":1728119129}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2097
+ analy uart recive data error ...Twist event count: 295 data_seq null time is: 1728119130.000430822 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":295,"stamp":{"nanosec":230329036,"sec":1728119130}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2150
+ analy uart recive data error ...Twist event count: 296 data_seq null time is: 1728119131.000029802 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":296,"stamp":{"nanosec":829538106,"sec":1728119130}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2094
+ analy uart recive data error ...Twist event count: 297 data_seq null time is: 1728119131.000626326 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":297,"stamp":{"nanosec":425818920,"sec":1728119131}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2149
+ analy uart recive data error ...Twist event count: 298 data_seq null time is: 1728119132.000225067 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":298,"stamp":{"nanosec":24487018,"sec":1728119132}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 299 data_seq null time is: 1728119132.000821590 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":299,"stamp":{"nanosec":620914936,"sec":1728119132}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2119
+ analy uart recive data error ...Twist event count: 300 data_seq null time is: 1728119133.000419140 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":300,"stamp":{"nanosec":218383073,"sec":1728119133}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2314
+ analy uart recive data error ...Twist event count: 301 data_seq null time is: 1728119134.000016689 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":301,"stamp":{"nanosec":816240072,"sec":1728119133}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2092
+ analy uart recive data error ...Twist event count: 302 data_seq null time is: 1728119134.000614405 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":302,"stamp":{"nanosec":414134979,"sec":1728119134}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2150
+ analy uart recive data error ...Twist event count: 303 data_seq null time is: 1728119135.000213385 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":303,"stamp":{"nanosec":12658119,"sec":1728119135}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 304 data_seq null time is: 1728119135.000808239 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":304,"stamp":{"nanosec":608036041,"sec":1728119135}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2132
+ analy uart recive data error ...Twist event count: 305 data_seq null time is: 1728119136.000405312 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":305,"stamp":{"nanosec":204793930,"sec":1728119136}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 306 data_seq null time is: 1728119137.000001669 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":306,"stamp":{"nanosec":800894021,"sec":1728119136}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2093
+ analy uart recive data error ...Twist event count: 307 data_seq null time is: 1728119137.000597715 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":307,"stamp":{"nanosec":397068023,"sec":1728119137}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2323
+ analy uart recive data error ...Twist event count: 308 data_seq null time is: 1728119138.000193834 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":308,"stamp":{"nanosec":993133068,"sec":1728119137}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2102
+ analy uart recive data error ...Twist event count: 309 data_seq null time is: 1728119138.000789165 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":309,"stamp":{"nanosec":588749885,"sec":1728119138}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2145
+ analy uart recive data error ...Twist event count: 310 data_seq null time is: 1728119139.000387907 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":310,"stamp":{"nanosec":187293052,"sec":1728119139}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2089
+ analy uart recive data error ...Twist event count: 311 data_seq null time is: 1728119139.000984192 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":311,"stamp":{"nanosec":783715009,"sec":1728119139}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2106
+ analy uart recive data error ...Twist event count: 312 data_seq null time is: 1728119140.000583887 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":312,"stamp":{"nanosec":383374929,"sec":1728119140}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2154
+ analy uart recive data error ...Twist event count: 313 data_seq null time is: 1728119141.000182390 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":313,"stamp":{"nanosec":981829881,"sec":1728119140}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2103
+ analy uart recive data error ...Twist event count: 314 data_seq null time is: 1728119141.000780106 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":314,"stamp":{"nanosec":579669952,"sec":1728119141}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2170
+ analy uart recive data error ...Twist event count: 315 data_seq null time is: 1728119142.000376701 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":315,"stamp":{"nanosec":176060914,"sec":1728119142}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2280
+ analy uart recive data error ...Twist event count: 316 data_seq null time is: 1728119142.000975847 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":316,"stamp":{"nanosec":775445938,"sec":1728119142}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2073
+ analy uart recive data error ...Twist event count: 317 data_seq null time is: 1728119143.000574350 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":317,"stamp":{"nanosec":373501062,"sec":1728119143}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2099
+ analy uart recive data error ...Twist event count: 318 data_seq null time is: 1728119144.000173569 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":318,"stamp":{"nanosec":972980976,"sec":1728119143}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2063
+ analy uart recive data error ...Twist event count: 319 data_seq null time is: 1728119144.000771761 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":319,"stamp":{"nanosec":571157932,"sec":1728119144}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2069
+ analy uart recive data error ...Twist event count: 320 data_seq null time is: 1728119145.000370264 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":320,"stamp":{"nanosec":169878005,"sec":1728119145}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2060
+ analy uart recive data error ...Twist event count: 321 data_seq null time is: 1728119145.000969172 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":321,"stamp":{"nanosec":768441915,"sec":1728119145}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2015
+ analy uart recive data error ...Twist event count: 322 data_seq null time is: 1728119146.000568867 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":322,"stamp":{"nanosec":368264913,"sec":1728119146}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 2271
+ analy uart recive data error ...Twist event count: 323 data_seq null time is: 1728119147.000169277 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":323,"stamp":{"nanosec":968473911,"sec":1728119146}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1986
+ analy uart recive data error ...Twist event count: 324 data_seq null time is: 1728119147.000765324 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":324,"stamp":{"nanosec":564820051,"sec":1728119147}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1934
+ analy uart recive data error ...Twist event count: 325 data_seq null time is: 1728119148.000365496 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":325,"stamp":{"nanosec":164892911,"sec":1728119148}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1907
+ analy uart recive data error ...Twist event count: 326 data_seq null time is: 1728119148.000962496 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":326,"stamp":{"nanosec":761697053,"sec":1728119148}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1963
+ analy uart recive data error ...Twist event count: 327 data_seq null time is: 1728119149.000561953 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":327,"stamp":{"nanosec":361382961,"sec":1728119149}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1972
+ analy uart recive data error ...Twist event count: 328 data_seq null time is: 1728119150.000161409 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":328,"stamp":{"nanosec":960720062,"sec":1728119149}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1829
+ analy uart recive data error ...Twist event count: 329 data_seq null time is: 1728119150.000759602 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":329,"stamp":{"nanosec":559077978,"sec":1728119150}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1794
+ analy uart recive data error ...Twist event count: 330 data_seq null time is: 1728119151.000358343 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":330,"stamp":{"nanosec":157762050,"sec":1728119151}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1868
+ analy uart recive data error ...Twist event count: 331 data_seq null time is: 1728119151.000957012 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":331,"stamp":{"nanosec":756350040,"sec":1728119151}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1742
+ analy uart recive data error ...Twist event count: 332 data_seq null time is: 1728119152.000555992 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":332,"stamp":{"nanosec":355441093,"sec":1728119152}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1777
+ analy uart recive data error ...Twist event count: 333 data_seq null time is: 1728119153.000154972 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":333,"stamp":{"nanosec":954581975,"sec":1728119152}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1714
+ analy uart recive data error ...Twist event count: 334 data_seq null time is: 1728119153.000753880 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":334,"stamp":{"nanosec":553189039,"sec":1728119153}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1597
+ analy uart recive data error ...Twist event count: 335 data_seq null time is: 1728119154.000351429 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":335,"stamp":{"nanosec":150809049,"sec":1728119154}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1634
+ analy uart recive data error ...Twist event count: 336 data_seq null time is: 1728119154.000948429 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":336,"stamp":{"nanosec":747955083,"sec":1728119154}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1651
+ analy uart recive data error ...Twist event count: 337 data_seq null time is: 1728119155.000546455 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":337,"stamp":{"nanosec":345648050,"sec":1728119155}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1738
+ analy uart recive data error ...Twist event count: 338 data_seq null time is: 1728119156.000142813 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":338,"stamp":{"nanosec":942349910,"sec":1728119155}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1608
+ analy uart recive data error ...Twist event count: 339 data_seq null time is: 1728119156.000739813 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":339,"stamp":{"nanosec":539299964,"sec":1728119156}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1664
+ analy uart recive data error ...Twist event count: 340 data_seq null time is: 1728119157.000336647 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":340,"stamp":{"nanosec":136027097,"sec":1728119157}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1558
+ analy uart recive data error ...Twist event count: 341 data_seq null time is: 1728119157.000933886 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":341,"stamp":{"nanosec":733258008,"sec":1728119157}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1467
+ analy uart recive data error ...Twist event count: 342 data_seq null time is: 1728119158.000532627 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":342,"stamp":{"nanosec":331871032,"sec":1728119158}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1452
+ analy uart recive data error ...Twist event count: 343 data_seq null time is: 1728119159.000128508 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":343,"stamp":{"nanosec":927886009,"sec":1728119158}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 344 data_seq null time is: 1728119159.000724792 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":344,"stamp":{"nanosec":524305105,"sec":1728119159}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1456
+ analy uart recive data error ...Twist event count: 345 data_seq null time is: 1728119160.000321865 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":345,"stamp":{"nanosec":121016025,"sec":1728119160}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1569
+ analy uart recive data error ...Twist event count: 346 data_seq null time is: 1728119160.000918150 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":346,"stamp":{"nanosec":717483997,"sec":1728119160}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1423
+ analy uart recive data error ...Twist event count: 347 data_seq null time is: 1728119161.000514269 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":347,"stamp":{"nanosec":313515901,"sec":1728119161}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1459
+ analy uart recive data error ...Twist event count: 348 data_seq null time is: 1728119162.000111580 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":348,"stamp":{"nanosec":910972118,"sec":1728119161}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 349 data_seq null time is: 1728119162.000708103 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":349,"stamp":{"nanosec":507738113,"sec":1728119162}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1442
+ analy uart recive data error ...Twist event count: 350 data_seq null time is: 1728119163.000304699 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":350,"stamp":{"nanosec":104034900,"sec":1728119163}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1427
+ analy uart recive data error ...Twist event count: 351 data_seq null time is: 1728119163.000901937 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":351,"stamp":{"nanosec":701463937,"sec":1728119163}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1417
+ analy uart recive data error ...Twist event count: 352 data_seq null time is: 1728119164.000501871 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":352,"stamp":{"nanosec":301170110,"sec":1728119164}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1579
+ analy uart recive data error ...Twist event count: 353 data_seq null time is: 1728119165.000100613 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":353,"stamp":{"nanosec":899991035,"sec":1728119164}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1429
+ analy uart recive data error ...Twist event count: 354 data_seq null time is: 1728119165.000696659 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":354,"stamp":{"nanosec":496042013,"sec":1728119165}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1456
+ analy uart recive data error ...Twist event count: 355 data_seq null time is: 1728119166.000296593 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":355,"stamp":{"nanosec":96136093,"sec":1728119166}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1440
+ analy uart recive data error ...Twist event count: 356 data_seq null time is: 1728119166.000893593 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":356,"stamp":{"nanosec":693036079,"sec":1728119166}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1431
+ analy uart recive data error ...Twist event count: 357 data_seq null time is: 1728119167.000493765 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":357,"stamp":{"nanosec":293221950,"sec":1728119167}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1449
+ analy uart recive data error ...Twist event count: 358 data_seq null time is: 1728119168.000092268 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":358,"stamp":{"nanosec":891866922,"sec":1728119167}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 359 data_seq null time is: 1728119168.000691652 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":359,"stamp":{"nanosec":490902900,"sec":1728119168}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1456
+ analy uart recive data error ...Twist event count: 360 data_seq null time is: 1728119169.000288248 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":360,"stamp":{"nanosec":87817907,"sec":1728119169}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1556
+ analy uart recive data error ...Twist event count: 361 data_seq null time is: 1728119169.000885248 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":361,"stamp":{"nanosec":684463024,"sec":1728119169}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1430
+ analy uart recive data error ...Twist event count: 362 data_seq null time is: 1728119170.000485182 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":362,"stamp":{"nanosec":284688949,"sec":1728119170}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1452
+ analy uart recive data error ...Twist event count: 363 data_seq null time is: 1728119171.000081778 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":363,"stamp":{"nanosec":881063938,"sec":1728119170}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 364 data_seq null time is: 1728119171.000678539 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":364,"stamp":{"nanosec":477880001,"sec":1728119171}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1446
+ analy uart recive data error ...Twist event count: 365 data_seq null time is: 1728119172.000273705 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":365,"stamp":{"nanosec":73256015,"sec":1728119172}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1436
+ analy uart recive data error ...Twist event count: 366 data_seq null time is: 1728119172.000871897 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":366,"stamp":{"nanosec":671161890,"sec":1728119172}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1430
+ analy uart recive data error ...Twist event count: 367 data_seq null time is: 1728119173.000468016 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":367,"stamp":{"nanosec":267391920,"sec":1728119173}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1569
+ analy uart recive data error ...Twist event count: 368 data_seq null time is: 1728119174.000066519 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":368,"stamp":{"nanosec":865709066,"sec":1728119173}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1417
+ analy uart recive data error ...Twist event count: 369 data_seq null time is: 1728119174.000662565 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":369,"stamp":{"nanosec":461693048,"sec":1728119174}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1442
+ analy uart recive data error ...Twist event count: 370 data_seq null time is: 1728119175.000259638 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":370,"stamp":{"nanosec":59236049,"sec":1728119175}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1436
+ analy uart recive data error ...Twist event count: 371 data_seq null time is: 1728119175.000857115 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":371,"stamp":{"nanosec":656512975,"sec":1728119175}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1443
+ analy uart recive data error ...Twist event count: 372 data_seq null time is: 1728119176.000455618 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":372,"stamp":{"nanosec":255012035,"sec":1728119176}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 373 data_seq null time is: 1728119177.000053167 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":373,"stamp":{"nanosec":852812051,"sec":1728119176}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1420
+ analy uart recive data error ...Twist event count: 374 data_seq null time is: 1728119177.000649691 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":374,"stamp":{"nanosec":449035882,"sec":1728119177}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1487
+ analy uart recive data error ...Twist event count: 375 data_seq null time is: 1728119178.000245810 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":375,"stamp":{"nanosec":45370101,"sec":1728119178}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1517
+ analy uart recive data error ...Twist event count: 376 data_seq null time is: 1728119178.000842094 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":376,"stamp":{"nanosec":641403913,"sec":1728119178}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1430
+ analy uart recive data error ...Twist event count: 377 data_seq null time is: 1728119179.000437737 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":377,"stamp":{"nanosec":237186908,"sec":1728119179}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1452
+ analy uart recive data error ...Twist event count: 378 data_seq null time is: 1728119180.000034809 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":378,"stamp":{"nanosec":834225893,"sec":1728119179}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1417
+ analy uart recive data error ...Twist event count: 379 data_seq null time is: 1728119180.000632048 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":379,"stamp":{"nanosec":431691884,"sec":1728119180}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1455
+ analy uart recive data error ...Twist event count: 380 data_seq null time is: 1728119181.000229597 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":380,"stamp":{"nanosec":28953075,"sec":1728119181}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1448
+ analy uart recive data error ...Twist event count: 381 data_seq null time is: 1728119181.000827551 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":381,"stamp":{"nanosec":627111911,"sec":1728119181}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1430
+ analy uart recive data error ...Twist event count: 382 data_seq null time is: 1728119182.000427246 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":382,"stamp":{"nanosec":226651906,"sec":1728119182}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1543
+ analy uart recive data error ...Twist event count: 383 data_seq null time is: 1728119183.000025749 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":383,"stamp":{"nanosec":825104951,"sec":1728119182}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1407
+ analy uart recive data error ...Twist event count: 384 data_seq null time is: 1728119183.000623465 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":384,"stamp":{"nanosec":422897100,"sec":1728119183}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1423
+ analy uart recive data error ...Twist event count: 385 data_seq null time is: 1728119184.000218391 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":385,"stamp":{"nanosec":17910957,"sec":1728119184}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1409
+ analy uart recive data error ...Twist event count: 386 data_seq null time is: 1728119184.000814915 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":386,"stamp":{"nanosec":614398002,"sec":1728119184}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1421
+ analy uart recive data error ...Twist event count: 387 data_seq null time is: 1728119185.000411034 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":387,"stamp":{"nanosec":210274934,"sec":1728119185}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1400
+ analy uart recive data error ...Twist event count: 388 data_seq null time is: 1728119186.000005722 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":388,"stamp":{"nanosec":804955959,"sec":1728119185}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1404
+ analy uart recive data error ...Twist event count: 389 data_seq null time is: 1728119186.000602961 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":389,"stamp":{"nanosec":402198076,"sec":1728119186}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1465
+ analy uart recive data error ...Twist event count: 390 data_seq null time is: 1728119187.000198603 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":390,"stamp":{"nanosec":998086929,"sec":1728119186}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1493
+ analy uart recive data error ...Twist event count: 391 data_seq null time is: 1728119187.000794411 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":391,"stamp":{"nanosec":593928098,"sec":1728119187}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 392 data_seq null time is: 1728119188.000393152 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":392,"stamp":{"nanosec":192569971,"sec":1728119188}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1401
+ analy uart recive data error ...Twist event count: 393 data_seq null time is: 1728119188.000989199 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":393,"stamp":{"nanosec":788570880,"sec":1728119188}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1402
+ analy uart recive data error ...Twist event count: 394 data_seq null time is: 1728119189.000586271 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":394,"stamp":{"nanosec":385493040,"sec":1728119189}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 395 data_seq null time is: 1728119190.000180960 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":395,"stamp":{"nanosec":980426073,"sec":1728119189}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1400
+ analy uart recive data error ...Twist event count: 396 data_seq null time is: 1728119190.000777245 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":396,"stamp":{"nanosec":576581954,"sec":1728119190}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1417
+ analy uart recive data error ...Twist event count: 397 data_seq null time is: 1728119191.000372887 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":397,"stamp":{"nanosec":172264099,"sec":1728119191}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1542
+ analy uart recive data error ...Twist event count: 398 data_seq null time is: 1728119191.000970125 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":398,"stamp":{"nanosec":769589900,"sec":1728119191}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1391
+ analy uart recive data error ...Twist event count: 399 data_seq null time is: 1728119192.000566244 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":399,"stamp":{"nanosec":365780115,"sec":1728119192}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1431
+ analy uart recive data error ...Twist event count: 400 data_seq null time is: 1728119193.000164270 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":400,"stamp":{"nanosec":963901996,"sec":1728119192}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1399
+ analy uart recive data error ...Twist event count: 401 data_seq null time is: 1728119193.000761747 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":401,"stamp":{"nanosec":561006069,"sec":1728119193}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 402 data_seq null time is: 1728119194.000361681 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":402,"stamp":{"nanosec":161097049,"sec":1728119194}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1413
+ analy uart recive data error ...Twist event count: 403 data_seq null time is: 1728119194.000960827 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":403,"stamp":{"nanosec":759810924,"sec":1728119194}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1391
+ analy uart recive data error ...Twist event count: 404 data_seq null time is: 1728119195.000558615 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":404,"stamp":{"nanosec":357846975,"sec":1728119195}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 405 data_seq null time is: 1728119196.000157833 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":405,"stamp":{"nanosec":957305908,"sec":1728119195}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1534
+ analy uart recive data error ...Twist event count: 406 data_seq null time is: 1728119196.000755310 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":406,"stamp":{"nanosec":554843902,"sec":1728119196}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 407 data_seq null time is: 1728119197.000352144 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":407,"stamp":{"nanosec":151607990,"sec":1728119197}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1416
+ analy uart recive data error ...Twist event count: 408 data_seq null time is: 1728119197.000949144 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":408,"stamp":{"nanosec":748389959,"sec":1728119197}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1400
+ analy uart recive data error ...Twist event count: 409 data_seq null time is: 1728119198.000546217 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":409,"stamp":{"nanosec":345588922,"sec":1728119198}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 410 data_seq null time is: 1728119199.000141859 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":410,"stamp":{"nanosec":941397905,"sec":1728119198}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1391
+ analy uart recive data error ...Twist event count: 411 data_seq null time is: 1728119199.000737667 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":411,"stamp":{"nanosec":537087917,"sec":1728119199}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 412 data_seq null time is: 1728119200.000334740 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":412,"stamp":{"nanosec":134187936,"sec":1728119200}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1504
+ analy uart recive data error ...Twist event count: 413 data_seq null time is: 1728119200.000931501 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":413,"stamp":{"nanosec":730843067,"sec":1728119200}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1417
+ analy uart recive data error ...Twist event count: 414 data_seq null time is: 1728119201.000527859 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":414,"stamp":{"nanosec":327493906,"sec":1728119201}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 415 data_seq null time is: 1728119202.000124931 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":415,"stamp":{"nanosec":924518108,"sec":1728119201}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1391
+ analy uart recive data error ...Twist event count: 416 data_seq null time is: 1728119202.000722170 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":416,"stamp":{"nanosec":521522045,"sec":1728119202}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 417 data_seq null time is: 1728119203.000318050 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":417,"stamp":{"nanosec":117435932,"sec":1728119203}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1413
+ analy uart recive data error ...Twist event count: 418 data_seq null time is: 1728119203.000916004 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":418,"stamp":{"nanosec":715516090,"sec":1728119203}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1391
+ analy uart recive data error ...Twist event count: 419 data_seq null time is: 1728119204.000511408 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":419,"stamp":{"nanosec":310781002,"sec":1728119204}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 420 data_seq null time is: 1728119205.000107765 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":420,"stamp":{"nanosec":907305002,"sec":1728119204}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1534
+ analy uart recive data error ...Twist event count: 421 data_seq null time is: 1728119205.000705004 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":421,"stamp":{"nanosec":504261970,"sec":1728119205}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 422 data_seq null time is: 1728119206.000302076 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":422,"stamp":{"nanosec":101340055,"sec":1728119206}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1400
+ analy uart recive data error ...Twist event count: 423 data_seq null time is: 1728119206.000898600 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":423,"stamp":{"nanosec":697968959,"sec":1728119206}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1402
+ analy uart recive data error ...Twist event count: 424 data_seq null time is: 1728119207.000494480 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":424,"stamp":{"nanosec":293730020,"sec":1728119207}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1432
+ analy uart recive data error ...Twist event count: 425 data_seq null time is: 1728119208.000092983 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":425,"stamp":{"nanosec":892410993,"sec":1728119207}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1387
+ analy uart recive data error ...Twist event count: 426 data_seq null time is: 1728119208.000688076 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":426,"stamp":{"nanosec":487665891,"sec":1728119208}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 427 data_seq null time is: 1728119209.000286341 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":427,"stamp":{"nanosec":85506916,"sec":1728119209}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1504
+ analy uart recive data error ...Twist event count: 428 data_seq null time is: 1728119209.000881672 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":428,"stamp":{"nanosec":680788993,"sec":1728119209}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1417
+ analy uart recive data error ...Twist event count: 429 data_seq null time is: 1728119210.000476837 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":429,"stamp":{"nanosec":276192903,"sec":1728119210}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 430 data_seq null time is: 1728119211.000071526 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":430,"stamp":{"nanosec":870955944,"sec":1728119210}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1391
+ analy uart recive data error ...Twist event count: 431 data_seq null time is: 1728119211.000666380 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":431,"stamp":{"nanosec":465727090,"sec":1728119211}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1439
+ analy uart recive data error ...Twist event count: 432 data_seq null time is: 1728119212.000264883 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":432,"stamp":{"nanosec":64284086,"sec":1728119212}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1400
+ analy uart recive data error ...Twist event count: 433 data_seq null time is: 1728119212.000861406 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":433,"stamp":{"nanosec":660604000,"sec":1728119212}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1417
+ analy uart recive data error ...Twist event count: 434 data_seq null time is: 1728119213.000457048 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":434,"stamp":{"nanosec":256649971,"sec":1728119213}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1426
+ analy uart recive data error ...Twist event count: 435 data_seq null time is: 1728119214.000061274 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":435,"stamp":{"nanosec":860110998,"sec":1728119213}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1522
+ analy uart recive data error ...Twist event count: 436 data_seq null time is: 1728119214.000658512 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":436,"stamp":{"nanosec":457931041,"sec":1728119214}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1438
+ analy uart recive data error ...Twist event count: 437 data_seq null time is: 1728119215.000257730 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":437,"stamp":{"nanosec":57022094,"sec":1728119215}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1400
+ analy uart recive data error ...Twist event count: 438 data_seq null time is: 1728119215.000853062 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":438,"stamp":{"nanosec":652311086,"sec":1728119215}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1430
+ analy uart recive data error ...Twist event count: 439 data_seq null time is: 1728119216.000450134 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":439,"stamp":{"nanosec":249439954,"sec":1728119216}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+serial data is too short ,  len: 1397
+ analy uart recive data error ...Twist event count: 440 data_seq null time is: 1728119217.000043869 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":440,"stamp":{"nanosec":843430042,"sec":1728119216}},"linear":{"x":0.1,"y":0.0,"z":0.0},"seq":null}
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

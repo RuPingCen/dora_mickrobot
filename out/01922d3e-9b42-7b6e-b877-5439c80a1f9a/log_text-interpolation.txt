@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/crp/dora_project/dora_mickrobot/text_interpolation.py", line 13, in <module>
+    node = Node()
+           ^^^^^^
+RuntimeError: Couldn not initiate node from environment variable. For dynamic node, please add a node id in the initialization function.
+
+Caused by:
+   0: failed to init event stream
+   1: subscribe failed: Node mickrobot_chassis exited before initializing dora. For more information, run `dora logs 01922d3e-9b42-7b6e-b877-5439c80a1f9a mickrobot_chassis`.
+
+Location:
+    apis/rust/node/src/event_stream/mod.rs:101:17

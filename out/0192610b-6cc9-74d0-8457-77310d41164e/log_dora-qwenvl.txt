@@ -1,0 +1,34 @@
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section'}
+`Qwen2VLRotaryEmbedding` can now be fully parameterized by passing the model config through the `config` argument. All other arguments will be removed in v4.46
+/home/crp/anaconda3/lib/python3.11/site-packages/accelerate/utils/modeling.py:1405: UserWarning: Current model requires 3752 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 15.19it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 15.17it/s]
+/home/crp/anaconda3/lib/python3.11/site-packages/accelerate/utils/modeling.py:1405: UserWarning: Current model requires 7504 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/crp/anaconda3/bin/dora-qwenvl", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 132, in main
+    response = generate(frames, question)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 74, in generate
+    generated_ids = model.generate(**inputs, max_new_tokens=128)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/transformers/generation/utils.py", line 1829, in generate
+    self._prepare_special_tokens(generation_config, kwargs_has_attention_mask, device=device)
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/transformers/generation/utils.py", line 1678, in _prepare_special_tokens
+    and isin_mps_friendly(elements=eos_token_tensor, test_elements=pad_token_tensor).any()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/transformers/pytorch_utils.py", line 328, in isin_mps_friendly
+    return torch.isin(elements, test_elements)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[2m2024-10-06T08:57:01.634902Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m timeout while waiting for event stream thread

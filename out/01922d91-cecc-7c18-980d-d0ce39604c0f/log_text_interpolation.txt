@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "/home/crp/dora_project/dora_mickrobot/text_interpolation.py", line 32, in <module>
+text
+1727341407.173313
+text
+1727341407.430169
+text
+1727341407.910841
+text
+1727341419.277486
+text
+1727341419.614289
+    print(" test ")
+text
+          ^^^^^^^^^^
+1727341419.915885
+KeyError: 'id'
+text
+1727341586.505871
+text
+1727341587.874408
+text
+1727341588.203656

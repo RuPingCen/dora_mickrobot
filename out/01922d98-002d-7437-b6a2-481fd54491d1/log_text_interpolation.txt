@@ -1,0 +1,57 @@
+Traceback (most recent call last):
+  File "/home/crp/dora_project/dora_mickrobot/text_interpolation.py", line 33, in <module>
+ test 
+text
+1727341797.611237
+ test 
+text
+1727341797.929624
+ test 
+text
+1727341798.434606
+ test 
+    #if event["id"] == "keyboard":
+text
+      ^^^^^^^^^^^
+1727341798.932219
+KeyError: 'id'
+ test 
+text
+1727341936.021427
+ test 
+text
+1727341937.366503
+ test 
+text
+1727341937.743923
+ test 
+text
+1727341938.229804
+ test 
+text
+1727341944.430022
+ test 
+text
+1727341944.806739
+ test 
+text
+1727341948.249136
+ test 
+text
+1727342052.605712
+ test 
+text
+1727342096.37314
+ test 
+text
+1727342096.632824
+ test 
+text
+1727342096.828809
+ test 
+text
+1727342097.316293
+ test 
+text
+1727342097.905042
+ test 

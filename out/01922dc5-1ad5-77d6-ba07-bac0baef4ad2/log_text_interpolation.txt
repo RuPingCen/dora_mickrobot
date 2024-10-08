@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/crp/dora_project/dora_mickrobot/text_interpolation.py", line 35, in <module>
+    key_value = event["value"].as_py()
+                ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'pyarrow.lib.StringArray' object has no attribute 'as_py'

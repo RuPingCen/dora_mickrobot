@@ -1,0 +1,29 @@
+[2024-10-07T03:23:10Z INFO  re_sdk_comms::server] Hosting a SDK server over TCP at 0.0.0.0:9876. Connect with the Rerun logging SDK.
+[2024-10-07T03:23:11Z INFO  winit::platform_impl::platform::x11::window] Guessed window scale factor: 1
+[2024-10-07T03:23:11Z WARN  wgpu_hal::vulkan::instance] Unable to find extension: VK_EXT_swapchain_colorspace
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+[2024-10-07T03:23:11Z INFO  egui_wgpu] There were 3 available wgpu adapters: {backend: Vulkan, device_type: IntegratedGpu, name: "Intel(R) Graphics (ADL GT2)", driver: "Intel open-source Mesa driver", driver_info: "Mesa 21.2.6", vendor: 0x8086, device: 0x4626}, {backend: Vulkan, device_type: DiscreteGpu, name: "NVIDIA GeForce RTX 4050 Laptop GPU", driver: "NVIDIA", driver_info: "535.183.01", vendor: 0x10DE, device: 0x28E1}, {backend: Vulkan, device_type: Cpu, name: "llvmpipe (LLVM 12.0.0, 256 bits)", driver: "llvmpipe", driver_info: "Mesa 21.2.6 (LLVM 12.0.0)", vendor: 0x10005}
+[2024-10-07T03:23:11Z INFO  re_sdk_comms::server] New SDK client connected: 127.0.0.1:50446
+[2024-10-07T03:23:11Z INFO  re_sdk_comms::server] New SDK client connected: 127.0.0.1:50454
+[2024-10-07T03:23:11Z INFO  tracing::span] perform;
+[2024-10-07T03:23:11Z INFO  zbus::handshake] write_command; command=Auth(Some(External), Some([49, 48, 48, 48]))
+[2024-10-07T03:23:11Z INFO  tracing::span] read_command;
+[2024-10-07T03:23:11Z INFO  zbus::handshake] write_command; command=NegotiateUnixFD
+[2024-10-07T03:23:11Z INFO  tracing::span] read_command;
+[2024-10-07T03:23:11Z INFO  zbus::handshake] write_command; command=Begin
+[2024-10-07T03:23:11Z INFO  tracing::span] socket reader;
+[2024-10-07T03:23:11Z INFO  tracing::span] perform;
+[2024-10-07T03:23:11Z INFO  zbus::handshake] write_command; command=Auth(Some(External), Some([49, 48, 48, 48]))
+[2024-10-07T03:23:11Z INFO  tracing::span] read_command;
+[2024-10-07T03:23:11Z INFO  zbus::handshake] write_command; command=NegotiateUnixFD
+[2024-10-07T03:23:11Z INFO  tracing::span] read_command;
+[2024-10-07T03:23:11Z INFO  zbus::handshake] write_command; command=Begin
+[2024-10-07T03:23:11Z INFO  tracing::span] socket reader;
+[2024-10-07T03:23:11Z INFO  zbus::connection] {}; obj_server_task_name="ObjectServer task"
+[2024-10-07T03:23:11Z INFO  zbus::object_server] dispatch_message; msg=Msg { type: MethodCall, sender: UniqueName(Str(Borrowed(":1.4"))), path: ObjectPath("/org/a11y/atspi/accessible/root"), iface: InterfaceName(Str(Borrowed("org.freedesktop.DBus.Properties"))), member: MemberName(Str(Borrowed("Set"))), body: Signature("ssv") }
+[2024-10-07T03:23:11Z INFO  zbus::object_server] dispatch_method_call; msg=Msg { type: MethodCall, sender: UniqueName(Str(Borrowed(":1.4"))), path: ObjectPath("/org/a11y/atspi/accessible/root"), iface: InterfaceName(Str(Borrowed("org.freedesktop.DBus.Properties"))), member: MemberName(Str(Borrowed("Set"))), body: Signature("ssv") }
+[2024-10-07T03:23:11Z INFO  zbus::object_server] dispatch_method_call_try; msg=Msg { type: MethodCall, sender: UniqueName(Str(Borrowed(":1.4"))), path: ObjectPath("/org/a11y/atspi/accessible/root"), iface: InterfaceName(Str(Borrowed("org.freedesktop.DBus.Properties"))), member: MemberName(Str(Borrowed("Set"))), body: Signature("ssv") }
+[2024-10-07T03:23:12Z INFO  re_sdk_comms::server] New SDK client connected: 127.0.0.1:50458
+[2024-10-07T03:23:23Z INFO  re_sdk_comms::server] New SDK client connected: 127.0.0.1:52980
+[2024-10-07T03:23:23Z INFO  re_sdk_comms::server] New SDK client connected: 127.0.0.1:52996

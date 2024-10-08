@@ -1,0 +1,55 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1727339601.000828028 s 
+serial data is too short ,  len: 741
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1727339602.000028372 s 
+serial data is too short ,  len: 3025
+ analy uart recive data error ...Twist event count: 3 data_seq null time is: 1727339602.000953913 s 
+serial data is too short ,  len: 2612
+ analy uart recive data error ...Twist event count: 4 data_seq null time is: 1727339603.000715971 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 5 data_seq null time is: 1727339637.000795841 s 
+serial data is too short ,  len: 1352
+ analy uart recive data error ...Twist event count: 6 data_seq null time is: 1727339638.000181437 s 
+serial data is too short ,  len: 1673
+ analy uart recive data error ...Twist event count: 7 data_seq null time is: 1727339638.000715494 s 
+serial data is too short ,  len: 1716
+ analy uart recive data error ...Twist event count: 8 data_seq null time is: 1727339639.000256538 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 9 data_seq null time is: 1727339642.000691652 s 
+serial data is too short ,  len: 2076
+ analy uart recive data error ...Twist event count: 10 data_seq null time is: 1727339643.000333309 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 11 data_seq null time is: 1727339647.000259161 s 
+serial data is too short ,  len: 2613
+ analy uart recive data error ...Twist event count: 12 data_seq null time is: 1727339648.000155449 s 
+serial data is too short ,  len: 3155
+ analy uart recive data error ...Twist event count: 13 data_seq null time is: 1727339649.000175714 s 
+serial data is too short ,  len: 1170
+ analy uart recive data error ...Twist event count: 14 data_seq null time is: 1727339649.000567436 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 15 data_seq null time is: 1727339652.000011921 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 16 data_seq null time is: 1727339655.000359297 s 
+serial data is too short ,  len: 3424
+ analy uart recive data error ...Twist event count: 17 data_seq null time is: 1727339656.000650167 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 18 data_seq null time is: 1727339658.000587940 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 19 data_seq null time is: 1727339676.000576496 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 20 data_seq null time is: 1727339679.000830650 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 21 data_seq null time is: 1727339706.000983715 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 22 data_seq null time is: 1727339709.000339746 s 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

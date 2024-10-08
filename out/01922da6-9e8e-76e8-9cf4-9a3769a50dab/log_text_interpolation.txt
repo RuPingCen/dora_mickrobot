@@ -1,0 +1,18 @@
+ init txt_interpolation
+ test  [
+  "left"
+]
+1727342752.208816
+ test  [
+  "backward"
+]
+1727342752.37432
+ test  [
+  "right"
+]
+1727342752.686719
+ test  [
+  "forward"
+]
+1727342753.053042
+received stop

@@ -1,0 +1,17 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1727343616.000514746 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":1,"stamp":{"nanosec":314105033,"sec":1727343616}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1727343618.000491142 s 
+<----print---->{"angular":{"x":0,"y":0,"z":0},"header":{"frame_id":"keyboard","seq":2,"stamp":{"nanosec":290632009,"sec":1727343618}},"linear":{"x":0,"y":0,"z":0},"seq":null}
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

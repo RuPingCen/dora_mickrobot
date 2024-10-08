@@ -1,0 +1,16 @@
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section'}
+`Qwen2VLRotaryEmbedding` can now be fully parameterized by passing the model config through the `config` argument. All other arguments will be removed in v4.46
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  1.39it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  2.68it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  2.35it/s]
+Traceback (most recent call last):
+  File "/home/crp/anaconda3/bin/dora-qwenvl", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 154, in main
+    raise RuntimeError(event["error"])
+RuntimeError: failed to map shared memory input
+
+Caused by:
+    Opening the shared memory failed, os error 2
+
+Location:
+    apis/rust/node/src/event_stream/event.rs:111:18

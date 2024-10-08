@@ -1,0 +1,34 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1728136156.000299931 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":1,"stamp":{"nanosec":96415996,"sec":1728136156}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+first_time: 1728136156.000300407 s 
+Twist event count: 2 data_seq null time is: 1728136156.000300407 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":2,"stamp":{"nanosec":96554040,"sec":1728136156}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+dt: 0.000000238
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 3 data_seq null time is: 1728136156.000300646 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":3,"stamp":{"nanosec":96616029,"sec":1728136156}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+dt: 0.000000000
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 4 data_seq null time is: 1728136156.000300646 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":4,"stamp":{"nanosec":236603975,"sec":1728136156}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+unrecognize frame 0xac 
+dt: 0.000071287
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 5 data_seq null time is: 1728136156.000372171 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":5,"stamp":{"nanosec":371714115,"sec":1728136156}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+dt: 0.000144005
+  linear_x:  0.000000000  position_y:  0.000000000   linear_w: 0.000000000
+Twist event count: 6 data_seq null time is: 1728136156.000516176 s 
+<----print---->{"angular":{"x":0.0,"y":0.0,"z":0.0},"header":{"frame_id":"keyboard","seq":6,"stamp":{"nanosec":515527009,"sec":1728136156}},"linear":{"x":-0.1,"y":0.0,"z":0.0},"seq":null}
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

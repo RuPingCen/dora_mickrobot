@@ -1,0 +1,43 @@
+recived:  forward
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 1,
+        "stamp": {
+            "sec": 1727345823,
+            "nanosec": 316209077
+        }
+    },
+    "linear": {
+        "x": 0.3,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+recived:  backward
+{
+    "header": {
+        "frame_id": "keyboard",
+        "seq": 2,
+        "stamp": {
+            "sec": 1727345859,
+            "nanosec": 880671024
+        }
+    },
+    "linear": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "angular": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
+received stop

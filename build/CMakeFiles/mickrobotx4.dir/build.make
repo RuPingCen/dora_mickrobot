@@ -80,6 +80,7 @@ mickrobotx4_EXTERNAL_OBJECTS =
 mickrobotx4: CMakeFiles/mickrobotx4.dir/src/mickx4_bringup_v3.cc.o
 mickrobotx4: CMakeFiles/mickrobotx4.dir/build.make
 mickrobotx4: /home/crp/dora/target/release/libdora_node_api_c.a
+mickrobotx4: ../thridpart_lib/serial/build/libserial.so
 mickrobotx4: CMakeFiles/mickrobotx4.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/crp/dora_project/dora_mickrobot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable mickrobotx4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mickrobotx4.dir/link.txt --verbose=$(VERBOSE)

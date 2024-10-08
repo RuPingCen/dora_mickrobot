@@ -1,0 +1,53 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+Twist event count: 1 data_seq null time is: 1727092787.000334263 s 
+Twist event count: 2 data_seq null time is: 1727092787.000394344 s 
+Twist event count: 3 data_seq null time is: 1727092787.000494719 s 
+Twist event count: 4 data_seq null time is: 1727092787.000594378 s 
+Twist event count: 5 data_seq null time is: 1727092787.000694036 s 
+Twist event count: 6 data_seq null time is: 1727092787.000794172 s 
+Twist event count: 7 data_seq null time is: 1727092787.000894785 s 
+Twist event count: 8 data_seq null time is: 1727092787.000994444 s 
+Twist event count: 9 data_seq null time is: 1727092788.000094891 s 
+Twist event count: 10 data_seq null time is: 1727092788.000194550 s 
+Twist event count: 11 data_seq null time is: 1727092788.000294924 s 
+Twist event count: 12 data_seq null time is: 1727092788.000394821 s 
+Twist event count: 13 data_seq null time is: 1727092788.000494957 s 
+Twist event count: 14 data_seq null time is: 1727092788.000594139 s 
+Twist event count: 15 data_seq null time is: 1727092788.000694513 s 
+Twist event count: 16 data_seq null time is: 1727092788.000794888 s 
+Twist event count: 17 data_seq null time is: 1727092788.000894547 s 
+Twist event count: 18 data_seq null time is: 1727092788.000994682 s 
+Twist event count: 19 data_seq null time is: 1727092789.000095129 s 
+Twist event count: 20 data_seq null time is: 1727092789.000193357 s 
+Twist event count: 21 data_seq null time is: 1727092789.000294447 s 
+Twist event count: 22 data_seq null time is: 1727092789.000394821 s 
+Twist event count: 23 data_seq null time is: 1727092789.000494480 s 
+Twist event count: 24 data_seq null time is: 1727092789.000595093 s 
+Twist event count: 25 data_seq null time is: 1727092789.000694513 s 
+Twist event count: 26 data_seq null time is: 1727092789.000794888 s 
+Twist event count: 27 data_seq null time is: 1727092789.000895500 s 
+Twist event count: 28 data_seq null time is: 1727092789.000995159 s 
+Twist event count: 29 data_seq null time is: 1727092790.000094414 s 
+Twist event count: 30 data_seq null time is: 1727092790.000194788 s 
+Twist event count: 31 data_seq null time is: 1727092790.000294447 s 
+Twist event count: 32 data_seq null time is: 1727092790.000395060 s 
+Twist event count: 33 data_seq null time is: 1727092790.000494719 s 
+Twist event count: 34 data_seq null time is: 1727092790.000595093 s 
+Twist event count: 35 data_seq null time is: 1727092790.000694036 s 
+Twist event count: 36 data_seq null time is: 1727092790.000794888 s 
+Twist event count: 37 data_seq null time is: 1727092790.000894547 s 
+Twist event count: 38 data_seq null time is: 1727092790.000994921 s 
+Twist event count: 39 data_seq null time is: 1727092791.000095606 s 
+Twist event count: 40 data_seq null time is: 1727092791.000194788 s 
+Twist event count: 41 data_seq null time is: 1727092791.000295162 s 
+Twist event count: 42 data_seq null time is: 1727092791.000394821 s 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

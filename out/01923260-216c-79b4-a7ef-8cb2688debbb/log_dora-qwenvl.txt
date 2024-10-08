@@ -1,0 +1,51 @@
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section'}
+`Qwen2VLRotaryEmbedding` can now be fully parameterized by passing the model config through the `config` argument. All other arguments will be removed in v4.46
+/home/crp/anaconda3/lib/python3.11/site-packages/accelerate/utils/modeling.py:1405: UserWarning: Current model requires 3752 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 14.35it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 14.33it/s]
+/home/crp/anaconda3/lib/python3.11/site-packages/accelerate/utils/modeling.py:1405: UserWarning: Current model requires 7504 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+/home/crp/anaconda3/lib/python3.11/site-packages/transformers/generation/utils.py:1935: UserWarning: You are calling .generate() with the `input_ids` being on a device type different than your model's device. `input_ids` is on cuda, whereas the model is on cpu. You may experience unexpected behaviors or slower generation. Please make sure that you have put `input_ids` to the correct device by calling for example input_ids = input_ids.to('cpu') before running `.generate()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/crp/anaconda3/bin/dora-qwenvl", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 132, in main
+    response = generate(frames, question)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 74, in generate
+    generated_ids = model.generate(**inputs, max_new_tokens=128)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/transformers/generation/utils.py", line 2048, in generate
+    result = self._sample(
+             ^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/transformers/generation/utils.py", line 3008, in _sample
+    outputs = self(**model_inputs, return_dict=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/transformers/models/qwen2_vl/modeling_qwen2_vl.py", line 1688, in forward
+    inputs_embeds = self.model.embed_tokens(input_ids)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/nn/modules/sparse.py", line 164, in forward
+    return F.embedding(
+           ^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/torch/nn/functional.py", line 2267, in embedding
+    return torch.embedding(weight, input, padding_idx, scale_grad_by_freq, sparse)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0! (when checking argument for argument index in method wrapper_CUDA__index_select)
+[2m2024-09-27T07:27:23.845514Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m timeout while waiting for event stream thread

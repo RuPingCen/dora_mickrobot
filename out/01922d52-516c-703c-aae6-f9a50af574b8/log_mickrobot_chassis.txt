@@ -1,0 +1,37 @@
+Mickrobotx4 -v3 for dora 
+dev:   /dev/ttyUSB0
+baud:   115200
+time_out:   1000
+hz:   100
+is_pub_path:   0	  0:No  1:Yes
+chassis_type:   0	  0:X4  1:M4  2: Ackermann  3:4WS4WD
+Serial Port opened
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 1 data_seq null time is: 1727337225.000268221 s 
+serial data is too short ,  len: 1907
+ analy uart recive data error ...Twist event count: 2 data_seq null time is: 1727337226.000051022 s 
+serial data is too short ,  len: 1482
+ analy uart recive data error ...Twist event count: 3 data_seq null time is: 1727337226.000673056 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 4 data_seq null time is: 1727337228.000738859 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 5 data_seq null time is: 1727337233.000508070 s 
+serial data is too short ,  len: 4095
+ analy uart recive data error ...Twist event count: 6 data_seq null time is: 1727337236.000134706 s 
+serial data is too short ,  len: 2059
+ analy uart recive data error ...Twist event count: 7 data_seq null time is: 1727337236.000974417 s 
+serial data is too short ,  len: 2725
+ analy uart recive data error ...Twist event count: 8 data_seq null time is: 1727337238.000138283 s 
+serial data is too short ,  len: 2245
+ analy uart recive data error ...Twist event count: 9 data_seq null time is: 1727337239.000057936 s 
+serial data is too short ,  len: 1053
+ analy uart recive data error ...Twist event count: 10 data_seq null time is: 1727337239.000510216 s 
+serial data is too short ,  len: 1192
+ analy uart recive data error ...Twist event count: 11 data_seq null time is: 1727337240.000026464 s 
+serial data is too short ,  len: 1052
+ analy uart recive data error ...Twist event count: 12 data_seq null time is: 1727337240.000429869 s 
+serial data is too short ,  len: 517
+ analy uart recive data error ...Twist event count: 13 data_seq null time is: 1727337240.000679493 s 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit Mickrobotx4 node ...

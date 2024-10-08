@@ -1,0 +1,22 @@
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section'}
+`Qwen2VLRotaryEmbedding` can now be fully parameterized by passing the model config through the `config` argument. All other arguments will be removed in v4.46
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 15.44it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 15.42it/s]
+Traceback (most recent call last):
+  File "/home/crp/anaconda3/bin/dora-qwenvl", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 132, in main
+    response = generate(frames, question)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/dora_qwenvl/main.py", line 71, in generate
+    inputs = inputs.to("cuda")
+             ^^^^^^^^^^^^^^^^^
+  File "/home/crp/anaconda3/lib/python3.11/site-packages/transformers/feature_extraction_utils.py", line 244, in to
+    new_data[k] = v.to(device=device)
+                  ^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[2m2024-10-06T09:03:40.868139Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m timeout while waiting for event stream thread
