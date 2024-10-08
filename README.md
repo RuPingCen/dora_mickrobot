@@ -18,11 +18,18 @@ The mickrobot_chassis node is implemented based on C/C++. This node gets keyboar
 
 ###   mickrobot_chassis node usage ：
 
-step1：you should check dora  path in  “dora_mickrobot/CMakeLists.txt" line 47、48、60  and line 61 for mickrobot_chassis node path.
+**step1**：you should check dora  path in  “dora_mickrobot/CMakeLists.txt" line 47、48、60  and line 61 for mickrobot_chassis node path.   Then install dependency libraries using the following command
+
+```
+sudo apt-get install nlohmann-json3-dev
+sudo apt-get install clang
+```
+
+and the ROS2 is necessary.
 
 
 
-step2：unzip and build  thridpart_lib serial
+**step2**：unzip and build  thridpart_lib serial
 
 ```
 cd dora_mickrobot\thridpart_lib
@@ -30,10 +37,10 @@ unzip  serial.zip
 cd serial 
 mkdir build
 cmake ..
-make
+sudo make install
 ```
 
-step3： build chassis node 
+**step3**： build chassis node 
 
 ```
 cd dora_mickrobot
@@ -42,7 +49,7 @@ cmake ..
 make
 ```
 
-step4： Grant permissions to the serial port
+**step4**： Grant permissions to the serial port
 
 ```
 sudo chmod 777 /dev/ttyUSB0

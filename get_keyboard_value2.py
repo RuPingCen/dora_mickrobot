@@ -22,63 +22,63 @@ speed_value_ratio = None
 
 def on_press(key):
     global key_value, key_press_flag, speed_value_ratio
-
+    key_value = ''
     try:
         if key.char == 'w':
             key_value = 'forward'
             key_press_flag = 1
-            print("Moving forward")
+            print("Moving forward",flush = True )
         elif key.char == 'a':
             key_value = 'left'
             key_press_flag = 1
-            print("Turning left")
+            print("Turning left",flush = True )
         elif key.char == 'd':
             key_value = 'right'
             key_press_flag = 1
-            print("Turning right")
+            print("Turning right",flush = True )
         elif key.char == 'x':
             key_value = 'back'
             key_press_flag = 1
-            print("Moving back")
+            print("Moving back",flush = True )
         elif key.char == '1':
             speed_value_ratio = 1
             key_press_flag = 1
-            print("Speed value ratio set to 1")
+            print("Speed value ratio set to 1",flush = True )
         elif key.char == '2':
             speed_value_ratio = 2
             key_press_flag = 1
-            print("Speed value ratio set to 2")
+            print("Speed value ratio set to 2",flush = True )
         elif key.char == '3':
             speed_value_ratio = 3
             key_press_flag = 1
-            print("Speed value ratio set to 3")
+            print("Speed value ratio set to 3",flush = True )
         elif key.char == 's':
             key_value = 'stop'
             key_press_flag = 1
-            print("Stopping")
+            print("Stopping",flush = True )
         elif key.char == 'q':
             key_value = 'quit'
             key_press_flag = 1
-            print("Quitting")
+            print("Quitting",flush = True )
             return False  # 停止监听
 
     except AttributeError:
         if key == keyboard.Key.up:
             key_value = 'forward'
             key_press_flag = 1
-            print("Arrow key up")
+            print("Arrow key up",flush = True )
         elif key == keyboard.Key.left:
             key_value = 'left'
             key_press_flag = 1
-            print("Arrow key left")
+            print("Arrow key left",flush = True )
         elif key == keyboard.Key.right:
             key_value = 'right'
             key_press_flag = 1
-            print("Arrow key right")
+            print("Arrow key right",flush = True )
         elif key == keyboard.Key.down:
             key_value = 'back'
             key_press_flag = 1
-            print("Arrow key down")
+            print("Arrow key down",flush = True )
             
 
 # 打印指示信息
@@ -112,7 +112,7 @@ try:
             if key_value == 'quit':
                 break
             elif key_value == 'forward':
-                linear_x = 1*speed_value_ratio
+                linear_x = 0.2*speed_value_ratio
                 key_press_flag = 0
                 cnt_flag = 0
             elif key_value == 'left':
@@ -124,10 +124,19 @@ try:
                 key_press_flag = 0
                 cnt_flag = 0
             elif key_value == 'back':
-                linear_x = -1*speed_value_ratio
+                linear_x = -0.2*speed_value_ratio
                 key_press_flag = 0
                 cnt_flag = 0
             elif key_value == 'stop':
+                linear_x = 0
+                linear_y = 0
+                linear_z = 0
+                angular_x =0
+                angular_y =0
+                angular_z =0
+                key_press_flag = 0
+                cnt_flag = 0
+            else:
                 linear_x = 0
                 linear_y = 0
                 linear_z = 0
@@ -140,12 +149,7 @@ try:
             if key_press_flag == 0 :
                 cnt_flag = cnt_flag + 1
             if cnt_flag > 5:
-                linear_x = 0
-                linear_y = 0
-                linear_z = 0
-                angular_x =0
-                angular_y =0
-                angular_z =0
+                key_value = ''
 
             timestamp = datetime.now().timestamp()# 获取当前时间
             #timestamp_ms = round(datetime.now().timestamp() * 1000)# 转换为毫秒格式
@@ -178,7 +182,7 @@ try:
     
             #print("counter: ",self.cnt1 ,"NavSatFix  pub time: ", timestamp_ms)# 打印时间戳（毫秒）
             
-            key_value = None
+            key_value = ''
             #time.sleep(0.02)
         elif event_type == "STOP":
             print("received stop")
